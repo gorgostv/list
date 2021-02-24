@@ -131,7 +131,7 @@ http://plmgr-bridgemedia.cdnvideo.ru/bridge_rus_hit/playlist.m3u8
 #EXTGRP:Музыка
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1,Музыка Первого
-EXTGRP:Музыка
+#EXTGRP:Музыка
 http://178.163.25.166:4022/udp/234.0.0.182:2000
 #EXTINF:-1,Radio Monte Carlo TV
 #EXTGRP:Музыка
@@ -444,3 +444,13 @@ http://188.35.9.11:2015
 http://ott.ipstream.one:80/zh4QiEdO7b/o94PvvyhQj/278
 
 */test
+
+#EXTINF:-1,Bridge TV
+#EXTGRP:Тест
+http://ott-cdn.ucom.am/s34/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Bridge TV
+#EXTGRP:Тест
+http://ott-cdn.ucom.am/s34/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+#EXTGRP:Тест
+http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
