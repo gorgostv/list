@@ -130,6 +130,9 @@ http://plmgr-bridgemedia.cdnvideo.ru/bridge_rus_hit/playlist.m3u8
 #EXTINF:-1,VIVA
 #EXTGRP:Музыка
 http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1,Музыка Первого
+EXTGRP:Музыка
+http://178.163.25.166:4022/udp/234.0.0.182:2000
 #EXTINF:-1,Radio Monte Carlo TV
 #EXTGRP:Музыка
 http://tv.105.net:1935/live/rmc3/playlist.m3u8
