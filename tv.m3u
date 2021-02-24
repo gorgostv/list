@@ -1,118 +1,118 @@
 
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 #EXTINF:-1,Первый
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1,Россия 1
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 24
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,НТВ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
 #EXTINF:-1,СТС
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,СТС International
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1,СТС Love
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_STSLOVE_2/bw2000000/variant.m3u8
 #EXTINF:-1,Пятница!
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Че!
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
 #EXTINF:-1,Рен ТВ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1,Супер
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ-4
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Дождь HD
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 https://strm.yandex.ru/kal/tvrain/tvrain0_169_480p.json/index-v1-a1.m3u8?version=2
 #EXTINF:-1,Пятый
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://92.127.248.128:1234/udp/225.54.223.156:5000
 #EXTINF:-1,Россия Культура
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,ТВ-3
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ОТР
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://vs322.vcdn.biz/6702b90d26a9893506c499d0af1d6a58_megogo/vod/fs/o/41139191/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid267989325-b2490000.m3u8
 #EXTINF:-1,ТВЦ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
 #EXTINF:-1,Звезда
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Победа HD
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://158.46.79.254:81/udp/239.255.42.143:1234
 #EXTINF:-1,РБК ТВ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,МИГ ТВ HD (Ноябрьск)
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://live-migtv.cdnvideo.ru/migtv/migtv.sdp/playlist.m3u8
 #EXTINF:-1,Ноябрьск 24
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8
 #EXTINF:-1,Арктика 24
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8?version=2
 #EXTINF:-1,Ямал-Регион (Салехард)
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1,Домашний
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Ретро ТВ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://91.219.88.18:45125/retro/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ностальгия
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8?version=2?q=?seg-user-zona-iptv.ru-v1-a1.m3u
 #EXTINF:-1,МАТЧ! ТВ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ОРТ Планета
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://pull-media56.cdnvideo.ru/media56-pull/ortoren/playlist.m3u8
 #EXTINF:-1,Москва 24
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,360° Новости
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1-a1.m3u8
 #EXTINF:-1,Центральное телевидение
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://ott-cdn.ucom.am/s20/04.m3u8
 #EXTINF:-1,Точка ТВ
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
 #EXTINF:-1,Евроновости
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1,CNN International
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,BBC World News
-#EXTGRP:Федералы
+#EXTGRP:ЦТВ
 http://ott-cdn.ucom.am/s24/index.m3u8
 
 #EXTINF:-1,Bridge TV
