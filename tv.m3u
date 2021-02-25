@@ -461,13 +461,6 @@ http://ott-cdn.ucom.am/s34/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
-
-#EXTINF:-1,СТС
+#EXTINF:-1,BRIDGE TV Hits 
 #EXTGRP:Тест
-http://94.230.112.175:81/udp/239.1.20.66:1234
-#EXTINF:-1,CTC Love
-#EXTGRP:Тест
-http://94.230.112.175:81/udp/239.1.20.67:1234
-#EXTINF:-1,ЧЕ
-#EXTGRP:Тест
-http://94.230.112.175:81/udp/239.1.20.68:1234
+http://mhd.iptv2022.com/p/chwGLdXsJE4qL3bqe2EJmA,1608050309/streaming/br.dance/324/variable.m3u8
