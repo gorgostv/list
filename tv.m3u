@@ -115,6 +115,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/bw2000000/variant.m
 #EXTGRP:ЦТВ
 http://ott-cdn.ucom.am/s24/index.m3u8
 
+#EXTINF:-1 ,1 MUSIC CHANNEL
+#EXTGRP:Музыка 
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w243000391.m3u8
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
 https://plmgr-bridgemedia.cdnvideo.ru/bridge_tv/1/chunklist.m3u8?instance_id=02&session_id=8db61766ca8548eca27e9de365ee9c54&subscriber_id=df6af30c8e544e3ca840e9455dfde701
