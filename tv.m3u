@@ -457,3 +457,8 @@ http://ott-cdn.ucom.am/s34/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,Bridge TV Русский хит
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+
+
+#EXTINF:-1,GIT CHENELS
+#EXTGRP:Тест
+https://iptv-org.github.io/iptv/categories/music.m3u
