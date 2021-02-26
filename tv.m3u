@@ -6,6 +6,9 @@ https://edge2.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd?e=1614316315
 #EXTINF:-1,Россия 1
 #EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия РТР
+#EXTGRP:ЦТВ
+https://a3569455888-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 24
 #EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
