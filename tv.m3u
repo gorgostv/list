@@ -461,6 +461,10 @@ http://ott-cdn.ucom.am/s34/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
+#EXTINF:-1,Vostok TV
+#EXTGRP:Тест
+http://195.154.250.109:8080/live/cdn_Top/cdn_911info/489.m3u8?token=T0AKUktfQQsTWQFXBgYIBAAKAQ0EDwdVCwQEBFwAAgIBVlAKXg8FAQdDG0RGR0NVAFVpXQYUClEKDxoVEUsGRGsLBhECFVEIBVQVShdHWF0EGgwEThRADFYUDBVVC1IFAkBOEV1PF1RDD1YKaldURghbUxZYWEUJXhoUWApnB1NZAwxXGg1BARNNFQ9GQxMKD01aWE4UUgxGRFdDARpZFAVXUQYaG0FSXhRZEkdKEwpDbWwWThRVHUZTWEQNVw0UDkAPAE0PQR0TCEQ5R1ZCRBNdV1kHRBJfEAYUG0ZVAk5rAQ1dVlIARVgOWRUXCRMAQxQUWQ1YWRFdRGlHDVxBDBZQUgUOBkFM
+
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Музыка",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Музыка",1HD Music Television
