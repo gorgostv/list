@@ -14,7 +14,7 @@ https://a3569455888-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,НТВ
 #EXTGRP:ЦТВ
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
+https://ext-strm-uztc01.strm.yandex.net/vh-canvas-converted/vod-content/1494035861898116490_169_720p.webm?noredir=1&lid=212
 #EXTINF:-1,СТС
 #EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
