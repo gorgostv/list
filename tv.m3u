@@ -122,15 +122,18 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
 https://mhd.iptv2022.com/p/KEB-Ik8BSq0x8i4pnidimg,1614442347/streaming/bridgetv/324/variable.m3u8
-#EXTINF:-1,Bridge TV Classic
+#EXTINF:-1,Bridge TV Hits
 #EXTGRP:Музыка
-https://mhd.iptv2022.com/p/oTTm17FqneCzDfOswlxwBA,1614442347/streaming/br.classic/324/vm2w/playlist.m3u8
+https://mhd.iptv2022.com/p/M-kyykgUnzJjxy3NU46QZw,1614447030/streaming/br.dance/324/vm2w/playlist.m3u8
 #EXTINF:-1,Bridge TV Dance
 #EXTGRP:Музыка
 https://plmgr-bridgemedia.cdnvideo.ru/bridge_dance/1/chunklist.m3u8?instance_id=02&session_id=411dc5651e8d4b06a2983f3ae609c2d0&subscriber_id=ae86c66f943941c99f3297e2f2c09d42
 #EXTINF:-1,Bridge TV Русский хит
 #EXTGRP:Музыка
 https://mhd.iptv2022.com/p/TUBZiaxWWIN6BkwksS1b8g,1614445999/streaming/br.rushit/324/vm2w/playlist.m3u8
+#EXTINF:-1,Bridge TV Classic
+#EXTGRP:Музыка
+https://mhd.iptv2022.com/p/oTTm17FqneCzDfOswlxwBA,1614442347/streaming/br.classic/324/vm2w/playlist.m3u8
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
 http://178.163.25.166:4022/udp/234.0.0.182:2000
@@ -140,15 +143,14 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыка
 https://mhd.iptv2022.com/p/Irmz-uVJZe5j0fbkdN7rDQ,1614446338/streaming/tntmusic/324/vm2w/playlist.m3u8
-#EXTINF:-1,1HD Music Television
-#EXTGRP:Музыка
-http://1mstream.digicable.hu/stream/1music.m3u8
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
 #EXTINF:-1,Rock TV
 #EXTGRP:Музыка
 http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
+
+############################################################################################################
 
 #EXTINF:-1,Discovery Channel
 #EXTGRP:Познавательные
