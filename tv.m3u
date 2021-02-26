@@ -133,7 +133,7 @@ https://mhd.iptv2022.com/p/TUBZiaxWWIN6BkwksS1b8g,1614445999/streaming/br.rushit
 https://mhd.iptv2022.com/p/oTTm17FqneCzDfOswlxwBA,1614442347/streaming/br.classic/324/vm2w/playlist.m3u8
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
-http://178.163.25.166:4022/udp/234.0.0.182:2000
+https://s20585.glaz.tv:8082/liveg/muzika.stream/chunks.m3u8?nimblesessionid=1730182311&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIxIDU6NDc6MTAgUE0maGFzaF92YWx1ZT1ueVRzMmVFdGx2STk4NVpiMzlhUUtnPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,Deejay TV
 #EXTGRP:Музыка
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
@@ -143,6 +143,9 @@ https://mhd.iptv2022.com/p/Irmz-uVJZe5j0fbkdN7rDQ,1614446338/streaming/tntmusic/
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
+#EXTINF:-1,Vostok TV
+#EXTGRP:Музыка
+https://mhd.iptv2022.com/p/1byr2UwNrynWMAXdUxCMcw,1614447404/streaming/tmb/324/vm2w/playlist.m3u8
 #EXTINF:-1,Rock TV
 #EXTGRP:Музыка
 http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
@@ -428,9 +431,6 @@ http://ott-cdn.ucom.am/s34/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
-#EXTINF:-1,Vostok TV
-#EXTGRP:Тест
-http://195.154.250.109:8080/live/cdn_Top/cdn_911info/489.m3u8?token=T0AKUktfQQsTWQFXBgYIBAAKAQ0EDwdVCwQEBFwAAgIBVlAKXg8FAQdDG0RGR0NVAFVpXQYUClEKDxoVEUsGRGsLBhECFVEIBVQVShdHWF0EGgwEThRADFYUDBVVC1IFAkBOEV1PF1RDD1YKaldURghbUxZYWEUJXhoUWApnB1NZAwxXGg1BARNNFQ9GQxMKD01aWE4UUgxGRFdDARpZFAVXUQYaG0FSXhRZEkdKEwpDbWwWThRVHUZTWEQNVw0UDkAPAE0PQR0TCEQ5R1ZCRBNdV1kHRBJfEAYUG0ZVAk5rAQ1dVlIARVgOWRUXCRMAQxQUWQ1YWRFdRGlHDVxBDBZQUgUOBkFM
 
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Музыка",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
