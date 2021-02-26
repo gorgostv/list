@@ -118,12 +118,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/bw2000000/variant.m
 #EXTGRP:ЦТВ
 http://ott-cdn.ucom.am/s24/index.m3u8
 
-#EXTINF:-1 ,1 MUSIC CHANNEL
-#EXTGRP:Музыка 
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w243000391.m3u8
+##################################################################################################################
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
-https://plmgr-bridgemedia.cdnvideo.ru/bridge_tv/1/chunklist.m3u8?instance_id=02&session_id=8db61766ca8548eca27e9de365ee9c54&subscriber_id=df6af30c8e544e3ca840e9455dfde701
+https://mhd.iptv2022.com/p/KEB-Ik8BSq0x8i4pnidimg,1614442347/streaming/bridgetv/324/variable.m3u8
 #EXTINF:-1,Bridge TV Classic
 #EXTGRP:Музыка
 https://mhd.iptv2022.com/p/oTTm17FqneCzDfOswlxwBA,1614442347/streaming/br.classic/324/vm2w/playlist.m3u8
@@ -132,49 +130,16 @@ https://mhd.iptv2022.com/p/oTTm17FqneCzDfOswlxwBA,1614442347/streaming/br.classi
 https://plmgr-bridgemedia.cdnvideo.ru/bridge_dance/1/chunklist.m3u8?instance_id=02&session_id=411dc5651e8d4b06a2983f3ae609c2d0&subscriber_id=ae86c66f943941c99f3297e2f2c09d42
 #EXTINF:-1,Bridge TV Русский хит
 #EXTGRP:Музыка
-http://plmgr-bridgemedia.cdnvideo.ru/bridge_rus_hit/playlist.m3u8
-#EXTINF:-1,VIVA
-#EXTGRP:Музыка
-http://85.143.202.116/hls/viva.m3u8
+https://mhd.iptv2022.com/p/TUBZiaxWWIN6BkwksS1b8g,1614445999/streaming/br.rushit/324/vm2w/playlist.m3u8
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
 http://178.163.25.166:4022/udp/234.0.0.182:2000
-#EXTINF:-1,Radio Monte Carlo TV
-#EXTGRP:Музыка
-http://tv.105.net:1935/live/rmc3/playlist.m3u8
-#EXTINF:-1,Buy Home TV HD
-#EXTGRP:Музыка
-http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
-#EXTINF:-1,Russian Music Box
-#EXTGRP:Музыка
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1,Music Box Gold
-#EXTGRP:Музыка
-http://194.28.155.10:81/udp/225.0.55.199:1234
-#EXTINF:-1,NRJ Hits TV HD
-#EXTGRP:Музыка
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1,Hit Music Channel
-#EXTGRP:Музыка
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,1HD Music TV (SD)
-#EXTGRP:Музыка
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/bw5000000/variant.m3u8?version=2
 #EXTINF:-1,Deejay TV
 #EXTGRP:Музыка
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,Fresh TV
-#EXTGRP:Музыка
-http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
-#EXTINF:-1,Europa Plus TV
-#EXTGRP:Музыка
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,CGTN Русский
-#EXTGRP:Музыка
-http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыка
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/bw2000000/variant.m3u8?version=2
+https://mhd.iptv2022.com/p/Irmz-uVJZe5j0fbkdN7rDQ,1614446338/streaming/tntmusic/324/vm2w/playlist.m3u8
 #EXTINF:-1,1HD Music Television
 #EXTGRP:Музыка
 http://1mstream.digicable.hu/stream/1music.m3u8
