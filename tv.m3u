@@ -41,7 +41,7 @@ https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
 https://mix.streamsport.net/hls/tnt4/chunks.m3u8?nimblesessionid=412770&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDM6NDQ6MDMgQU0maGFzaF92YWx1ZT1wcCtwYkZGQXI2MTNEbVBjYkwxRlJnPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1,Дождь
 #EXTGRP:ЦТВ
-https://www.youtube.com/channel/UCdubelOloxR3wzwJG9x8YqQ
+http://s2.ttranslit.com:8081/rain/index.m3u8?wmsAuthSign=1614417523S89f470061b59e826730cf4455d327005S771h501h512h28
 #EXTINF:-1,ТВ-3
 #EXTGRP:ЦТВ
 https://dx.streamsport.net/hls/tv3_hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDQ6MDk6NTUgQU0maGFzaF92YWx1ZT1CajNldTkwd0xlNFBEajdLOXV1eURRPT0mdmFsaWRtaW51dGVzPTE0NDA=
