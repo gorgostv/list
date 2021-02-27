@@ -213,6 +213,9 @@ http://178.49.241.78:81/udp/239.1.2.12:1234
 #EXTGRP:Познавательные
 https://rushd2.canlitvplayer.com/myplanet/index.m3u8?token=2in7O5a1tS97P45pAFiW-j2lklejWfb1xUB5YF--ZgRpmuyxK7nSUr-3mLQu6YNrSFL_3tH0pOGRUhiZGF-jvXyvxU1_lc1M9btn0Ay_z62ZfeYSeyawhwd460nLWzuzeirmUW6D58iDQ3Ph57asHAlohytNfkQoROkPcyFJVSjJhxU6u92PlU_kfkZapNB3qgIR5cB1wODxguDC7A-uHWGn58jo3tV1yPJuoQ6V0zvAjgZPqn3_V1OnmNft0vQo
 
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино
+https://rushd.canlitvplayer.com/kinosemya/tracks-v1a1/2021/02/27/06/22/13-06000.ts?token=acjqzcK4umIoV0iaXu6wKqUN18IbaNy2zSVLw5ChFwDZLP5jy-pSgjdwFn8oLQ4UiO-Cf86U8x1tXwmOUPqDwVEdgMWuX1Ddx07F4ugEnAv4UWTwQ9c3VN_djXRmNUUgQHTqwe1EQvEHVk_uF5T8dU0w3Un0dzpOOsVBVoLYuMGX2Vnw2jDDdO_E51Rq7Z2nisO0BP0TFSLsaxjEtxuafg8U_cEvLTGrRHerf5hbk5Tes0fIJ118MKw_I1RNCuUF
 #EXTINF:-1,Мужское кино HD
 #EXTGRP:Кино
 http://185.226.244.171:81/udp/239.195.5.9:1234
@@ -355,9 +358,6 @@ http://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u
 #EXTINF:-1,Кинохит FHD
 #EXTGRP:Кино
 http://77.245.98.22:8000/play/321/index.m3u8
-#EXTINF:-1,Киносемья FHD
-#EXTGRP:Кино
-http://86.57.225.245:7015/play/a00p
 #EXTINF:-1,Дом Кино Премиум FHD
 #EXTGRP:Кино
 http://tvport.it-tele.net:8000/66b737995212187db9a8bb26bdb4ba02
