@@ -57,18 +57,9 @@ http://158.46.79.254:81/udp/239.255.42.143:1234
 #EXTINF:-1,РБК ТВ
 #EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1,МИГ ТВ HD (Ноябрьск)
+#EXTINF:-1 ,Перец international
 #EXTGRP:ЦТВ
-http://live-migtv.cdnvideo.ru/migtv/migtv.sdp/playlist.m3u8
-#EXTINF:-1,Ноябрьск 24
-#EXTGRP:ЦТВ
-http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8
-#EXTINF:-1,Арктика 24
-#EXTGRP:ЦТВ
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8?version=2
-#EXTINF:-1,Ямал-Регион (Салехард)
-#EXTGRP:ЦТВ
-http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+http://178.124.182.25:7004/play/a00c
 #EXTINF:-1,Домашний
 #EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
