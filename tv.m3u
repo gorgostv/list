@@ -57,9 +57,9 @@ http://158.46.79.254:81/udp/239.255.42.143:1234
 #EXTINF:-1,РБК ТВ
 #EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 ,Перец international
+#EXTINF:-1 ,Перец
 #EXTGRP:ЦТВ
-http://178.124.182.25:7004/play/a00c
+https://rushd.canlitvplayer.com/perec/tracks-v1a1/mono.m3u8?token=wXVxGWPiVBQ87qw3lLF9zjX5OtcVbUOR6Fo42kEo3G80TD8fmYqwd1Wk4VOhPlwX5tKiAd3oIK1kNwxQPqhRcugxTMZ9cFBGinLBwB5FeatMIy_6magrYazA1EHL8vlx5toY2p_I8_nFVSGCn3Qfu6Us8bvS-HpjVUl5W1yV0hBIe4Kxf_j9_6NK_3EHqUGzGNhLWrDRb1yNCebBwcEWZaXGCGUDqgA9fCtzZPizK6Mn9-y5923tqkwr0h0titC8
 #EXTINF:-1,Домашний
 #EXTGRP:ЦТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
