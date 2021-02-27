@@ -38,10 +38,10 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
 #EXTGRP:ЦТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ-4
+https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
+#EXTINF:-1,ТНТ 4
 #EXTGRP:ЦТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
+https://mix.streamsport.net/hls/tnt4/chunks.m3u8?nimblesessionid=412770&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDM6NDQ6MDMgQU0maGFzaF92YWx1ZT1wcCtwYkZGQXI2MTNEbVBjYkwxRlJnPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1,Дождь
 #EXTGRP:ЦТВ
 https://www.youtube.com/channel/UCdubelOloxR3wzwJG9x8YqQ
