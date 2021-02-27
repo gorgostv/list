@@ -42,18 +42,12 @@ https://mix.streamsport.net/hls/tnt4/chunks.m3u8?nimblesessionid=412770&wmsAuthS
 #EXTINF:-1,Дождь
 #EXTGRP:ЦТВ
 https://www.youtube.com/channel/UCdubelOloxR3wzwJG9x8YqQ
-#EXTINF:-1,Пятый
-#EXTGRP:ЦТВ
-http://92.127.248.128:1234/udp/225.54.223.156:5000
-#EXTINF:-1,Россия Культура
-#EXTGRP:ЦТВ
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,ТВ-3
 #EXTGRP:ЦТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2
+https://dx.streamsport.net/hls/tv3_hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDQ6MDk6NTUgQU0maGFzaF92YWx1ZT1CajNldTkwd0xlNFBEajdLOXV1eURRPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1,ОТР
 #EXTGRP:ЦТВ
-http://vs322.vcdn.biz/6702b90d26a9893506c499d0af1d6a58_megogo/vod/fs/o/41139191/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid267989325-b2490000.m3u8
+https://bl.webcaster.pro/media/playlist/free_1c89b4b8c5bd3fbb8096d4630ab999ce_hd/5_1585122629/240p/75b2bb65f4db06a119afbcd54ce4bc27/1614442441.m3u8?seek=1614399196&live=15&ref=https%3A%2F%2Fotr-online.ru%2F
 #EXTINF:-1,ТВЦ
 #EXTGRP:ЦТВ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
