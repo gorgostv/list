@@ -418,7 +418,9 @@ https://strm.yandex.ru/kal/aiva/ysign1=6d02d42f54550bacc7d3d734e7f1484f526b7538f
 #EXTINF:-1,Music Box Gold
 #EXTGRP:Тест
 https://strm.yandex.ru/kal/musicboxgold/ysign1=4093854d8bf4d2c1595c4a903d653c074c090023ee77ff5e8cca9006696373b9,abcID=1558,end=1614409200,from=partner,pfx,region=171,sfx,start=1614399300,ts=603b2356/manifest.mpd?adsid=5b33935eb770a78bf000dd498a5c2df7b40e3da2b3f4xWEBx6416x1614402007&audio_mbr=1&brand-safety-categories=%5B%5D&channel_id=642&clid=495&content_id=422dbf591c282551855185cedf67c5a1&from=partner&from_block=other&gzip=1&imp-id=undefined&imp_id=1&offset=15&partner-id=412270&partner_id=412270&preview=1&reqid=1614402006207747-4193570813972740512&slots=null&start=1614399300&target_ref=https%3A%2F%2Fyastatic.net%2Fyandex-video-player-iframe-api%2Fjs%2Fplayer-api-adapter-loader.js&uuid=422dbf591c282551855185cedf67c5a1&video-category-id=1017&video_category_id=1017&vsid=36e5185c476b60efaf0e7bdd47c90b37bba925712875xWEBx6416x1614402007&yandexuid=8640902281613221198
-
+#EXTINF:-1,Movies GIThab
+#EXTGRP:Тест
+https://iptv-org.github.io/iptv/categories/movies.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Музыка",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
