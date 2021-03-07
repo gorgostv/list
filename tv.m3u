@@ -32,10 +32,13 @@ https://dx.streamsport.net/hls/che/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1,Супер
 #EXTGRP:ЦТВ
-https://new.streamsport.net/hls/super/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDQ6MDU6MTIgQU0maGFzaF92YWx1ZT1MaXAvb1FtWkw2MzdVR040eWp6YVFRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+http://178.163.58.188:4022/udp/234.0.0.100:2000
 #EXTINF:-1,ТНТ
 #EXTGRP:ЦТВ
 https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
+#EXTINF:-1,ТНТ HD
+#EXTGRP:ЦТВ
+http://37.193.162.6:4022/udp/239.1.21.55:1234
 #EXTINF:-1,ТНТ 4
 #EXTGRP:ЦТВ
 https://mix.streamsport.net/hls/tnt4/chunks.m3u8?nimblesessionid=412770&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDM6NDQ6MDMgQU0maGFzaF92YWx1ZT1wcCtwYkZGQXI2MTNEbVBjYkwxRlJnPT0mdmFsaWRtaW51dGVzPTE0NDA=
