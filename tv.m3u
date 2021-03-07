@@ -29,31 +29,40 @@ http://91.201.177.2:2517/udp/239.192.4.95:2121
 #EXTINF:-1,VIP Serial
 #EXTGRP:Кино
 http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
-#EXTINF:-1,Кинохит HD
+#EXTINF:-1,Кинопремьера
+#EXTGRP:Кино
+http://ygk.info/stream/NHZMNCY8QGX5VG/224/index.m3u8
+#EXTINF:-1,Кинокомедия
+#EXTGRP:Кино
+http://tvport.it-tele.net:8000/19caf07012c584095861c7cac8011659
+#EXTINF:-1,Киносерия
+#EXTGRP:Кино
+http://109.248.236.41:4433/udp/238.1.1.57:1234?em9uYS1pcHR2LnJ1
+#EXTINF:-1,Кинохит
 #EXTGRP:Кино
 http://77.245.98.22:8000/play/321/index.m3u8
 #EXTINF:-1,Киносемья
 #EXTGRP:Кино
 https://rushd.canlitvplayer.com/kinosemya/tracks-v1a1/mono.m3u8?token=OwY4q3_0eNS9TcD-reDYgq7VOOssIG84ogL53PwWtBfRnC2Sm3JynkgqZ8dVPhTOBbUh8mkD72aB6G6zlcnjQqf6jMv3z3itVvo1vCx5VlBasvhEKV9rd6XyOTRSwC-7bhbOHxzDakE3DWvMh0R_tvJhntzVj5aqgBGk5xnxyy3mp0QGnf6i5qVBD2UaCEYPQAN09pfYn9sm-7hKAb6MzxV-DeQlvRKHZ8ufHYiSssMlwMnaVARKMIl8HQOKNh_q
-#EXTINF:-1,КиноСвидание HD
+#EXTINF:-1,КиноСвидание
 #EXTGRP:Кино
 http://tvport.it-tele.net:8000/7937fc29ea7ec452423909c9cb8d8d8d
-#EXTINF:-1,Мужское кино HD
+#EXTINF:-1,Мужское кино
 #EXTGRP:Кино
 http://185.226.244.171:81/udp/239.195.5.9:1234
-#EXTINF:-1,Киномикс HD
+#EXTINF:-1,Киномикс
 #EXTGRP:Кино
 http://86.57.225.245:7015/play/a005
-#EXTINF:-1,Кинороман HD
+#EXTINF:-1,Кинороман
 #EXTGRP:Кино
 http://178.163.89.138:4022/udp/234.0.0.224:2000
-#EXTINF:-1,Наше любимое кино HD
+#EXTINF:-1,Наше любимое кино
 #EXTGRP:Кино
 http://46.149.48.13:8000/play/a01l/index.m3u8
-#EXTINF:-1,Наше новое кино HD
+#EXTINF:-1,Наше новое кино
 #EXTGRP:Кино
 http://tvport.it-tele.net:8000/b86f2b4f4e85073f3cf7d6e9ca214ee0
-#EXTINF:-1,Родное кино HD
+#EXTINF:-1,Родное кино
 #EXTGRP:Кино
 http://86.57.225.245:7015/play/a00j
 #EXTINF:-1,Остросюжетное HD
@@ -101,12 +110,6 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7
 #EXTINF:-1,КиноДром HDi
 #EXTGRP:Кино
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1036.m3u8
-#EXTINF:-1,Кинокомедия HD
-#EXTGRP:Кино
-http://tvport.it-tele.net:8000/19caf07012c584095861c7cac8011659
-#EXTINF:-1,Киносерия HDi
-#EXTGRP:Кино
-http://109.248.236.41:4433/udp/238.1.1.57:1234?em9uYS1pcHR2LnJ1
 #EXTINF:-1,Мир сериала
 #EXTGRP:Кино
 http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8?version=2
@@ -168,14 +171,9 @@ http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 #EXTINF:-1,Классика кино HDi
 #EXTGRP:Кино
 http://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8?version=2
-
 #EXTINF:-1,Шокирующее HD
 #EXTGRP:Кино
 http://myott.top/stream/DA5345HD3KZ/75.m3u8
-
-#EXTINF:-1,Кинопремьера FHD
-#EXTGRP:Кино
-http://ygk.info/stream/NHZMNCY8QGX5VG/224/index.m3u8
 #EXTINF:0,КиноЗаказ 1 FHD
 #EXTGRP:Кино
 http://hls.goodgame.ru/hls/12949.m3u8
