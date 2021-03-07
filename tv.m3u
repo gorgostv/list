@@ -4,7 +4,7 @@
 ***************KINO***************************
 #EXTINF:-1,Дом Кино
 #EXTGRP:Кино
-http://185.226.244.171:81/udp/239.195.3.41:1234
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
 #EXTGRP:Кино
 https://sc.id-tv.kz/domkino_hd_38_39.m3u8
