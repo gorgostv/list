@@ -29,7 +29,7 @@ http://91.201.177.2:2517/udp/239.192.4.95:2121
 #EXTINF:-1,VIP Serial
 #EXTGRP:Кино
 http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
-#EXTINF:-1,Премьера
+#EXTINF:-1,КиноПремьера
 #EXTGRP:Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1,Кинокомедия
