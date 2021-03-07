@@ -89,12 +89,21 @@ http://tvport.it-tele.net:8000/9804ba511a5609d5c4b47718d45fa64f
 #EXTINF:-1,TV1000 Action
 #EXTGRP:Кино
 http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1 ,ULTO
+#EXTGRP:Кино
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 ,Cinema
+#EXTGRP:Кино
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1,A1 HD
+#EXTGRP:Кино
+http://92.43.140.249/s45/04.m3u8
 #EXTINF:-1,A2
 #EXTGRP:Кино
 http://sc.id-tv.kz/A2_36_37.m3u8
 #EXTINF:-1,Amedia Hit HD
 #EXTGRP:Кино
-http://31.41.99.45:81/udp/225.0.56.66:1234
+http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
 #EXTINF:-1,Amedia Premium HD
 #EXTGRP:Кино
 http://92.43.140.249/s64/04.m3u8
@@ -164,9 +173,6 @@ http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/
 #EXTINF:-1 ,Hollywood HD
 #EXTGRP:Кино
 https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
-#EXTINF:-1,A1 HD
-#EXTGRP:Кино
-http://92.43.140.249/s45/04.m3u8
 #EXTINF:-1 ,TVM Channel
 #EXTGRP:Кино
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
