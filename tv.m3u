@@ -1,5 +1,205 @@
 
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+
+***************KINO***************************
+#EXTINF:-1,Дом Кино HD
+#EXTGRP:Кино
+http://185.226.244.171:81/udp/239.195.3.41:1234
+#EXTINF:-1,Дом Кино Премиум HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1,НТВ ХИТ
+#EXTGRP:Кино
+http://91.192.168.251:8401
+#EXTINF:-1,НТВ СЕРИАЛ
+#EXTGRP:Кино
+http://myott.top/stream/DIPK8H19CP8/301.m3u8
+#EXTINF:-1,Комедийное HD
+#EXTGRP:Кино
+http://myott.top/stream/DIPK8H19CP8/74.m3u8
+#EXTINF:-1,VIP COMEDY
+#EXTGRP:Кино
+http://91.201.177.2:2517/udp/239.192.4.93:2121
+#EXTINF:-1,ViP Premiere
+#EXTGRP:Кино
+http://91.201.177.2:2517/udp/239.192.4.94:2121
+#EXTINF:-1,VIP Megahit
+#EXTGRP:Кино
+http://91.201.177.2:2517/udp/239.192.4.95:2121
+#EXTINF:-1,VIP Serial
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
+#EXTINF:-1,Кинохит HD
+#EXTGRP:Кино
+http://77.245.98.22:8000/play/321/index.m3u8
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино
+https://rushd.canlitvplayer.com/kinosemya/tracks-v1a1/mono.m3u8?token=OwY4q3_0eNS9TcD-reDYgq7VOOssIG84ogL53PwWtBfRnC2Sm3JynkgqZ8dVPhTOBbUh8mkD72aB6G6zlcnjQqf6jMv3z3itVvo1vCx5VlBasvhEKV9rd6XyOTRSwC-7bhbOHxzDakE3DWvMh0R_tvJhntzVj5aqgBGk5xnxyy3mp0QGnf6i5qVBD2UaCEYPQAN09pfYn9sm-7hKAb6MzxV-DeQlvRKHZ8ufHYiSssMlwMnaVARKMIl8HQOKNh_q
+#EXTINF:-1,КиноСвидание HD
+#EXTGRP:Кино
+http://tvport.it-tele.net:8000/7937fc29ea7ec452423909c9cb8d8d8d
+#EXTINF:-1,Мужское кино HD
+#EXTGRP:Кино
+http://185.226.244.171:81/udp/239.195.5.9:1234
+#EXTINF:-1,Киномикс HD
+#EXTGRP:Кино
+http://86.57.225.245:7015/play/a005
+#EXTINF:-1,Кинороман HD
+#EXTGRP:Кино
+http://178.163.89.138:4022/udp/234.0.0.224:2000
+#EXTINF:-1,Наше любимое кино HD
+#EXTGRP:Кино
+http://46.149.48.13:8000/play/a01l/index.m3u8
+#EXTINF:-1,Наше новое кино HD
+#EXTGRP:Кино
+http://tvport.it-tele.net:8000/b86f2b4f4e85073f3cf7d6e9ca214ee0
+#EXTINF:-1,Родное кино HD
+#EXTGRP:Кино
+http://86.57.225.245:7015/play/a00j
+#EXTINF:-1,Остросюжетное HD
+#EXTGRP:Кино
+http://188.35.9.11:2015
+#EXTINF:-1,Русский Бестселер HD
+#EXTGRP:Кино
+http://182.73.122.74:10005/bysid/420
+#EXTINF:-1,Русский детектив HD
+#EXTGRP:Кино
+http://182.73.122.74:10005/bysid/416
+#EXTINF:-1,Русский роман HD
+#EXTGRP:Кино
+http://182.73.122.74:10005/bysid/415
+#EXTINF:-1,TV1000 SD
+#EXTGRP:Кино
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000/tv1000.m3u8
+#EXTINF:-1,TV1000 Русское кино HD
+#EXTGRP:Кино
+http://tvport.it-tele.net:8000/9804ba511a5609d5c4b47718d45fa64f
+#EXTINF:-1,TV1000 Action
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1,A2
+#EXTGRP:Кино
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:Кино
+http://31.41.99.45:81/udp/225.0.56.66:1234
+#EXTINF:-1,Amedia Premium HD
+#EXTGRP:Кино
+http://92.43.140.249/s64/04.m3u8
+#EXTINF:-1,Sony Sci-Fi
+#EXTGRP:Кино
+http://94.251.67.80:81/udp/239.54.6.50:1224?deooleg
+#EXTINF:-1,Sony Turbo
+#EXTGRP:Кино
+http://94.251.67.80:81/udp/239.54.6.54:1224?deooleg
+#EXTINF:-1,Fox HD
+#EXTGRP:Кино
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/fox/fox.m3u8
+#EXTINF:-1,Fox Life HDi
+#EXTGRP:Кино
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/foxlife/foxlife.m3u8
+#EXTINF:-1,КиноДром HDi
+#EXTGRP:Кино
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1036.m3u8
+#EXTINF:-1,Кинокомедия HD
+#EXTGRP:Кино
+http://tvport.it-tele.net:8000/19caf07012c584095861c7cac8011659
+#EXTINF:-1,Киносерия HDi
+#EXTGRP:Кино
+http://109.248.236.41:4433/udp/238.1.1.57:1234?em9uYS1pcHR2LnJ1
+#EXTINF:-1,Мир сериала
+#EXTGRP:Кино
+http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1,Кино ТВ HD
+#EXTGRP:Кино
+http://37.144.124.43:2323/udp/233.33.210.103:5050
+#EXTINF:-1,Иллюзион+ HD
+#EXTGRP:Кино
+http://178.163.3.80:4022/udp/234.0.0.175:2000
+#EXTINF:-1,Русский иллюзион HD
+#EXTGRP:Кино
+http://95.24.126.200:8621/udp/233.33.210.48:5050
+#EXTINF:-1,О! Кино HD
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/bw2000000/variant.m3u8?version=2
+#EXTINF:0,TV XXI HD
+#EXTGRP:Кино
+http://95.183.86.234:4022/udp/234.5.2.251:20000
+#EXTINF:-1,Paramount Comedy HDi
+#EXTGRP:Кино
+http://46.241.81.71:81/udp/239.54.5.117:1234
+#EXTINF:-1,ЕвроКино HD
+#EXTGRP:Кино
+http://tv.ttk.mx:9030
+#EXTINF:0,Настоящее страшное ТВ HD
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:0,Советское кино HD
+#EXTGRP:Кино
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,Сделано в СССР HD
+#EXTGRP:Кино
+http://ussr.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
+#EXTINF:-1,PRO 100 TV HD
+#EXTGRP:Кино
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+#EXTINF:-1,HBO HD
+#EXTGRP:Кино
+http://tv.factoryiptv.com:80/wesley19/wesley19/37087
+#EXTINF:-1,Классика кино HD
+#EXTGRP:Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Kino 24 HD
+#EXTGRP:Кино
+http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:-1,Страшное HD
+#EXTGRP:Кино
+http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive&.m3u8
+
+#EXTINF:-1, FLUX HD
+#EXTGRP:Кино
+http://92.63.101.249:80/flux/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A1 FHD
+#EXTGRP:Кино
+http://92.43.140.249/s45/04.m3u8
+#EXTINF:-1,Киноменю HDi
+#EXTGRP:Кино
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,Классика кино HDi
+#EXTGRP:Кино
+http://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8?version=2
+
+#EXTINF:-1,Шокирующее HD
+#EXTGRP:Кино
+http://myott.top/stream/DA5345HD3KZ/75.m3u8
+
+#EXTINF:-1,Кинопремьера FHD
+#EXTGRP:Кино
+http://ygk.info/stream/NHZMNCY8QGX5VG/224/index.m3u8
+#EXTINF:0,КиноЗаказ 1 FHD
+#EXTGRP:Кино
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0,КиноЗаказ 2 FHDi
+#EXTGRP:Кино
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Остросюжетное FHD
+#EXTGRP:Кино
+http://188.35.9.11:2015
+#EXTINF:0,Кинозал Страшное FHD
+#EXTGRP:Кино
+http://ott.ipstream.one:80/zh4QiEdO7b/o94PvvyhQj/278
+#EXTINF:-1,Видеосалон VHS HD
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/151157.m3u8
+#EXTINF:-1,Кино HD
+#EXTGRP:Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Мосфильм Золотая коллекция
+#EXTGRP:Кино
+http://31.128.159.41:8080/mosfilm/index.m3u8
+*****************KINO-END**********************
+
+
 #EXTINF:-1,Первый
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
@@ -216,201 +416,7 @@ http://178.49.241.78:81/udp/239.1.2.12:1234
 #EXTGRP:Познавательные
 https://rushd2.canlitvplayer.com/myplanet/index.m3u8?token=2in7O5a1tS97P45pAFiW-j2lklejWfb1xUB5YF--ZgRpmuyxK7nSUr-3mLQu6YNrSFL_3tH0pOGRUhiZGF-jvXyvxU1_lc1M9btn0Ay_z62ZfeYSeyawhwd460nLWzuzeirmUW6D58iDQ3Ph57asHAlohytNfkQoROkPcyFJVSjJhxU6u92PlU_kfkZapNB3qgIR5cB1wODxguDC7A-uHWGn58jo3tV1yPJuoQ6V0zvAjgZPqn3_V1OnmNft0vQo
 
-***************KINO***************************
-#EXTINF:-1,Киносемья
-#EXTGRP:Кино
-https://rushd.canlitvplayer.com/kinosemya/tracks-v1a1/mono.m3u8?token=OwY4q3_0eNS9TcD-reDYgq7VOOssIG84ogL53PwWtBfRnC2Sm3JynkgqZ8dVPhTOBbUh8mkD72aB6G6zlcnjQqf6jMv3z3itVvo1vCx5VlBasvhEKV9rd6XyOTRSwC-7bhbOHxzDakE3DWvMh0R_tvJhntzVj5aqgBGk5xnxyy3mp0QGnf6i5qVBD2UaCEYPQAN09pfYn9sm-7hKAb6MzxV-DeQlvRKHZ8ufHYiSssMlwMnaVARKMIl8HQOKNh_q
-#EXTINF:-1,Мужское кино HD
-#EXTGRP:Кино
-http://185.226.244.171:81/udp/239.195.5.9:1234
-#EXTINF:-1,Дом Кино HD
-#EXTGRP:Кино
-http://185.226.244.171:81/udp/239.195.3.41:1234
-#EXTINF:-1,Дом Кино Премиум HD
-#EXTGRP:Кино
-https://sc.id-tv.kz/domkino_hd_38_39.m3u8
-#EXTINF:-1,НТВ ХИТ
-#EXTGRP:Кино
-http://91.192.168.251:8401
-#EXTINF:-1,НТВ СЕРИАЛ
-#EXTGRP:Кино
-http://myott.top/stream/DIPK8H19CP8/301.m3u8
-#EXTINF:-1,Остросюжетное HD
-#EXTGRP:Кино
-http://188.35.9.11:2015
-#EXTINF:-1,Киномикс HD
-#EXTGRP:Кино
-http://86.57.225.245:7015/play/a005
-#EXTINF:-1,Кинороман HD
-#EXTGRP:Кино
-http://178.163.89.138:4022/udp/234.0.0.224:2000
-#EXTINF:-1,Видеосалон VHS HD
-#EXTGRP:Кино
-https://hls.goodgame.ru/hls/151157.m3u8
-#EXTINF:-1,Кино HD
-#EXTGRP:Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1,Русский Бестселер HD
-#EXTGRP:Кино
-http://182.73.122.74:10005/bysid/420
-#EXTINF:-1,Русский детектив HD
-#EXTGRP:Кино
-http://182.73.122.74:10005/bysid/416
-#EXTINF:-1,Русский роман HD
-#EXTGRP:Кино
-http://182.73.122.74:10005/bysid/415
-#EXTINF:-1,A2
-#EXTGRP:Кино
-http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1,Наше новое кино HD
-#EXTGRP:Кино
-http://tvport.it-tele.net:8000/b86f2b4f4e85073f3cf7d6e9ca214ee0
-#EXTINF:-1,Наше любимое кино HD
-#EXTGRP:Кино
-http://46.149.48.13:8000/play/a01l/index.m3u8
-#EXTINF:-1,Amedia Hit HD
-#EXTGRP:Кино
-http://31.41.99.45:81/udp/225.0.56.66:1234
-#EXTINF:-1,Amedia Premium HD
-#EXTGRP:Кино
-http://92.43.140.249/s64/04.m3u8
-#EXTINF:-1,Sony Sci-Fi
-#EXTGRP:Кино
-http://94.251.67.80:81/udp/239.54.6.50:1224?deooleg
-#EXTINF:-1,Sony Turbo
-#EXTGRP:Кино
-http://94.251.67.80:81/udp/239.54.6.54:1224?deooleg
-#EXTINF:-1,TV1000 SD
-#EXTGRP:Кино
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000/tv1000.m3u8
-#EXTINF:-1,TV1000 Русское кино HD
-#EXTGRP:Кино
-http://tvport.it-tele.net:8000/9804ba511a5609d5c4b47718d45fa64f
-#EXTINF:-1,Fox HD
-#EXTGRP:Кино
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/fox/fox.m3u8
-#EXTINF:-1,Fox Life HDi
-#EXTGRP:Кино
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/foxlife/foxlife.m3u8
-#EXTINF:-1,КиноДром HDi
-#EXTGRP:Кино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1036.m3u8
-#EXTINF:-1,КиноСвидание HDi
-#EXTGRP:Кино
-http://tvport.it-tele.net:8000/7937fc29ea7ec452423909c9cb8d8d8d
-#EXTINF:-1,Кинокомедия HD
-#EXTGRP:Кино
-http://tvport.it-tele.net:8000/19caf07012c584095861c7cac8011659
-#EXTINF:-1,Киносерия HDi
-#EXTGRP:Кино
-http://109.248.236.41:4433/udp/238.1.1.57:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1,Мир сериала
-#EXTGRP:Кино
-http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8?version=2
-#EXTINF:-1,Кино ТВ HD
-#EXTGRP:Кино
-http://37.144.124.43:2323/udp/233.33.210.103:5050
-#EXTINF:-1,Иллюзион+ HD
-#EXTGRP:Кино
-http://178.163.3.80:4022/udp/234.0.0.175:2000
-#EXTINF:-1,Русский иллюзион HD
-#EXTGRP:Кино
-http://95.24.126.200:8621/udp/233.33.210.48:5050
-#EXTINF:-1,О! Кино HD
-#EXTGRP:Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/bw2000000/variant.m3u8?version=2
-#EXTINF:0,TV XXI HD
-#EXTGRP:Кино
-http://95.183.86.234:4022/udp/234.5.2.251:20000
-#EXTINF:-1,Paramount Comedy HDi
-#EXTGRP:Кино
-http://46.241.81.71:81/udp/239.54.5.117:1234
-#EXTINF:-1,ЕвроКино HD
-#EXTGRP:Кино
-http://tv.ttk.mx:9030
-#EXTINF:0,Настоящее страшное ТВ HD
-#EXTGRP:Кино
-http://ott-cdn.ucom.am/s87/index.m3u8
-#EXTINF:0,Советское кино HD
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1,Сделано в СССР HD
-#EXTGRP:Кино
-http://ussr.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
-#EXTINF:-1,PRO 100 TV HD
-#EXTGRP:Кино
-http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
-#EXTINF:-1,HBO HD
-#EXTGRP:Кино
-http://tv.factoryiptv.com:80/wesley19/wesley19/37087
-#EXTINF:-1,Родное кино HD
-#EXTGRP:Кино
-http://86.57.225.245:7015/play/a00j
-#EXTINF:-1,Классика кино HD
-#EXTGRP:Кино
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1,Kino 24 HD
-#EXTGRP:Кино
-http://82.193.71.93/Kino24LV/video.m3u8
-#EXTINF:-1,Страшное HD
-#EXTGRP:Кино
-http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive&.m3u8
 
-#EXTINF:-1, FLUX HD
-#EXTGRP:Кино
-http://92.63.101.249:80/flux/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A1 FHD
-#EXTGRP:Кино
-http://92.43.140.249/s45/04.m3u8
-#EXTINF:-1,Киноменю HDi
-#EXTGRP:Кино
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1,Классика кино HDi
-#EXTGRP:Кино
-http://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8?version=2
-#EXTINF:-1,Кинохит FHD
-#EXTGRP:Кино
-http://77.245.98.22:8000/play/321/index.m3u8
-#EXTINF:-1,Шокирующее HD
-#EXTGRP:Кино
-http://myott.top/stream/DA5345HD3KZ/75.m3u8
-#EXTINF:-1,Комедийное HD
-#EXTGRP:Кино
-http://myott.top/stream/DIPK8H19CP8/74.m3u8
-#EXTINF:-1,VIP COMEDY
-#EXTGRP:Кино
-http://91.201.177.2:2517/udp/239.192.4.93:2121
-#EXTINF:-1,ViP Premiere
-#EXTGRP:Кино
-http://91.201.177.2:2517/udp/239.192.4.94:2121
-#EXTINF:-1,VIP Megahit
-#EXTGRP:Кино
-http://91.201.177.2:2517/udp/239.192.4.95:2121
-#EXTINF:-1,VIP Serial
-#EXTGRP:Кино
-http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
-#EXTINF:-1,Кинопремьера FHD
-#EXTGRP:Кино
-http://ygk.info/stream/NHZMNCY8QGX5VG/224/index.m3u8
-#EXTINF:-1,TV1000 Action
-#EXTGRP:Кино
-http://ott-cdn.ucom.am/s91/04.m3u8
-#EXTINF:0,КиноЗаказ 1 FHD
-#EXTGRP:Кино
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,КиноЗаказ 2 FHDi
-#EXTGRP:Кино
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Остросюжетное FHD
-#EXTGRP:Кино
-http://188.35.9.11:2015
-#EXTINF:0,Кинозал Страшное FHD
-#EXTGRP:Кино
-http://ott.ipstream.one:80/zh4QiEdO7b/o94PvvyhQj/278
-#EXTINF:-1,Мосфильм Золотая коллекция
-#EXTGRP:Кино
-http://31.128.159.41:8080/mosfilm/index.m3u8
-*****************KINO-END**********************
 */test
 
 #EXTINF:-1,Bridge TV
