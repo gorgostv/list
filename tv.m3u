@@ -226,6 +226,12 @@ http://185.226.244.171:81/udp/239.195.5.9:1234
 #EXTINF:-1,Дом Кино HD
 #EXTGRP:Кино
 http://185.226.244.171:81/udp/239.195.3.41:1234
+#EXTINF:-1,НТВ ХИТ
+#EXTGRP:Кино
+http://91.192.168.251:8401
+#EXTINF:-1,НТВ СЕРИАЛ
+#EXTGRP:Кино
+http://myott.top/stream/DIPK8H19CP8/301.m3u8
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 http://188.35.9.11:2015
@@ -382,7 +388,7 @@ http://91.201.177.2:2517/udp/239.192.4.94:2121
 http://91.201.177.2:2517/udp/239.192.4.95:2121
 #EXTINF:-1,VIP Serial
 #EXTGRP:Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/bw5000000/variant.m3u8?version=2
+http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
 #EXTINF:-1,Кинопремьера FHD
 #EXTGRP:Кино
 http://ygk.info/stream/NHZMNCY8QGX5VG/224/index.m3u8
