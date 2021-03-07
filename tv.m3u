@@ -374,9 +374,9 @@ http://tvport.it-tele.net:8000/66b737995212187db9a8bb26bdb4ba02
 #EXTINF:-1,Шокирующее FHD
 #EXTGRP:Кино
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1,Комедийное FHD
+#EXTINF:-1,Комедийное HD
 #EXTGRP:Кино
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+http://myott.top/stream/DIPK8H19CP8/74.m3u8
 #EXTINF:-1,VIP COMEDY
 #EXTGRP:Кино
 http://91.201.177.2:2517/udp/239.192.4.93:2121
@@ -409,7 +409,7 @@ http://188.35.9.11:2015
 http://ott.ipstream.one:80/zh4QiEdO7b/o94PvvyhQj/278
 #EXTINF:-1,Мосфильм Золотая коллекция
 #EXTGRP:Кино
-http://94.230.112.175:81/udp/239.1.13.13:1234
+http://31.128.159.41:8080/mosfilm/index.m3u8
 *****************KINO-END**********************
 */test
 
