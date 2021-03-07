@@ -226,6 +226,9 @@ http://185.226.244.171:81/udp/239.195.5.9:1234
 #EXTINF:-1,Дом Кино HD
 #EXTGRP:Кино
 http://185.226.244.171:81/udp/239.195.3.41:1234
+#EXTINF:-1,Дом Кино Премиум HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 #EXTINF:-1,НТВ ХИТ
 #EXTGRP:Кино
 http://91.192.168.251:8401
@@ -368,12 +371,9 @@ http://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u
 #EXTINF:-1,Кинохит FHD
 #EXTGRP:Кино
 http://77.245.98.22:8000/play/321/index.m3u8
-#EXTINF:-1,Дом Кино Премиум FHD
+#EXTINF:-1,Шокирующее HD
 #EXTGRP:Кино
-http://tvport.it-tele.net:8000/66b737995212187db9a8bb26bdb4ba02
-#EXTINF:-1,Шокирующее FHD
-#EXTGRP:Кино
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+http://myott.top/stream/DA5345HD3KZ/75.m3u8
 #EXTINF:-1,Комедийное HD
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/74.m3u8
