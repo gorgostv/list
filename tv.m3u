@@ -213,6 +213,7 @@ http://178.49.241.78:81/udp/239.1.2.12:1234
 #EXTGRP:Познавательные
 https://rushd2.canlitvplayer.com/myplanet/index.m3u8?token=2in7O5a1tS97P45pAFiW-j2lklejWfb1xUB5YF--ZgRpmuyxK7nSUr-3mLQu6YNrSFL_3tH0pOGRUhiZGF-jvXyvxU1_lc1M9btn0Ay_z62ZfeYSeyawhwd460nLWzuzeirmUW6D58iDQ3Ph57asHAlohytNfkQoROkPcyFJVSjJhxU6u92PlU_kfkZapNB3qgIR5cB1wODxguDC7A-uHWGn58jo3tV1yPJuoQ6V0zvAjgZPqn3_V1OnmNft0vQo
 
+***************KINO***************************
 #EXTINF:-1,Киносемья
 #EXTGRP:Кино
 https://rushd.canlitvplayer.com/kinosemya/tracks-v1a1/mono.m3u8?token=OwY4q3_0eNS9TcD-reDYgq7VOOssIG84ogL53PwWtBfRnC2Sm3JynkgqZ8dVPhTOBbUh8mkD72aB6G6zlcnjQqf6jMv3z3itVvo1vCx5VlBasvhEKV9rd6XyOTRSwC-7bhbOHxzDakE3DWvMh0R_tvJhntzVj5aqgBGk5xnxyy3mp0QGnf6i5qVBD2UaCEYPQAN09pfYn9sm-7hKAb6MzxV-DeQlvRKHZ8ufHYiSssMlwMnaVARKMIl8HQOKNh_q
@@ -367,16 +368,16 @@ http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,Комедийное FHD
 #EXTGRP:Кино
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1,VIP COMEDY FHD
+#EXTINF:-1,VIP COMEDY
 #EXTGRP:Кино
-http://ott-cdn.ucom.am/s97/04.m3u8
-#EXTINF:-1,ViP Premiere FHD
+http://91.201.177.2:2517/udp/239.192.4.93:2121
+#EXTINF:-1,ViP Premiere
 #EXTGRP:Кино
-http://188.35.9.11:2013
-#EXTINF:-1,VIP Megahit FHD
+http://91.201.177.2:2517/udp/239.192.4.94:2121
+#EXTINF:-1,VIP Megahit
 #EXTGRP:Кино
-http://31.41.99.45:81/udp/225.0.56.3:1234
-#EXTINF:-1,VIP Serial FHD
+http://91.201.177.2:2517/udp/239.192.4.95:2121
+#EXTINF:-1,VIP Serial
 #EXTGRP:Кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/bw5000000/variant.m3u8?version=2
 #EXTINF:-1,Кинопремьера FHD
@@ -400,7 +401,7 @@ http://ott.ipstream.one:80/zh4QiEdO7b/o94PvvyhQj/278
 #EXTINF:-1,Мосфильм Золотая коллекция
 #EXTGRP:Кино
 http://94.230.112.175:81/udp/239.1.13.13:1234
-
+*****************KINO-END**********************
 */test
 
 #EXTINF:-1,Bridge TV
