@@ -247,7 +247,7 @@ https://dx.streamsport.net/hls/che/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1,Супер
 #EXTGRP:ЦТВ
-http://178.163.58.188:4022/udp/234.0.0.100:2000
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
 #EXTGRP:ЦТВ
 https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
