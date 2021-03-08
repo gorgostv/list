@@ -62,18 +62,30 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1,Наше любимое кино *
 #EXTGRP:Кино
 http://
-#EXTINF:-1,Наш Кинороман *
+#EXTINF:-1,Наше HD
 #EXTGRP:Кино
-http://
-#EXTINF:-1,Русский Бестселер HD *
+http://myott.top/stream/DIPK8H19CP8/217.m3u8
+#EXTINF:-1,Наш Кинороман 
 #EXTGRP:Кино
-http://182.73.122.74:10005/bysid/420
-#EXTINF:-1,Русский детектив HD *
+http://myott.top/stream/DIPK8H19CP8/213.m3u8
+#EXTINF:-1,Иллюзион +
 #EXTGRP:Кино
-http://182.73.122.74:10005/bysid/416
-#EXTINF:-1,Русский роман HD *
+http://178.163.20.236:4022/udp/234.0.0.175:2000?alensat.org
+#EXTINF:-1,Русский Иллюзион
 #EXTGRP:Кино
-http://182.73.122.74:10005/bysid/415
+http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
+#EXTINF:-1,Русский Бестселлер
+#EXTGRP:Кино
+http://178.163.21.217:4022/udp/234.0.0.250:2000?alensat.org
+#EXTINF:-1,Русский детектив
+#EXTGRP:Кино
+http://51.195.44.53:8081/tv/rus-detektiv/chunks.m3u8
+#EXTINF:-1,Русский роман
+#EXTGRP:Кино
+http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
+#EXTINF:-1,Русская комедия
+#EXTGRP:Кино
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:-1,TV1000
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/110.m3u8
@@ -118,13 +130,7 @@ http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1036.m3u8
 http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8?version=2
 #EXTINF:-1,Кино ТВ HD *
 #EXTGRP:Кино
-http://37.144.124.43:2323/udp/233.33.210.103:5050
-#EXTINF:-1,Иллюзион+ HD *
-#EXTGRP:Кино
-http://178.163.3.80:4022/udp/234.0.0.175:2000
-#EXTINF:-1,Русский иллюзион HD *
-#EXTGRP:Кино
-http://95.24.126.200:8621/udp/233.33.210.48:5050
+http://myott.top/stream/DIPK8H19CP8/221.m3u8
 #EXTINF:-1,О! Кино HD *
 #EXTGRP:Кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/bw2000000/variant.m3u8?version=2
