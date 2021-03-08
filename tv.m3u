@@ -62,7 +62,7 @@ http://91.201.177.2:2517/udp/239.192.3.106:2121
 #EXTINF:-1,Родное кино
 #EXTGRP:Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1,Наше любимое кино
+#EXTINF:-1,Наше Любимое Кино
 #EXTGRP:Кино
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
 #EXTINF:-1,Наше HD
