@@ -300,22 +300,22 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
 
 ##########################MUZIKA################################################
-#EXTINF:-1,AIWA HD
+#EXTINF:-1,AIWA TV
 #EXTGRP:Музыка
 http://194.190.78.91:8080/aivaya/index.m3u8
 #EXTINF:-1,1HD
 #EXTGRP:Музыка
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,ONE R
+#EXTINF:-1,ПЕРВЫЙ (BY)
 #EXTGRP:Музыка
 http://rtmp.one.by:1300
-#EXTINF:-1,ONE RU
+#EXTINF:-1,ПЕРВЫЙ (RU)
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
-#EXTINF:-1,SONGTV ARMENIA
+#EXTINF:-1,SONG TV ARMENIA
 #EXTGRP:Музыка
 http://songtvam.ru:8060/hd/playlist.m3u8
-#EXTINF:-1,SONGTV RUSSIA
+#EXTINF:-1,SONG TV RUSSIA
 #EXTGRP:Музыка
 http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1,VH1
@@ -336,7 +336,7 @@ http://31.210.208.168:8080/bridge_classic/index.m3u8
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
 http://109.200.130.124:7006/play/a01g
-#EXTINF:-1,Deejay TV
+#EXTINF:-1,Deejay
 #EXTGRP:Музыка
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,ТНТ Music
