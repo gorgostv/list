@@ -336,7 +336,7 @@ http://31.210.208.168:8080/bridge_classic/index.m3u8
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
 http://109.200.130.124:7006/play/a01g
-#EXTINF:-1,Deejay
+#EXTINF:-1,DeeJay TV
 #EXTGRP:Музыка
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,ТНТ Music
@@ -345,6 +345,9 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
+#EXTINF:-1,МУЗ ТВ
+#EXTGRP:Музыка
+http://
 #EXTINF:-1,Vostok TV
 #EXTGRP:Музыка
 https://
