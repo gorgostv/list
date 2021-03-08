@@ -119,6 +119,9 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 ,SHOT TV
 #EXTGRP:Кино
 http://31.210.208.168:8080/shottv/index.m3u8
+#EXTINF:-1 ,Кинопоказ
+#EXTGRP:Кино
+https://address.tut
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s45/04.m3u8
