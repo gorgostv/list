@@ -65,22 +65,22 @@ http://
 #EXTINF:-1,Наш Кинороман *
 #EXTGRP:Кино
 http://
-#EXTINF:-1,Русский Бестселер HD
+#EXTINF:-1,Русский Бестселер HD *
 #EXTGRP:Кино
 http://182.73.122.74:10005/bysid/420
-#EXTINF:-1,Русский детектив HD
+#EXTINF:-1,Русский детектив HD *
 #EXTGRP:Кино
 http://182.73.122.74:10005/bysid/416
-#EXTINF:-1,Русский роман HD
+#EXTINF:-1,Русский роман HD *
 #EXTGRP:Кино
 http://182.73.122.74:10005/bysid/415
-#EXTINF:-1,TV1000 
+#EXTINF:-1,TV1000 *
 #EXTGRP:Кино
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000/tv1000.m3u8
-#EXTINF:-1,TV1000 Русское кино HD
+#EXTINF:-1,TV1000 Русское кино HD *
 #EXTGRP:Кино
 http://tvport.it-tele.net:8000/9804ba511a5609d5c4b47718d45fa64f
-#EXTINF:-1,TV1000 Action
+#EXTINF:-1,TV1000 Action *
 #EXTGRP:Кино
 http://ott-cdn.ucom.am/s91/04.m3u8
 #EXTINF:-1 ,ULTO
@@ -158,7 +158,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Остросюжетное HD *
 #EXTGRP:Кино
 http://188.35.9.11:2015
-#EXTINF:-1,Кино 312
+#EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,Мосфильм Золотая коллекция
