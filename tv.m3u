@@ -149,7 +149,7 @@ http://46.241.81.71:81/udp/239.54.5.117:1234
 #EXTINF:0,Настоящее страшное ТВ HD
 #EXTGRP:Кино
 http://ott-cdn.ucom.am/s87/index.m3u8
-#EXTINF:-1,КИНО 24
+#EXTINF:-1,KINO 24
 #EXTGRP:Кино
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1,Страшное HD *
