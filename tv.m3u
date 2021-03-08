@@ -433,3 +433,26 @@ https://strm.yandex.ru/kal/musicboxgold/ysign1=4093854d8bf4d2c1595c4a903d653c074
 #EXTINF:-1,Eurodance 90
 #EXTGRP:Тест
 https://eurodance.catcast.tv/content/36987/index.m3u8
+***********?**,*,
+
+#EXTINF:-1,BCU Action HD
+#EXTGRP:BCU
+http://1.1usd.tv:34000/ch769/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_-pEZUOiVJx5oNe9iDYM12
+#EXTINF:-1,BCU Cinema+ HD
+#EXTGRP:BCU
+http://1.1usd.tv:34000/ch834/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9SrBNkbPdL148Mk3lMifxa
+#EXTINF:-1,BCU Premiere HD
+#EXTGRP:BCU
+http://1.1usd.tv:34000/ch778/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9V_xLJyOynrgXRF5Ee2ZF7
+#EXTINF:-1,BCU VHS HD
+#EXTGRP:BCU
+http://1.1usd.tv:34000/ch781/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay-EBzFFwFjGucLaw-M-tr3W
+#EXTINF:-1,BCU Premiere 2 HD
+#EXTGRP:BCU
+http://1.1usd.tv:34000/ch783/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_HSZwKIcJ2_NC8NQOPDQMP
+#EXTINF:-1,BCU Media HD
+#EXTGRP:BCU
+http://1.1usd.tv:34000/ch790/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay8ktwUvne95wAuilXKVYPxW
+
+
+
