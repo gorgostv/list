@@ -299,37 +299,35 @@ http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
 
-##################################################################################################################
+##########################MUZIKA################################################
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
-https://mhd.iptv2022.com/p/KEB-Ik8BSq0x8i4pnidimg,1614442347/streaming/bridgetv/324/variable.m3u8
+https://
 #EXTINF:-1,Bridge TV Hits
 #EXTGRP:Музыка
-https://mhd.iptv2022.com/p/M-kyykgUnzJjxy3NU46QZw,1614447030/streaming/br.dance/324/vm2w/playlist.m3u8
+https://
 #EXTINF:-1,Bridge TV Русский хит
 #EXTGRP:Музыка
-https://mhd.iptv2022.com/p/TUBZiaxWWIN6BkwksS1b8g,1614445999/streaming/br.rushit/324/vm2w/playlist.m3u8
+https://
 #EXTINF:-1,Bridge TV Classic
 #EXTGRP:Музыка
-https://mhd.iptv2022.com/p/oTTm17FqneCzDfOswlxwBA,1614442347/streaming/br.classic/324/vm2w/playlist.m3u8
+https://
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
-https://s20585.glaz.tv:8082/liveg/muzika.stream/chunks.m3u8?nimblesessionid=1730182311&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIxIDU6NDc6MTAgUE0maGFzaF92YWx1ZT1ueVRzMmVFdGx2STk4NVpiMzlhUUtnPT0mdmFsaWRtaW51dGVzPTIwMA==
+https://
 #EXTINF:-1,Deejay TV
 #EXTGRP:Музыка
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыка
-https://mhd.iptv2022.com/p/Irmz-uVJZe5j0fbkdN7rDQ,1614446338/streaming/tntmusic/324/vm2w/playlist.m3u8
+
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
 #EXTINF:-1,Vostok TV
 #EXTGRP:Музыка
-https://mhd.iptv2022.com/p/1byr2UwNrynWMAXdUxCMcw,1614447404/streaming/tmb/324/vm2w/playlist.m3u8
-#EXTINF:-1,Rock TV
-#EXTGRP:Музыка
-http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
+https://
+
 
 ############################################################################################################
 
