@@ -243,6 +243,9 @@ https://hzv4.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/9/playlist.m3u8
 #EXTINF:-1,СТС International
 #EXTGRP:ЦТВ
 https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,Телекафе
+#EXTGRP:ЦТВ
+https://s4.idata.uz/telecafe/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,Мир HD
 #EXTGRP:ЦТВ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -278,7 +281,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 http://83.222.205.65:8080/zvezda/index.m3u8
 #EXTINF:-1,ТВ-3
 #EXTGRP:ЦТВ
-https://dx.streamsport.net/hls/tv3_hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDQ6MDk6NTUgQU0maGFzaF92YWx1ZT1CajNldTkwd0xlNFBEajdLOXV1eURRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://s4.idata.uz/tv3/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,ОТР
 #EXTGRP:ЦТВ
 https://bl.webcaster.pro/media/playlist/free_1c89b4b8c5bd3fbb8096d4630ab999ce_hd/5_1585122629/240p/75b2bb65f4db06a119afbcd54ce4bc27/1614442441.m3u8?seek=1614399196&live=15&ref=https%3A%2F%2Fotr-online.ru%2F
@@ -378,7 +381,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
 #EXTINF:-1,МУЗТВ
 #EXTGRP:Музыка
-http://
+https://s4.idata.uz/muztv/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,Vostok TV
 #EXTGRP:Музыка
 https://
