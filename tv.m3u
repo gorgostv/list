@@ -300,9 +300,12 @@ http://88.201.240.197:81/udp/239.239.3.83:5239
 #EXTINF:-1,РБК ТВ
 #EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 ,Перец
+#EXTINF:-1 ,Пятница
 #EXTGRP:ЦТВ
-https://rushd.canlitvplayer.com/perec/tracks-v1a1/mono.m3u8?token=wXVxGWPiVBQ87qw3lLF9zjX5OtcVbUOR6Fo42kEo3G80TD8fmYqwd1Wk4VOhPlwX5tKiAd3oIK1kNwxQPqhRcugxTMZ9cFBGinLBwB5FeatMIy_6magrYazA1EHL8vlx5toY2p_I8_nFVSGCn3Qfu6Us8bvS-HpjVUl5W1yV0hBIe4Kxf_j9_6NK_3EHqUGzGNhLWrDRb1yNCebBwcEWZaXGCGUDqgA9fCtzZPizK6Mn9-y5923tqkwr0h0titC8
+http://88.201.240.197:81/udp/239.239.2.3:5239
+#EXTINF:-1 ,2×2
+#EXTGRP:ЦТВ
+http://88.201.240.197:81/udp/239.239.3.3:5239
 #EXTINF:-1,Ретро ТВ
 #EXTGRP:ЦТВ
 http://91.219.88.18:45125/retro/tracks-v1a1/mono.m3u8
