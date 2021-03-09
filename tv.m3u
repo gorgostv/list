@@ -303,7 +303,7 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 ,Пятница
 #EXTGRP:ЦТВ
 http://88.201.240.197:81/udp/239.239.2.3:5239
-#EXTINF:-1 ,2×2
+#EXTINF:-1 ,2x2
 #EXTGRP:ЦТВ
 http://88.201.240.197:81/udp/239.239.3.3:5239
 #EXTINF:-1,Ретро ТВ
