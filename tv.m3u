@@ -121,7 +121,7 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 http://31.210.208.168:8080/shottv/index.m3u8
 #EXTINF:-1 ,Кинопоказ
 #EXTGRP:Кино
-https://address.tut
+http://178.163.21.217:4022/udp/234.0.0.209:2000?alensat.org
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s45/04.m3u8
@@ -163,7 +163,7 @@ http://myott.top/stream/DA5345HD3KZ/219.m3u8
 http://37.17.14.147:8904/play/a00h
 #EXTINF:0,НСТ
 #EXTGRP:Кино
-http://
+http://51.195.44.53:8081/tv/nst/chunks.m3u8
 #EXTINF:-1,KINO 24
 #EXTGRP:Кино
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
