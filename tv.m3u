@@ -255,9 +255,6 @@ http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1,360° Новости
 #EXTGRP:ЦТВ
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1-a1.m3u8
-#EXTINF:-1,RT HD
-#EXTGRP:ЦТВ
-http://88.201.240.197:81/udp/239.239.3.56:5239
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
@@ -273,6 +270,9 @@ http://37.193.162.6:4022/udp/239.1.21.55:1234
 #EXTINF:-1,ТНТ 4
 #EXTGRP:ЦТВ
 http://88.201.240.197:81/udp/239.239.3.36:5239
+#EXTINF:-1,Звезда
+#EXTGRP:ЦТВ
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1,Звезда HD
 #EXTGRP:ЦТВ
 http://83.222.205.65:8080/zvezda/index.m3u8
@@ -285,9 +285,6 @@ https://bl.webcaster.pro/media/playlist/free_1c89b4b8c5bd3fbb8096d4630ab999ce_hd
 #EXTINF:-1,ТВЦ
 #EXTGRP:ЦТВ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:-1,Звезда
-#EXTGRP:ЦТВ
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1,Победа HD
 #EXTGRP:ЦТВ
 http://158.46.79.254:81/udp/239.255.42.143:1234
