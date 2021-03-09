@@ -200,6 +200,15 @@ http://myott.top/stream/DIPK8H19CP8/214.m3u8
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Мир сериала
+#EXTGRP:Кино
+http://88.201.240.197:81/udp/239.239.14.5:5239
+#EXTINF:-1,Еврокино
+#EXTGRP:Кино
+http://88.201.240.197:81/udp/239.239.14.1:5239
+#EXTINF:-1,Феникс+Кино
+#EXTGRP:Кино
+http://88.201.240.197:81/udp/239.239.14.18:5239
 #EXTINF:-1,САРАФАН
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/81.m3u8
@@ -249,12 +258,15 @@ http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1,360° Новости
 #EXTGRP:ЦТВ
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:-1,RT HD
+#EXTGRP:ЦТВ
+http://88.201.240.197:81/udp/239.239.3.56:5239
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,Супер
+#EXTINF:-1,ЧЕ!
 #EXTGRP:ЦТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+http://88.201.240.197:81/udp/239.239.3.64:5239
 #EXTINF:-1,ТНТ
 #EXTGRP:ЦТВ
 https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
@@ -263,7 +275,7 @@ https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
 http://37.193.162.6:4022/udp/239.1.21.55:1234
 #EXTINF:-1,ТНТ 4
 #EXTGRP:ЦТВ
-https://mix.streamsport.net/hls/tnt4/chunks.m3u8?nimblesessionid=412770&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDM6NDQ6MDMgQU0maGFzaF92YWx1ZT1wcCtwYkZGQXI2MTNEbVBjYkwxRlJnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+http://88.201.240.197:81/udp/239.239.3.36:5239
 #EXTINF:-1,Звезда HD
 #EXTGRP:ЦТВ
 http://83.222.205.65:8080/zvezda/index.m3u8
@@ -282,6 +294,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1,Победа HD
 #EXTGRP:ЦТВ
 http://158.46.79.254:81/udp/239.255.42.143:1234
+#EXTINF:-1,ИЗЪВЕСТИЯ
+#EXTGRP:ЦТВ
+http://88.201.240.197:81/udp/239.239.3.83:5239
 #EXTINF:-1,РБК ТВ
 #EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
@@ -313,6 +328,9 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
 
 ##########################MUZIKA################################################
+#EXTINF:-1,Europa Plus
+#EXTGRP:Музыка
+http://88.201.240.197:81/udp/239.239.3.25:5239
 #EXTINF:-1,AIVA TV
 #EXTGRP:Музыка
 http://194.190.78.91:8080/aivaya/index.m3u8
