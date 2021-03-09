@@ -200,9 +200,6 @@ http://myott.top/stream/DIPK8H19CP8/214.m3u8
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1,Мир сериала
-#EXTGRP:Кино
-http://88.201.240.197:81/udp/239.239.14.5:5239
 #EXTINF:-1,Еврокино
 #EXTGRP:Кино
 http://88.201.240.197:81/udp/239.239.14.1:5239
