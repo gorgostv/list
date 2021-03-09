@@ -227,19 +227,25 @@ https://a3569455888-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,НТВ
 #EXTGRP:ЦТВ
-https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/chunklist_b6128000.m3u8?md5=-trd4_zm5hMjBU4eUIkP9Q&e=1614922768&hls_proxy_host=pub3.rtmp.s01.l.ntv
+http://myott.top/stream/DIPK8H19CP8/223.m3u8
+#EXTINF:-1,НТВ HD
+#EXTGRP:ЦТВ
+http://myott.top/stream/DIPK8H19CP8/134.m3u8
 #EXTINF:-1,СТС
 #EXTGRP:ЦТВ
 https://hzv4.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/9/playlist.m3u8
 #EXTINF:-1,СТС International
 #EXTGRP:ЦТВ
 https://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:-1,Пятница!
+#EXTINF:-1,Мир HD
 #EXTGRP:ЦТВ
-https://mix.streamsport.net/hls/friday/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDM6NDk6NTEgQU0maGFzaF92YWx1ZT05QzhSUzd0cFZHRUpkOGQxWHBiU2dBPT0mdmFsaWRtaW51dGVzPTE0NDA=
-#EXTINF:-1,Че!
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир 24
 #EXTGRP:ЦТВ
-https://dx.streamsport.net/hls/che/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDM6NTM6MTAgQU0maGFzaF92YWx1ZT1GVGRMczh4bjc3bkJHVjgzR2FxdkZ3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,360
+#EXTGRP:ЦТВ
+http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
@@ -255,6 +261,9 @@ http://37.193.162.6:4022/udp/239.1.21.55:1234
 #EXTINF:-1,ТНТ 4
 #EXTGRP:ЦТВ
 https://mix.streamsport.net/hls/tnt4/chunks.m3u8?nimblesessionid=412770&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDM6NDQ6MDMgQU0maGFzaF92YWx1ZT1wcCtwYkZGQXI2MTNEbVBjYkwxRlJnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1,Звезда HD
+#EXTGRP:ЦТВ
+http://83.222.205.65:8080/zvezda/index.m3u8
 #EXTINF:-1,ТВ-3
 #EXTGRP:ЦТВ
 https://dx.streamsport.net/hls/tv3_hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDQ6MDk6NTUgQU0maGFzaF92YWx1ZT1CajNldTkwd0xlNFBEajdLOXV1eURRPT0mdmFsaWRtaW51dGVzPTE0NDA=
