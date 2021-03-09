@@ -358,7 +358,7 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
-#EXTINF:-1,МУЗ
+#EXTINF:-1,МУЗТВ
 #EXTGRP:Музыка
 http://
 #EXTINF:-1,Vostok TV
