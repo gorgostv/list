@@ -288,10 +288,10 @@ http://uiptv.do.am/1ufc/000000009/playlist.m3u8
 #EXTINF:-1,Победа HD
 #EXTGRP:ЦТВ
 http://158.46.79.254:81/udp/239.255.42.143:1234
-#EXTINF:-1,iZ
+#EXTINF:-1,Известия
 #EXTGRP:ЦТВ
 http://88.201.240.197:81/udp/239.239.3.83:5239
-#EXTINF:-1,РБК ТВ
+#EXTINF:-1,РБК
 #EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 ,Пятница
