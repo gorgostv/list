@@ -188,6 +188,9 @@ http://178.163.21.217:4022/udp/234.0.0.3:2000?alensat.org
 #EXTINF:-1 ,Дорама HD
 #EXTGRP:Кино
 http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+EXTINF:-1 ,Star Cinema
+#EXTGRP:Кино
+http://myott.top/stream/DIPK8H19CP8/310.m3u8
 #EXTINF:0,КиноЗаказ HD
 #EXTGRP:Кино
 http://hls.goodgame.ru/hls/5346.m3u8
