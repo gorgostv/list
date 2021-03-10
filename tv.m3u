@@ -263,7 +263,7 @@ https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1,ЧЕ!
 #EXTGRP:ЦТВ
-http://88.201.240.197:81/udp/239.239.3.64:5239
+http://212.20.42.30:1234/udp/225.54.202.84:5000
 #EXTINF:-1,ТНТ
 #EXTGRP:ЦТВ
 https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
