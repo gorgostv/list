@@ -406,7 +406,7 @@ http://myott.top/stream/DIPK8H19CP8/316.m3u8
 #EXTINF:-1,Т24
 #EXTGRP:Познавательные
 http://185.74.7.220:8080/techno_24/mpegts
-#EXTINF:-1,365  Дней ТВ
+#EXTINF:-1,365 Дней
 #EXTGRP:Познавательные
 
 #EXTINF:-1,Viasat Explore
@@ -421,13 +421,13 @@ http://194.28.153.53:81/udp/225.0.55.57:1234
 #EXTINF:-1,History
 #EXTGRP:Познавательные
 http://94.230.240.12:8080/history/index.m3u8
-#EXTINF:-1,H2
+#EXTINF:-1,H2 HD
 #EXTGRP:Познавательные
 http://myott.top/stream/DA5345HD3KZ/65.m3u8
 #EXTINF:-1,Домашние Животные
 #EXTGRP:Познавательные
 http://195.49.206.244:90/domashnie_zhivotnye/index.m3u8
-#EXTINF:-1,Da Vinci
+#EXTINF:-1,DaVinci
 #EXTGRP:Познавательные
 http://spacetv.in/stream/DIPK8H19CP8/238.m3u8
 #EXTINF:-1,Travel Channel
@@ -454,10 +454,7 @@ http://51.68.141.106:8081/tv/ohota-i-ryibalka/playlist.m3u8
 #EXTINF:-1,Трофей HD
 #EXTGRP:Познавательные
 http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
-#EXTINF:-1,Диалоги о рыбалке FHD
-#EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/bw5000000/variant.m3u8?version=2
-#EXTINF:-1,555 Живая Планета HD
+#EXTINF:-1,Живая Планета HD
 #EXTGRP:Познавательные
 http://spacetv.in/stream/DIPK8H19CP8/83.m3u8
 #EXTINF:-1,Оружие
@@ -475,9 +472,6 @@ http://spacetv.in/stream/DIPK8H19CP8/231.m3u8
 #EXTINF:-1,Пёс и Ко
 #EXTGRP:Познавательные
 http://178.163.25.166:4022/udp/234.0.0.188:2000
-#EXTINF:-1,Живи!
-#EXTGRP:Познавательные
-http://178.49.241.78:81/udp/239.1.2.12:1234
 #EXTINF:-1,Моя планета
 #EXTGRP:Познавательные
 https://rushd2.canlitvplayer.com/myplanet/index.m3u8?token=2in7O5a1tS97P45pAFiW-j2lklejWfb1xUB5YF--ZgRpmuyxK7nSUr-3mLQu6YNrSFL_3tH0pOGRUhiZGF-jvXyvxU1_lc1M9btn0Ay_z62ZfeYSeyawhwd460nLWzuzeirmUW6D58iDQ3Ph57asHAlohytNfkQoROkPcyFJVSjJhxU6u92PlU_kfkZapNB3qgIR5cB1wODxguDC7A-uHWGn58jo3tV1yPJuoQ6V0zvAjgZPqn3_V1OnmNft0vQo
