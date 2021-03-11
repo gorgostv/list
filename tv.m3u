@@ -1,4 +1,3 @@
-
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
 ***************KINO***************************
@@ -290,13 +289,10 @@ http://83.222.205.65:8080/zvezda/index.m3u8
 https://s4.idata.uz/tv3/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,ОТР
 #EXTGRP:ЦТВ
-https://bl.webcaster.pro/media/playlist/free_1c89b4b8c5bd3fbb8096d4630ab999ce_hd/5_1585122629/240p/75b2bb65f4db06a119afbcd54ce4bc27/1614442441.m3u8?seek=1614399196&live=15&ref=https%3A%2F%2Fotr-online.ru%2F
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/otr/playlist.m3u8
 #EXTINF:-1,ТВЦ
 #EXTGRP:ЦТВ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:-1,Победа HD
-#EXTGRP:ЦТВ
-http://158.46.79.254:81/udp/239.255.42.143:1234
 #EXTINF:-1,Известия
 #EXTGRP:ЦТВ
 http://88.201.240.197:81/udp/239.239.3.83:5239
