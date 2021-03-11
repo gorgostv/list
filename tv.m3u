@@ -218,7 +218,7 @@ http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:-1,Россия 1
 #EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Russia RTR
+#EXTINF:-1,РТР-Планета Азия
 #EXTGRP:ЦТВ
 https://a3569455888-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 24
@@ -323,6 +323,18 @@ http://rtmp.one.by:1300
 #EXTINF:-1,ПЕРВЫЙ МУЗЫКАЛЬНЫЙ
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
+#EXTINF:-1,Russian Music Box
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1,VIVA Russia
+#EXTGRP:Музыка
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1,Новое
+#EXTGRP:Музыка
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1,Fresh TV
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/fresh/fresh0.m3u8
 #EXTINF:-1,SONG TV ARMENIA
 #EXTGRP:Музыка
 http://songtvam.ru:8060/hd/playlist.m3u8
