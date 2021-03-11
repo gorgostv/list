@@ -427,9 +427,9 @@ http://myott.top/stream/DA5345HD3KZ/65.m3u8
 #EXTINF:-1,Домашние Животные
 #EXTGRP:Познавательные
 http://195.49.206.244:90/domashnie_zhivotnye/index.m3u8
-#EXTINF:-1,Travel Channel
+#EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
-http://195.138.78.66:8000/udp/239.2.167.162:1234
+http://spacetv.in/stream/DIPK8H19CP8/231.m3u8
 #EXTINF:-1,Travel+Adventure HD
 #EXTGRP:Познавательные
 http://37.195.3.13:81/udp/239.1.5.7:1234
@@ -457,15 +457,12 @@ http://spacetv.in/stream/DIPK8H19CP8/83.m3u8
 #EXTINF:-1,Оружие
 #EXTGRP:Познавательные
 http://cdn.nexttvnet.ru/hlsl/10/Oruzhie/Oruzhie_3/index.m3u8?bw872973168630.m3u8
-#EXTINF:-1,Ратник HD
+#EXTINF:-1,Ратник
 #EXTGRP:Познавательные
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1,КВН
 #EXTGRP:Познавательные
 http://tvport.it-tele.net:8000/5b479161bdd2adb7d8c800c50b15deb4
-#EXTINF:-1,Travel Channel HD
-#EXTGRP:Познавательные
-http://spacetv.in/stream/DIPK8H19CP8/231.m3u8
 #EXTINF:-1,Пёс и Ко
 #EXTGRP:Познавательные
 http://178.163.25.166:4022/udp/234.0.0.188:2000
