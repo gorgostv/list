@@ -311,9 +311,6 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,Euronews
 #EXTGRP:ЦТВ
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Известия
-#EXTGRP:ЦТВ
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 
 ************************OBSHIE-END***********************
