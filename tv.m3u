@@ -210,7 +210,8 @@ http://myott.top/stream/DIPK8H19CP8/81.m3u8
 http://185.74.7.220:8080/retro/mpegts
 #EXTINF:-1,Мосфильм
 #EXTGRP:Кино
-http://178.163.21.217:4022/udp/234.0.0.95:2000?alensat.org
+http://31.128.159.41:8080/mosfilm/index.m3u8
+
 *****************KINO-END**********************
 ******************OBSHIE***********************
 #EXTINF:-1,Первый Канал
