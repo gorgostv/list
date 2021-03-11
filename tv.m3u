@@ -492,8 +492,149 @@ https://strm.yandex.ru/kal/musicboxgold/ysign1=4093854d8bf4d2c1595c4a903d653c074
 #EXTINF:-1,Eurodance 90
 #EXTGRP:Тест
 https://eurodance.catcast.tv/content/36987/index.m3u8
-***********?**,*,
+**************************
 
+#EXTINF:0,Кинозал 1 (Марс-ТВ)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/37033/index.m3u8
+#EXTINF:0,Кинозал 2 (pznstreams)
+#EXTGRP:unsorted
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:0,Кинозал 3 (СССР EVGENIY)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/36506/index.m3u8
+#EXTINF:0,Кинозал 4 (Гал ТВ)
+#EXTGRP:unsorted
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинозал 5 (Видеокассета)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0,Кинозал 6 (VHS EVGENIY)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:0,Кинозал 7 (Ужасы EVGENIY)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:0,Кинозал 8 (Russian Комедии EVGENIY)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:0,Кинозал 9 (akudji)
+#EXTGRP:unsorted
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,Кинозал 10 (Киносезон 1)
+#EXTGRP:unsorted
+https://5656.ga/ch1.m3u8
+#EXTINF:0,Кинозал 11 (Киносезон 2)
+#EXTGRP:unsorted
+https://5656.ga/ch2.m3u8
+#EXTINF:0,Кинозал 12 (Киносезон 3)
+#EXTGRP:unsorted
+https://5656.ga/ch3.m3u8
+#EXTINF:0,Кинозал 13 (Киносезон 4)
+#EXTGRP:unsorted
+https://5656.ga/ch4.m3u8
+#EXTINF:0,Кинозал 14 (Киносезон 5)
+#EXTGRP:unsorted
+https://5656.ga/ch5.m3u8
+#EXTINF:0,Кинозал 15 (Киносезон 6)
+#EXTGRP:unsorted
+https://5656.ga/ch6.m3u8
+#EXTINF:0,Кинозал 16 (Киносезон 7)
+#EXTGRP:unsorted
+https://5656.ga/ch7.m3u8
+#EXTINF:0,Кинозал 17 (Киносезон 8)
+#EXTGRP:unsorted
+https://5656.ga/ch8.m3u8
+#EXTINF:0,Кинозал 18 (Киносезон 9)
+#EXTGRP:unsorted
+https://5656.ga/ch9.m3u8
+#EXTINF:0,Кинозал 19 (Киносезон 10)
+#EXTGRP:unsorted
+https://5656.ga/ch10.m3u8
+#EXTINF:0,Кинозал 20 (Киносезон 11)
+#EXTGRP:unsorted
+https://5656.ga/ch11.m3u8
+#EXTINF:0,Кинозал 21 (Киносезон 12)
+#EXTGRP:unsorted
+https://5656.ga/ch12.m3u8
+#EXTINF:0,Кинозал 22 (Киносезон 13)
+#EXTGRP:unsorted
+https://5656.ga/ch13.m3u8
+#EXTINF:0,Кинозал 23 (Киносезон 14)
+#EXTGRP:unsorted
+https://5656.ga/ch14.m3u8
+#EXTINF:0,Кинозал 24 (Киносезон 15)
+#EXTGRP:unsorted
+https://5656.ga/ch15.m3u8
+#EXTINF:0,Кинозал 25 (Киносезон 16)
+#EXTGRP:unsorted
+https://5656.ga/ch16.m3u8
+#EXTINF:0,Кинозал 26 (Киносезон 17)
+#EXTGRP:unsorted
+https://5656.ga/ch17.m3u8
+#EXTINF:0,Кинозал 27 (Киносезон 18)
+#EXTGRP:unsorted
+https://5656.ga/ch18.m3u8
+#EXTINF:0,Кинозал 28 (Movie Classic)
+#EXTGRP:unsorted
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Кинозал 29 (Музыка 1)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/37745/index.m3u8
+#EXTINF:0,Кинозал 30 (Музыка 2)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/37742/index.m3u8
+#EXTINF:0,Кинозал 31 (KVN-HD)
+#EXTGRP:unsorted
+https://hls.goodgame.ru/hls/172148.m3u8
+#EXTINF:0,Кинозал 32 (ДРАМА TIC EVGENIY)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/36732/index.m3u8
+#EXTINF:0,Кинозал 33 (кино сериал)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/37388/index.m3u8
+#EXTINF:0,Кинозал 34 (любимое индийское кино)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:0,Кинозал 35 (STR TV)
+#EXTGRP:unsorted
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:0,Кинозал 36 (KinoBroadcast 1)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/35525/index.m3u8
+#EXTINF:0,Кинозал 37 (Сити Эдем TV)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:0,Кинозал 38 (Сити Эдем киноклассика)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:0,Кинозал 39 (Фантастика SCIFI)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,Кинозал 40 (Кино VHS)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/38794/index.m3u8
+#EXTINF:0,Кинозал 41 (ПАМЯТЬ)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Кинозал 42 (Ужасы VHS)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:0,Кинозал 43 (Видеосалон VHS)
+#EXTGRP:unsorted
+https://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:0,Кинозал 44 (МультСказки)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,Кинозал 45 (Eurodance 90 HD)
+#EXTGRP:unsorted
+https://eurodance.catcast.tv/content/36987/index.m3u8
+#EXTINF:0,Кинозал 46 (ANIME канал)
+#EXTGRP:unsorted
+https://v2.catcast.tv/content/35676/index.m3u8
+
+
+*************†*********************
 #EXTINF:-1,BCU Action HD
 #EXTGRP:BCU
 http://1.1usd.tv:34000/ch769/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_-pEZUOiVJx5oNe9iDYM12
