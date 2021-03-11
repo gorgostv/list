@@ -252,6 +252,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 #EXTGRP:ЦТВ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир Premium
+#EXTGRP:ЦТВ
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,360°
 #EXTGRP:ЦТВ
 http://video1.in-news.ru/360/index.m3u8
@@ -260,10 +263,13 @@ http://video1.in-news.ru/360/index.m3u8
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1-a1.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
+#EXTINF:-1,Рен ТВ International
+#EXTGRP:ЦТВ 
+http://89.106.234.3:80/RenTV_34_35.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,ЧЕ!
+#EXTINF:-1,ЧЕ! +2
 #EXTGRP:ЦТВ
-http://212.20.42.30:1234/udp/225.54.202.84:5000
+http://tvsever.ru:8080/hls/ach2.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP:ЦТВ
 https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
@@ -272,7 +278,7 @@ https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
 http://37.193.162.6:4022/udp/239.1.21.55:1234
 #EXTINF:-1,ТНТ 4
 #EXTGRP:ЦТВ
-http://88.201.240.197:81/udp/239.239.3.36:5239
+http://51.68.141.106:8081/tv/tnt4/playlist.m3u8
 #EXTINF:-1,Звезда
 #EXTGRP:ЦТВ
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
