@@ -236,6 +236,9 @@ http://myott.top/stream/DIPK8H19CP8/223.m3u8
 #EXTINF:-1,НТВ HD
 #EXTGRP:ЦТВ
 http://myott.top/stream/DIPK8H19CP8/134.m3u8
+#EXTINF:-1,НТВ Стиль
+#EXTGRP:ЦТВ
+http://62.122.90.157:81/udp/239.1.8.32:1234
 #EXTINF:-1,СТС
 #EXTGRP:ЦТВ
 https://hzv4.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/9/playlist.m3u8
