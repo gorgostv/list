@@ -252,9 +252,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 #EXTGRP:ЦТВ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Мир Premium
-#EXTGRP:ЦТВ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,360°
 #EXTGRP:ЦТВ
 http://video1.in-news.ru/360/index.m3u8
@@ -263,11 +260,11 @@ http://video1.in-news.ru/360/index.m3u8
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1-a1.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
+http://89.106.234.3:80/RenTV_34_35.m3u8
 #EXTINF:-1,Рен ТВ International
 #EXTGRP:ЦТВ 
-http://89.106.234.3:80/RenTV_34_35.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,ЧЕ! +2
+#EXTINF:-1,ЧЕ!
 #EXTGRP:ЦТВ
 http://tvsever.ru:8080/hls/ach2.m3u8
 #EXTINF:-1,ТНТ
