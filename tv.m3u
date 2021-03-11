@@ -263,7 +263,7 @@ https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1
 http://spacetv.in/stream/DIPK8H19CP8/132.m3u8
 #EXTINF:-1,Рен ТВ International
 #EXTGRP:ЦТВ 
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+http://89.106.234.3:80/RenTV_34_35.m3u8
 #EXTINF:-1,ЧЕ!
 #EXTGRP:ЦТВ
 http://tvsever.ru:8080/hls/ach2.m3u8
