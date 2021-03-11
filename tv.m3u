@@ -296,9 +296,6 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/otr/playlist.m3u8
 #EXTINF:-1,ТВЦ
 #EXTGRP:ЦТВ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:-1,Известия
-#EXTGRP:ЦТВ
-http://88.201.240.197:81/udp/239.239.3.83:5239
 #EXTINF:-1,РБК
 #EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
@@ -313,7 +310,7 @@ http://88.201.240.197:81/udp/239.239.3.3:5239
 http://91.219.88.18:45125/retro/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ностальгия
 #EXTGRP:ЦТВ
-http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8?version=2?q=?seg-user-zona-iptv.ru-v1-a1.m3u
+http://51.68.140.190:8081/tv/nostalgiya/playlist.m3u8
 #EXTINF:-1,ОРТ Планета
 #EXTGRP:ЦТВ
 http://pull-media56.cdnvideo.ru/media56-pull/ortoren/playlist.m3u8
