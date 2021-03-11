@@ -326,12 +326,9 @@ http://rtmp.one.by:2200
 #EXTINF:-1,Russian Music Box
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1,VIVA
+#EXTINF:-1,VIVA Russia
 #EXTGRP:Музыка
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1,НОВОЕ РАДИО
-#EXTGRP:Музыка
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1,Fresh TV
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/fresh/fresh0.m3u8
