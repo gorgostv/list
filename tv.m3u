@@ -258,6 +258,9 @@ http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1,360° Новости
 #EXTGRP:ЦТВ
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:-1,Время
+#EXTGRP:ЦТВ
+http://spacetv.in/stream/DIPK8H19CP8/237.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
 http://spacetv.in/stream/DIPK8H19CP8/132.m3u8
