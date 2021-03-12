@@ -408,7 +408,7 @@ http://myott.top/stream/DIPK8H19CP8/316.m3u8
 http://185.74.7.220:8080/techno_24/mpegts
 #EXTINF:-1,365 дней ТВ
 #EXTGRP:Познавательные
-
+http://31.210.208.168:8080/365day/index.m3u8
 #EXTINF:-1,Viasat Explore
 #EXTGRP:Познавательные
 http://176.111.65.65:1234/udp/224.1.1.93:1234
@@ -468,8 +468,7 @@ http://tvport.it-tele.net:8000/5b479161bdd2adb7d8c800c50b15deb4
 http://178.163.25.166:4022/udp/234.0.0.188:2000
 #EXTINF:-1,Моя планета
 #EXTGRP:Познавательные
-https://rushd2.canlitvplayer.com/myplanet/index.m3u8
-
+http://178.163.21.217:4022/udp/234.0.0.228:2000?alensat.org
 
 */test
 
