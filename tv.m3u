@@ -399,7 +399,7 @@ http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 #EXTINF:-1,Animal Planet
 #EXTGRP:Познавательные
-http://
+https://s4.idata.uz/animal/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,Поехали!
 #EXTGRP:Познавательные
 http://myott.top/stream/DIPK8H19CP8/316.m3u8
@@ -411,13 +411,13 @@ http://185.74.7.220:8080/techno_24/mpegts
 http://31.210.208.168:8080/365day/index.m3u8
 #EXTINF:-1,Viasat Explore
 #EXTGRP:Познавательные
-http://176.111.65.65:1234/udp/224.1.1.93:1234
+http://109.200.130.124:7000/play/a006
 #EXTINF:-1,Viasat History
 #EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s70/04.m3u8
+https://s1.idata.uz/stch_temp20/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,Viasat Nature
 #EXTGRP:Познавательные
-http://194.28.153.53:81/udp/225.0.55.57:1234
+http://109.200.130.124:7000/play/a008
 #EXTINF:-1,History
 #EXTGRP:Познавательные
 http://94.230.240.12:8080/history/index.m3u8
@@ -435,10 +435,10 @@ http://spacetv.in/stream/DIPK8H19CP8/231.m3u8
 http://37.195.3.13:81/udp/239.1.5.7:1234
 #EXTINF:-1,Совершенно секретно
 #EXTGRP:Познавательные
-https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0_54_480p.json/index-v1-a1.m3u8?version=2
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0.m3u8
 #EXTINF:-1,Тайна
 #EXTGRP:Познавательные
-http://88.118.158.168:8094/play/a081/index.m3u8
+http://37.17.12.124:8912/play/a008
 #EXTINF:-1,Неизвестная планета
 #EXTGRP:Познавательные
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
@@ -469,7 +469,15 @@ http://178.163.25.166:4022/udp/234.0.0.188:2000
 #EXTINF:-1,Моя планета
 #EXTGRP:Познавательные
 http://178.163.21.217:4022/udp/234.0.0.228:2000?alensat.org
-
+#EXTINF:-1,Приключения
+#EXTGRP:Познавательные
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Teletr.m3u8&serviceArea=MSK-SA-1
+#EXTINF:-1,Космический
+#EXTGRP:Познавательные
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Eureka.m3u8&serviceArea=MSK-SA-1
+#EXTINF:-1,Нано ТВ
+#EXTGRP:Познавательные
+http://nano.teleservice.su:8080/hls/nano.m3u8
 */test
 
 #EXTINF:-1,Bridge TV
