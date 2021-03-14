@@ -37,7 +37,7 @@ http://195.189.105.158:9050/133/index.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIP_Serial_HD.png" group-title="Кино", ViP Serial
 http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
 
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/kinopremiera.png " group-title="Кино" ,КиноПремьера
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/kinopremiera.png" group-title="Кино", КиноПремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
 #EXTINF:-1,Кинокомедия
