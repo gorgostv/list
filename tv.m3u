@@ -206,7 +206,7 @@ http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
 
 #EXTINF:-1,Paramount channel
 #EXTGRP:Кино
-http://myott.top/stream/DA5345HD3KZ/219.m3u8
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
 
 #EXTINF:-1,Paramount Comedy
 #EXTGRP:Кино
