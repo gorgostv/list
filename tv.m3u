@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Категория",  Название канала
+#EXTINF:-1 tvg-logo=" " group-title="Категория",  Название канала
 http://adres-kanala.tut/index.m3u
 
-***************KINO***************************
+*****************   KINO   *************************
 #EXTINF:-1 tvg-logo=" " group-title="Кино", Дом Кино
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 
@@ -37,8 +37,7 @@ http://195.189.105.158:9050/133/index.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIP_Serial_HD.png" group-title="Кино", ViP Serial
 http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
 
-#EXTINF:-1,КиноПремьера
-#EXTGRP:Кино
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/kinopremiera.png " group-title="Кино" ,КиноПремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
 #EXTINF:-1,Кинокомедия
