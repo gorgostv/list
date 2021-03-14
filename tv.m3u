@@ -317,7 +317,7 @@ https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 ##########################MUZIKA################################################
 #EXTINF:-1,Europa Plus
 #EXTGRP:Музыка
-https://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=YIkN9dSpv3W7YXbk_nG1vw&e=1616303099&hls_proxy_host=dtmf-01&zoid=web
+https://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/playlist.m3u8?md5=dC3FoWZnxA15xmK8n0a4Qw&e=1616303736&zoid=web
 http://88.201.240.197:81/udp/239.195.0.52:1234
 #EXTINF:-1,AIVA TV
 #EXTGRP:Музыка
@@ -381,7 +381,7 @@ https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
 https://s4.idata.uz/muztv/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,Vostok TV
 #EXTGRP:Музыка
-https://
+https://mhd.iptv2022.com/p/0VFGYTlEmtH8EkQeQ0mtaw,1615783852/streaming/tmb/324/vm2w/playlist.m3u8
 
 
 ############################################################################################################
