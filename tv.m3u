@@ -1,217 +1,285 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Категория",  Название канала
+http://adres-kanala.tut/index.m3u
+
 ***************KINO***************************
-#EXTINF:-1,Дом Кино
-#EXTGRP:Кино
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Кино", Дом Кино
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
-#EXTINF:-1,Дом Кино Премиум HD
-#EXTGRP:Кино
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Кино", Дом Кино Премиум HD
 https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+
 #EXTINF:-1,НТВ ХИТ
 #EXTGRP:Кино
 http://91.192.168.251:8401
+
 #EXTINF:-1,НТВ СЕРИАЛ
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/301.m3u8
+
 #EXTINF:-1,Комедийное HD
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/74.m3u8
+
 #EXTINF:-1,VIP COMEDY
 #EXTGRP:Кино
 http://195.189.105.158:9050/132/index.m3u8
+
 #EXTINF:-1,ViP Premiere
 #EXTGRP:Кино
 http://195.189.105.158:9050/134/index.m3u8
+
 #EXTINF:-1,VIP Megahit
 #EXTGRP:Кино
 http://195.189.105.158:9050/133/index.m3u8
+
 #EXTINF:-1,ViP Serial
 #EXTGRP:Кино
 http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
+
 #EXTINF:-1,КиноПремьера
 #EXTGRP:Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+
 #EXTINF:-1,Кинокомедия
 #EXTGRP:Кино
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+
 #EXTINF:-1,Киносерия
 #EXTGRP:Кино
 http://51.68.140.190:8081/tv/kinoseria/playlist.m3u8
+
 #EXTINF:-1,Кинохит
 #EXTGRP:Кино
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+
 #EXTINF:-1,Киносемья
 #EXTGRP:Кино
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+
 #EXTINF:-1,КиноСвидание
 #EXTGRP:Кино
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+
 #EXTINF:-1,Мужское кино
 #EXTGRP:Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+
 #EXTINF:-1,Киномикс
 #EXTGRP:Кино
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+
 #EXTINF:-1,Киноужас
 #EXTGRP:Кино
 http://myott.top/stream/DA5345HD3KZ/278.m3u8
+
 #EXTINF:-1,Наше новое кино
 #EXTGRP:Кино
 https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Родное кино
 #EXTGRP:Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+
 #EXTINF:-1,Любимое Кино
 #EXTGRP:Кино
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+
 #EXTINF:-1,Наше HD
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/217.m3u8
+
 #EXTINF:-1,Наш Кинороман HD
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/213.m3u8
+
 #EXTINF:-1,Иллюзион +
 #EXTGRP:Кино
 http://178.163.20.236:4022/udp/234.0.0.175:2000?alensat.org
+
 #EXTINF:-1,Русский Иллюзион
 #EXTGRP:Кино
 http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
+
 #EXTINF:-1,Русский Бестселлер
 #EXTGRP:Кино
 http://spacetv.in/stream/DIPK8H19CP8/208.m3u8
+
 #EXTINF:-1,Русский детектив
 #EXTGRP:Кино
 http://51.195.44.53:8081/tv/rus-detektiv/chunks.m3u8
+
 #EXTINF:-1,Русский роман
 #EXTGRP:Кино
 http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
+
 #EXTINF:-1,Русская комедия
 #EXTGRP:Кино
 http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+
 #EXTINF:-1,TV1000
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/110.m3u8
+
 #EXTINF:-1,TV1000 Русское кино HD 
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/123.m3u8
+
 #EXTINF:-1,TV1000 Action
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/100.m3u8
+
 #EXTINF:-1,TV1000 World Kino
 #EXTGRP:Кино
 http://195.189.105.158:9050/121/index.m3u8
+
 #EXTINF:-1 ,FOX
 #EXTGRP:Кино
 http://51.68.140.190:8081/tv/fox/playlist.m3u8
+
 #EXTINF:-1 ,SPIKE
 #EXTGRP:Кино
 http://myott.top/stream/DA5345HD3KZ/304.m3u8
+
 #EXTINF:-1 ,FAN
 #EXTGRP:Кино
 http://hls.goodgame.ru/hls/157239.m3u8
+
 #EXTINF:-1 ,ULTO TV
 #EXTGRP:Кино
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
+
 #EXTINF:-1 ,Cinema
 #EXTGRP:Кино
 https://sc.id-tv.kz/Cinema_34_35.m3u8
+
 #EXTINF:-1 ,SHOT TV
 #EXTGRP:Кино
 http://31.210.208.168:8080/shottv/index.m3u8
+
 #EXTINF:-1 ,Кинопоказ
 #EXTGRP:Кино
 http://178.163.21.217:4022/udp/234.0.0.209:2000?alensat.org
+
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s45/04.m3u8
+
 #EXTINF:-1,Amedia 2
 #EXTGRP:Кино
 http://sc.id-tv.kz/A2_36_37.m3u8
+
 #EXTINF:-1,Amedia Hit HD
 #EXTGRP:Кино
 http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
+
 #EXTINF:-1,Amedia Premium HD
 #EXTGRP:Кино
 http://92.43.140.249/s64/04.m3u8
+
 #EXTINF:-1,Sony Channel HD
 #EXTGRP:Кино
 http://spacetv.in/stream/DIPK8H19CP8/69.m3u8
+
 #EXTINF:-1,Sony Sci-Fi
 #EXTGRP:Кино
 http://212.79.122.24:7173/sony_sci-Fi
+
 #EXTINF:-1,Sony Turbo
 #EXTGRP:Кино
 http://spacetv.in/stream/DIPK8H19CP8/263.m3u8
+
 #EXTINF:-1,Мир сериала 
 #EXTGRP:Кино
 http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8?version=2
+
 #EXTINF:-1,Киносат
 #EXTGRP:Кино
 http://8f5d0aba.akadatel.com/iptv/V9R6P3BL5BBWV9/2121/index.m3u8
+
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/221.m3u8
+
 #EXTINF:0,TV XXI
 #EXTGRP:Кино
 http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+
 #EXTINF:-1,Paramount channel
 #EXTGRP:Кино
 http://myott.top/stream/DA5345HD3KZ/219.m3u8
+
 #EXTINF:-1,Paramount Comedy
 #EXTGRP:Кино
 http://37.17.14.147:8904/play/a00h
+
 #EXTINF:0,НСТ
 #EXTGRP:Кино
 http://51.195.44.53:8081/tv/nst/chunks.m3u8
+
 #EXTINF:-1,KINO 24
 #EXTGRP:Кино
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+
 #EXTINF:-1,Премиальное HD
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/215.m3u8
+
 #EXTINF:-1 ,Hollywood
 #EXTGRP:Кино
 http://109.200.130.124:7006/play/a02n
+
 #EXTINF:-1 ,Hollywood HD
 #EXTGRP:Кино
 http://94.100.220.44:8080/HollywodHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,TVM Channel
 #EXTGRP:Кино
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,Шокирующее HD
 #EXTGRP:Кино
 http://myott.top/stream/DA5345HD3KZ/75.m3u8
+
 #EXTINF:-1,Trash HD
 #EXTGRP:Кино
 http://178.163.21.217:4022/udp/234.0.0.3:2000?alensat.org
+
 #EXTINF:-1 ,Дорама HD
 #EXTGRP:Кино
 http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+
 EXTINF:-1 ,Star Cinema
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/310.m3u8
+
 #EXTINF:0,КиноЗаказ HD
 #EXTGRP:Кино
 http://hls.goodgame.ru/hls/5346.m3u8
+
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/214.m3u8
+
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+
 #EXTINF:-1,Еврокино
 #EXTGRP:Кино
 http://51.68.141.106:8081/tv/evrokino/chunks.m3u8
+
 #EXTINF:-1,САРАФАН
 #EXTGRP:Кино
 http://myott.top/stream/DIPK8H19CP8/81.m3u8
+
 #EXTINF:-1,РЕТРО
 #EXTGRP:Кино
 http://185.74.7.220:8080/retro/mpegts
 
-
-*****************KINO-END**********************
-******************OBSHIE***********************
+/*****************KINO-END**********************
+/******************OBSHIE***********************
 #EXTINF:-1,Первый Канал
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
