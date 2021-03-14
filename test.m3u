@@ -1,0 +1,70 @@
+#EXTM3U url-tvg="http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JKR946K/SCi-Fi.png",ФАНТАСТИКА Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBS07Rz/image.png",ПАМЯТЬ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R31Dq59/image.png",МультСказки
+https://autopilot.catcast.tv/content/38850/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhpGnwc/image.png",УЖАСТИК
+https://autopilot.catcast.tv/content/38896/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7h8mcW/image.png",ВСЁ ВКЛЮЧЕНО
+https://autopilot.catcast.tv/content/39161/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/logos/7efd7eec6bfa234b47a337d84c4bf30e.gif",TRANCE IS STAR RADIO
+https://tis.catcast.tv/content/391/index.m3u8
+
+
+#EXTINF:-1 group-title="Кино",BCU Action HD
+http://1.1usd.tv:34000/ch769/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_-pEZUOiVJx5oNe9iDYM12
+#EXTINF:-1 group-title="Кино",BCU Catastrophe HD
+http://1.1usd.tv:34000/ch770/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9S39k0lqJ-7HuesZU0myyu
+#EXTINF:-1 group-title="Кино",BCU Cinema HD
+http://1.1usd.tv:34000/ch771/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay-ux2F9DLzNSpBPsjxGQ0uk
+#EXTINF:-1 group-title="Кино",BCU Cinema+ HD
+http://1.1usd.tv:34000/ch834/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9SrBNkbPdL148Mk3lMifxa
+#EXTINF:-1 group-title="Кино",BCU Comedy HD
+http://1.1usd.tv:34000/ch772/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9SNI6EdfFc8T1fIwk_Yssm
+#EXTINF:-1 group-title="Кино",BCU Fantastic HD
+http://1.1usd.tv:34000/ch773/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_DfA_MfeJvs1hj1-k3IiXM
+#EXTINF:-1 group-title="Кино",BCU Filmystic HD
+http://1.1usd.tv:34000/ch774/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay8Rjsjh7gkyvS3qBFGFU0O6
+#EXTINF:-1 group-title="Кино",BCU History HD
+http://1.1usd.tv:34000/ch775/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9AigK0J3bPZZ4sk5xcsZM8
+#EXTINF:-1 group-title="Кино",BCU Kids+ HD
+http://1.1usd.tv:34000/ch559/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_yAnBsmKL_pQds5kX5jjtr
+#EXTINF:-1 group-title="Кино",BCU Kinorating HD
+http://1.1usd.tv:34000/ch776/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_Ky6RP_8-12H2LmHD8KBsr
+#EXTINF:-1 group-title="Кино",BCU Marvel HD
+http://1.1usd.tv:34000/ch777/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9DkHaajalKkK0c7OR9s01n
+#EXTINF:-1 group-title="Кино",BCU Premiere HD
+http://1.1usd.tv:34000/ch778/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9V_xLJyOynrgXRF5Ee2ZF7
+#EXTINF:-1 group-title="Кино",BCU Romantic HD
+http://1.1usd.tv:34000/ch779/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_2IBpVa5S0RLvEsIcxQRIZ
+#EXTINF:-1 group-title="Кино",BCU Russian HD
+http://1.1usd.tv:34000/ch780/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay-uyDk5Gbyk1vzUSfqLuNn8
+#EXTINF:-1 group-title="Кино",BCU STARS HD
+http://1.1usd.tv:34000/ch835/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay84WST1zjRtKbg0fUm9Q74P
+#EXTINF:-1 group-title="Кино",BCU Ultra 4K
+http://1.1usd.tv:34000/ch849/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay84WepwR6gWWcVuSVsKnS3s
+#EXTINF:-1 group-title="Кино",BCU VHS HD
+http://1.1usd.tv:34000/ch781/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay-EBzFFwFjGucLaw-M-tr3W
+#EXTINF:-1 group-title="Кино",BCU Кинозал Premiere 1 HD
+http://1.1usd.tv:34000/ch782/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay8d-OAbDwrPPXVRU26IL1eD
+#EXTINF:-1 group-title="Кино",BCU Кинозал Premiere 2 HD
+http://1.1usd.tv:34000/ch783/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_HSZwKIcJ2_NC8NQOPDQMP
+#EXTINF:-1 group-title="Кино",BCU Кинозал Premiere 3 HD
+http://1.1usd.tv:34000/ch784/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay-BCF3b6Wt8srCpsi3-EhyU
+#EXTINF:-1 group-title="Кино",BCU Кинозал Premiere 4 HD
+http://1.1usd.tv:34000/ch785/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay-JS2IFrGWFDUUnXjVBn1rl
+#EXTINF:-1 group-title="Кино",BCU Сваты HD
+http://1.1usd.tv:34000/ch788/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay9ytQHDHLaTcPmBEWN3X-Uo
+#EXTINF:-1 group-title="Кино",BCU СССР HD
+http://1.1usd.tv:34000/ch789/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_mEaC2mty2cj-VYx6yjWC3
+#EXTINF:-1 group-title="Кино",BCUMEDIA HD
+http://1.1usd.tv:34000/ch790/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay8ktwUvne95wAuilXKVYPxW
+
