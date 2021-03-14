@@ -34,8 +34,7 @@ http://195.189.105.158:9050/134/index.m3u8
 #EXTGRP:Кино
 http://195.189.105.158:9050/133/index.m3u8
 
-#EXTINF:-1,ViP Serial
-#EXTGRP:Кино
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIP_Serial_HD.png" group-title="Кино", ViP Serial
 http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
 
 #EXTINF:-1,КиноПремьера
