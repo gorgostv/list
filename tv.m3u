@@ -143,8 +143,7 @@ http://myott.top/stream/DA5345HD3KZ/304.m3u8
 #EXTGRP:Кино
 http://hls.goodgame.ru/hls/157239.m3u8
 
-#EXTINF:-1 ,ULTO TV
-#EXTGRP:Кино
+#EXTINF:-1 tvg-logo="https://ultotv.ru/wp-content/uploads/2021/03/1-1.png" group-title="Кино", ULTO TV
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 #EXTINF:-1 ,Cinema
