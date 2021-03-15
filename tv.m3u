@@ -614,11 +614,11 @@ http://188.233.61.224:81/udp/225.0.55.18:1234
 #EXTGRP:Познавательные
 http://213.109.61.5:4777/udp/239.255.0.232:1234
 
-#EXTINF:-1,Приключения
+#EXTINF:-1,Приключения HD
 #EXTGRP:Познавательные
 http://ott-cdn.ucom.am/s99/index.m3u8
 
-#EXTINF:-1,Наука
+#EXTINF:-1,Наука HD
 #EXTGRP:Познавательные
 http://ott-cdn.ucom.am/s98/index.m3u8
 
