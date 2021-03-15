@@ -614,6 +614,10 @@ http://188.233.61.224:81/udp/225.0.55.18:1234
 #EXTGRP:Познавательные
 http://213.109.61.5:4777/udp/239.255.0.232:1234
 
+#EXTINF:-1,Наука
+#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s98/index.m3u8
+
 #EXTINF:-1,Bridge TV
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s34/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
