@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo=" " group-title="Категория",  Название канала
 http://adres-kanala.tut/index.m3u
 
-*****************   KINO   *************************
 #EXTINF:-1 tvg-logo=" " group-title="Кино", Дом Кино
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 
@@ -276,111 +275,138 @@ http://myott.top/stream/DIPK8H19CP8/81.m3u8
 #EXTGRP:Кино
 http://185.74.7.220:8080/retro/mpegts
 
-/*****************KINO-END**********************
-/******************OBSHIE***********************
 #EXTINF:-1,Первый Канал
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
+
 #EXTINF:-1,Россия 1
 #EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
+
 #EXTINF:-1,РТР-Планета Азия
 #EXTGRP:ЦТВ
 https://a3569455888-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
 #EXTINF:-1,Россия 24
 #EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+
 #EXTINF:-1,НТВ
 #EXTGRP:ЦТВ
 http://myott.top/stream/DIPK8H19CP8/223.m3u8
+
 #EXTINF:-1,НТВ HD
 #EXTGRP:ЦТВ
 http://myott.top/stream/DIPK8H19CP8/134.m3u8
+
 #EXTINF:-1,НТВ Стиль
 #EXTGRP:ЦТВ
 http://62.122.90.157:81/udp/239.1.8.32:1234
+
 #EXTINF:-1,Fashion TV
 #EXTGRP:ЦТВ
 http://ott-cdn.ucom.am/s30/index.m3u8
+
 #EXTINF:-1,Домашний
 #EXTGRP:ЦТВ
 http://51.195.44.53:8081/tv/domashniy/chunks.m3u8
+
 #EXTINF:-1,СТС
 #EXTGRP:ЦТВ
 https://hzv4.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/9/playlist.m3u8
+
 #EXTINF:-1,СТС International
 #EXTGRP:ЦТВ
 https://sc.id-tv.kz/STS_38_39.m3u8
+
 #EXTINF:-1,Телекафе
 #EXTGRP:ЦТВ
 https://s4.idata.uz/telecafe/tracks-v1a1/rewind-7200.m3u8
+
 #EXTINF:-1,Мир HD
 #EXTGRP:ЦТВ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
 #EXTINF:-1,Мир 24
 #EXTGRP:ЦТВ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
 #EXTINF:-1,360°
 #EXTGRP:ЦТВ
 http://video1.in-news.ru/360/index.m3u8
+
 #EXTINF:-1,360° Новости
 #EXTGRP:ЦТВ
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1-a1.m3u8
+
 #EXTINF:-1,Время
 #EXTGRP:ЦТВ
 http://spacetv.in/stream/DIPK8H19CP8/237.m3u8
+
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
 http://spacetv.in/stream/DIPK8H19CP8/132.m3u8
+
 #EXTINF:-1,Рен ТВ International
 #EXTGRP:ЦТВ 
 http://89.106.234.3:80/RenTV_34_35.m3u8
+
 #EXTINF:-1,ЧЕ!
 #EXTGRP:ЦТВ
 http://tvsever.ru:8080/hls/ach2.m3u8
+
 #EXTINF:-1,ТНТ
 #EXTGRP:ЦТВ
 https://hzv2.sysnet.top/video/yvSwIx2zfWPrFEosYHVWQA/11/playlist.m3u8
+
 #EXTINF:-1,ТНТ HD
 #EXTGRP:ЦТВ
 http://37.193.162.6:4022/udp/239.1.21.55:1234
+
 #EXTINF:-1,ТНТ 4
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/tnt4/playlist.m3u8
+
 #EXTINF:-1,Звезда
 #EXTGRP:ЦТВ
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+
 #EXTINF:-1,Звезда HD
 #EXTGRP:ЦТВ
 http://83.222.205.65:8080/zvezda/index.m3u8
+
 #EXTINF:-1,ТВ-3
 #EXTGRP:ЦТВ
 https://s4.idata.uz/tv3/tracks-v1a1/rewind-7200.m3u8
+
 #EXTINF:-1,ОТР
 #EXTGRP:ЦТВ
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/otr/playlist.m3u8
+
 #EXTINF:-1,ТВЦ
 #EXTGRP:ЦТВ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+
 #EXTINF:-1 ,Пятница
 #EXTGRP:ЦТВ
 http://51.195.44.53:8081/tv/piatnica/playlist.m3u8
+
 #EXTINF:-1,Ностальгия
 #EXTGRP:ЦТВ
 http://51.68.140.190:8081/tv/nostalgiya/playlist.m3u8
+
 #EXTINF:-1,Москва 24
 #EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+
 #EXTINF:-1,РБК
 #EXTGRP:ЦТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
 #EXTINF:-1,Euronews
 #EXTGRP:ЦТВ
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
-
-************************OBSHIE-END***********************
-##########################MUZIKA################################################
 #EXTINF:-1,Europa Plus
 #EXTGRP:Музыка
 http://5.145.236.71:4022/udp/233.67.0.28:5510
@@ -472,8 +498,6 @@ https://s4.idata.uz/muztv/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1,Vostok TV
 #EXTGRP:Музыка
 https://
-
-############################################################################################################
 
 #EXTINF:-1,Discovery Channel
 #EXTGRP:Познавательные
@@ -753,8 +777,6 @@ https://eurodance.catcast.tv/content/36987/index.m3u8
 #EXTGRP:unsorted
 https://v2.catcast.tv/content/35676/index.m3u8
 
-
-*************†*********************
 #EXTINF:-1,BCU Action HD
 #EXTGRP:BCU
 http://1.1usd.tv:34000/ch769/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_-pEZUOiVJx5oNe9iDYM12
