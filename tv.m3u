@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz", url-tvg="http://ott.lightiptv.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo=" " group-title="Категория",  Название канала
 http://adres-kanala.tut/index.m3u
