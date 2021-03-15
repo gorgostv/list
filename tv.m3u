@@ -589,11 +589,7 @@ http://188.233.61.224:81/udp/225.0.55.18:1234
 
 #EXTINF:-1,ЗОО ТВ
 #EXTGRP:Познавательные
-http://109.248.95.80:5555/udp/239.195.1.24:1234
-
-#
-***********************************************
-*/test
+http://213.109.61.5:4777/udp/239.255.0.232:1234
 
 #EXTINF:-1,Bridge TV
 #EXTGRP:Тест
@@ -617,9 +613,6 @@ http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
 #EXTINF:-1,Eurodance 90
 #EXTGRP:Тест
 https://eurodance.catcast.tv/content/36987/index.m3u8
-
-
-**************************
 
 #EXTINF:0,Кинозал 1 (Марс-ТВ)
 #EXTGRP:unsorted
