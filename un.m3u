@@ -26,11 +26,15 @@ http://spacetv.in/stream/DIPK8H19CP8/27.m3u8
 #EXTINF:-1, Астана
 http://spacetv.in/stream/DIPK8H19CP8/28.m3u8
 
-#EXTINF:-1,ОНТ
+#EXTINF:-1,3
 http://spacetv.in/stream/DIPK8H19CP8/29.m3u8
 
-#EXTINF:-1,ОНТ
-http://spacetv.in/stream/DIPK8H19CP8/30.m3u8
+#EXTINF:-1,Русская ночь
+http://spacetv.in/stream/DIPK8H19CP8/54.m3u8
+
+#EXTINF:-1,Nuart tv
+http://spacetv.in/stream/DIPK8H19CP8/55.m3u8
+
 
 
 EXTINF:-1,НЕ ЗНАЮ ТВ
