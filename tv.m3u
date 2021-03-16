@@ -630,6 +630,10 @@ http://ott-cdn.ucom.am/s98/index.m3u8
 #EXTGRP:Познавательные
 http://ott-cdn.ucom.am/s80/index.m3u8
 
+#EXTINF:-1,Europa Plus TV
+#EXTGRP:Тест
+http://92.241.118.230:4022/udp/233.67.0.28:5510
+
 #EXTINF:-1,Bridge TV
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s34/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
