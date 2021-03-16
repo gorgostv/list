@@ -35,7 +35,20 @@ http://spacetv.in/stream/DIPK8H19CP8/54.m3u8
 #EXTINF:-1,Nuart tv
 http://spacetv.in/stream/DIPK8H19CP8/55.m3u8
 
+#EXTINF:-1,PlayBoy
+http://spacetv.in/stream/DIPK8H19CP8/56.m3u8
 
+#EXTINF:-1,Nu
+http://spacetv.in/stream/DIPK8H19CP8/57.m3u8
+
+#EXTINF:-1,О!
+http://spacetv.in/stream/DIPK8H19CP8/60.m3u8
+
+#EXTINF:-1,Хз
+http://spacetv.in/stream/DIPK8H19CP8/61.m3u8
+
+#EXTINF:-1, Cinema
+http://spacetv.in/stream/DIPK8H19CP8/62.m3u8
 
 EXTINF:-1,НЕ ЗНАЮ ТВ
 http://spacetv.in/stream/DIPK8H19CP8/344.m3u8
