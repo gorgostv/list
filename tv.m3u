@@ -594,6 +594,10 @@ http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.
 #EXTGRP:Познавательные
 http://spacetv.in/stream/DIPK8H19CP8/83.m3u8
 
+#EXTINF:-1,Неизвестная Планета HD
+#EXTGRP:Познавательные
+http://dmitry-tv.my1.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
+
 #EXTINF:-1,Оружие
 #EXTGRP:Познавательные
 http://cdn.nexttvnet.ru/hlsl/10/Oruzhie/Oruzhie_3/index.m3u8?bw872973168630.m3u8
