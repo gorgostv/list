@@ -278,9 +278,17 @@ http://185.74.7.220:8080/retro/mpegts
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 
+#EXTINF:-1,Первый Канал +4
+#EXTGRP:ЦТВ
+http://212.20.38.109:1234/udp/225.54.205.129:5000
+
 #EXTINF:-1,Россия 1
 #EXTGRP:ЦТВ
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Россия 1 +4
+#EXTGRP:ЦТВ
+http://212.20.38.109:1234/udp/225.54.205.130:5000
 
 #EXTINF:-1,РТР-Планета Азия
 #EXTGRP:ЦТВ
