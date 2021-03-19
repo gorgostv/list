@@ -682,7 +682,7 @@ http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTGRP:Тест
 https://strm.yandex.ru/kal/aiva/aiva0.m3u8
 
-#EXTINF:-1 group-title="Тест" tvg-name="MTV HITS" aspect-ratio="14:9",MTV HITS
+#EXTINF:-1 group-title="Тест" tvg-name="MTV HITS" aspect-ratio="4:3z2",MTV HITS
 http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
 
 #EXTINF:-1,Eurodance 90
