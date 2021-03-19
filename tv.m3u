@@ -689,6 +689,10 @@ http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
 #EXTGRP:Тест
 https://eurodance.catcast.tv/content/36987/index.m3u8
 
+#EXTINF:-1,Бобёр
+#EXTGRP:Тест
+https://sc.id-tv.kz/bober_38_39.m3u8
+
 #EXTINF:0,Кинозал 1 (Марс-ТВ)
 #EXTGRP:unsorted
 https://v2.catcast.tv/content/37033/index.m3u8
