@@ -678,6 +678,10 @@ http://ott-cdn.ucom.am/s34/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
+#EXTINF:-1,Bridge TV Deluxe
+#EXTGRP:Тест
+http://31.130.21.36:2732/udp/239.1.9.31:1234
+
 #EXTINF:-1,AIVA TV
 #EXTGRP:Тест
 https://strm.yandex.ru/kal/aiva/aiva0.m3u8
