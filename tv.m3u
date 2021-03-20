@@ -268,7 +268,7 @@ http://51.68.141.106:8081/tv/evrokino/chunks.m3u8
 
 #EXTINF:-1,САРАФАН
 #EXTGRP:Кино
-http://myott.top/stream/DIPK8H19CP8/81.m3u8
+http://178.163.64.9:4022/udp/234.0.0.246:2000
 
 #EXTINF:-1,РЕТРО
 #EXTGRP:Кино
