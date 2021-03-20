@@ -274,6 +274,10 @@ http://myott.top/stream/DIPK8H19CP8/81.m3u8
 #EXTGRP:Кино
 http://185.74.7.220:8080/retro/mpegts
 
+#EXTINF:-1,Победа
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s47/04.m3u8
+
 #EXTINF:-1,Первый Канал
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
