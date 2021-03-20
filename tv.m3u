@@ -600,7 +600,7 @@ http://spacetv.in/stream/DIPK8H19CP8/231.m3u8
 
 #EXTINF:-1,Travel+Adventure HD
 #EXTGRP:Познавательные
-http://109.248.95.80:5555/udp/239.195.1.23:1234
+http://109.248.115.156:40222/udp/239.195.1.23:1234
 
 #EXTINF:-1,Совершенно секретно
 #EXTGRP:Познавательные
