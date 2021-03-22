@@ -101,7 +101,7 @@ http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
 
 #EXTINF:-1,Русский Бестселлер
 #EXTGRP:Кино
-http://spacetv.in/stream/DIPK8H19CP8/208.m3u8
+http://51.68.141.106:8081/tv/rus-bestceller/playlist.m3u8
 
 #EXTINF:-1,Русский детектив
 #EXTGRP:Кино
