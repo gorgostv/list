@@ -115,15 +115,15 @@ http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
 #EXTGRP:Кино
 http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 
-#EXTINF:-1,TV1000 HD
+#EXTINF:-1,TV 1000 HD
 #EXTGRP:Кино
 http://195.189.105.158:9050/119/index.m3u8
 
-#EXTINF:-1,TV1000 Русское кино HD 
+#EXTINF:-1,TV 1000 Русское кино HD 
 #EXTGRP:Кино
 http://5.128.254.228:81/udp/239.1.20.105:1234
 
-#EXTINF:-1,TV1000 Action HD
+#EXTINF:-1,TV 1000 Action HD
 #EXTGRP:Кино
 http://195.189.105.158:9050/120/index.m3u8
 
