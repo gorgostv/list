@@ -570,7 +570,7 @@ https://s4.idata.uz/animal/tracks-v1a1/rewind-7200.m3u8
 #EXTGRP:Познавательные
 https://sc.id-tv.kz/poehali_34_35.m3u8
 
-#EXTINF:-1,Т24
+#EXTINF:-1,24 Техно
 #EXTGRP:Познавательные
 http://185.74.7.220:8080/techno_24/mpegts
 
@@ -668,7 +668,7 @@ http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
 
 #EXTINF:-1,Моя планета
 #EXTGRP:Познавательные
-http://31.130.21.36:2732/udp/239.1.10.27:1234
+http://62.76.16.50:81/udp/239.195.4.83:1234
 
 #EXTINF:-1,Зоопарк
 #EXTGRP:Познавательные
