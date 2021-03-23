@@ -360,7 +360,7 @@ https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1
 
 #EXTINF:-1,Время
 #EXTGRP:ЦТВ
-http://spacetv.in/stream/DIPK8H19CP8/237.m3u8
+http://91.190.176.243:81/udp/239.195.3.42:1234
 
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
