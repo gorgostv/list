@@ -154,7 +154,7 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTGRP:Кино
 http://31.210.208.168:8080/shottv/index.m3u8
 
-#EXTINF:-1 ,Кинопоказ
+#EXTINF:-1 ,Кинопоказ HD
 #EXTGRP:Кино
 http://178.163.21.217:4022/udp/234.0.0.209:2000?alensat.org
 
@@ -196,7 +196,7 @@ http://8f5d0aba.akadatel.com/iptv/V9R6P3BL5BBWV9/2121/index.m3u8
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
-http://myott.top/stream/DIPK8H19CP8/221.m3u8
+http://62.76.16.50:81/udp/239.195.4.56:1234
 
 #EXTINF:0,TV XXI
 #EXTGRP:Кино
