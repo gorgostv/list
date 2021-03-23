@@ -282,6 +282,10 @@ http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 
+#EXTINF:-1,Первый Канал +2
+#EXTGRP:ЦТВ
+http://109.248.82.89:4044/udp/239.195.52.1:1234
+
 #EXTINF:-1,Первый Канал +4
 #EXTGRP:ЦТВ
 http://37.192.145.48:81/udp/239.1.15.1:1234
