@@ -668,6 +668,7 @@ http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
 
 #EXTINF:-1,Моя планета
 #EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://5.137.164.133:1234/udp/233.7.70.132:5000
 
 #EXTINF:-1,Зоопарк
@@ -694,7 +695,7 @@ http://ott-cdn.ucom.am/s80/index.m3u8
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/sibir/sibir0_169_720p.json/index-v1-a1.m3u8
 
-#EXTINF:-1,Nano
+#EXTINF:-1,NANO HD
 #EXTGRP:Познавательные
 http://nano.teleservice.su:8080/hls/nano.m3u8
 
