@@ -532,7 +532,7 @@ https://s4.idata.uz/muztv/tracks-v1a1/rewind-7200.m3u8
 
 #EXTINF:-0,Vostok TV
 #EXTGRP:Музыка
-http://109.248.95.80:5555/udp/239.195.0.157:1234
+http://109.248.81.215:4044/udp/239.195.0.157:1234
 
 #EXTINF:-0,MIX 24/7
 #EXTGRP:Музыка
