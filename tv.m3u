@@ -703,6 +703,10 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTGRP:Тест
 http://92.241.118.230:4022/udp/233.67.0.28:5510
 
+#EXTINF:-1,Music Box Gold
+#EXTGRP:Тест
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8?em9uYS1pcHR2LnJ1
+
 #EXTINF:-1,21 TV Armenia
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s10/04.m3u8
@@ -741,6 +745,10 @@ https://eurodance.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1,Бобёр
 #EXTGRP:Тест
 https://sc.id-tv.kz/bober_38_39.m3u8
+
+#EXTINF:-1,Дождь
+#EXTGRP:Тест
+https://strm.yandex.ru/kal/tvrain/tvrain0.m3u8?em9uYS1pcHR2LnJ1
 
 #EXTINF:-1,ID Fashion
 #EXTGRP:Тест
