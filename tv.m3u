@@ -174,9 +174,9 @@ http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
 #EXTGRP:Кино
 http://92.43.140.249/s64/04.m3u8
 
-#EXTINF:-1,Sony Channel HD
+#EXTINF:-1,Sony Channel
 #EXTGRP:Кино
-http://spacetv.in/stream/DIPK8H19CP8/69.m3u8
+http://109.248.82.89:4044/udp/239.195.0.53:1234
 
 #EXTINF:-1,Sony Sci-Fi
 #EXTGRP:Кино
@@ -184,7 +184,7 @@ http://212.79.122.24:7173/sony_sci-Fi
 
 #EXTINF:-1,Sony Turbo
 #EXTGRP:Кино
-http://spacetv.in/stream/DIPK8H19CP8/263.m3u8
+http://109.248.81.215:4044/udp/239.195.0.84:1234
 
 #EXTINF:-1,Мир сериала 
 #EXTGRP:Кино
