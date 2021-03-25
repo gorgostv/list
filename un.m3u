@@ -369,6 +369,27 @@ http://91.235.189.162:4777/udp/239.255.0.249:1234
 #EXTINF:-1,UEIP-TELECOM, Россия, Боязитова end
 https://
 
+#EXTINF:-1 group-title=""Неоком", Россия, Врангель",Shambala Club
+http://94.229.250.73:8008/play/a001/index.m3u8
+
+#EXTINF:-1 group-title=""Неоком", Россия, Врангель",Shant Serial HD
+http://94.229.250.73:8008/play/a002/index.m3u8
+
+#EXTINF:-1 group-title=""Неоком", Россия, Врангель",Nuart
+http://94.229.250.73:8008/play/a008/index.m3u8
+
+#EXTINF:-1 group-title=""Неоком", Россия, Врангель",Shant Music HD
+http://94.229.250.73:8008/play/a004/index.m3u8
+
+#EXTINF:-1 group-title=""Неоком", Россия, Врангель",Shant News
+http://94.229.250.73:8008/play/a005/index.m3u8
+
+#EXTINF:-1 group-title=""Неоком", Россия, Врангель",Shant Premium HD
+http://94.229.250.73:8008/play/a003/index.m3u8
+
+#EXTINF:-1 group-title=""Неоком", Россия, Врангель",Восток-ТВ
+http://94.229.250.73:8008/play/001/index.m3u8
+
 #EXTINF:-1,9
 http://spacetv.in/stream/DIPK8H19CP8/20.m3u8
 
