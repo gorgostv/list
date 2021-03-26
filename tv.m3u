@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo=" " group-title="Категория",  Название канала
 http://adres-kanala.tut/index.m3u
 
-#EXTINF:-1 tvg-logo=" " group-title="Кино", Дом Кино
+#EXTINF:-1 tvg-logo=" "group-title="Кино", Дом Кино
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Кино", Дом Кино Премиум HD
@@ -19,7 +19,7 @@ http://31.130.21.36:2732/udp/239.1.8.34:1234
 
 #EXTINF:-1,Комедийное HD
 #EXTGRP:Кино
-http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
+http://spacetv.in/stream/DA5345HD3KZ/74.m3u8
 
 #EXTINF:-1,VIP COMEDY
 #EXTGRP:Кино
@@ -34,7 +34,7 @@ http://195.189.105.158:9050/134/index.m3u8
 http://195.189.105.158:9050/133/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIP_Serial_HD.png" group-title="Кино", ViP Serial
-http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
+http://spacetv.in/stream/DA5345HD3KZ/311.m3u8
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/kinopremiera.png" group-title="Кино", КиноПремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
@@ -220,7 +220,7 @@ http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
 
 #EXTINF:-1,Премиальное HD
 #EXTGRP:Кино
-http://myott.top/stream/DIPK8H19CP8/215.m3u8
+http://myott.top/stream/DA5345HD3KZ/215.m3u8
 
 #EXTINF:-1 ,Hollywood
 #EXTGRP:Кино
@@ -244,11 +244,11 @@ http://178.163.21.217:4022/udp/234.0.0.3:2000?alensat.org
 
 #EXTINF:-1 ,Дорама HD
 #EXTGRP:Кино
-http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+http://sc.id-tv.kz/dorama_hd_34_35.m3u8
 
 EXTINF:-1 ,Star Cinema
 #EXTGRP:Кино
-http://myott.top/stream/DIPK8H19CP8/310.m3u8
+http://myott.top/stream/DA5345HD3KZ/310.m3u8
 
 #EXTINF:0,КиноЗаказ HD
 #EXTGRP:Кино
@@ -256,7 +256,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
-http://myott.top/stream/DIPK8H19CP8/214.m3u8
+http://myott.top/stream/DA5345HD3KZ/214.m3u8
 
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
@@ -308,11 +308,11 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m
 
 #EXTINF:-1,НТВ
 #EXTGRP:ЦТВ
-http://myott.top/stream/DIPK8H19CP8/223.m3u8
+http://myott.top/stream/DA5345HD3KZ/223.m3u8
 
 #EXTINF:-1,НТВ HD
 #EXTGRP:ЦТВ
-http://myott.top/stream/DIPK8H19CP8/134.m3u8
+http://myott.top/stream/DA5345HD3KZ/134.m3u8
 
 #EXTINF:-1,НТВ Стиль
 #EXTGRP:ЦТВ
@@ -608,7 +608,7 @@ http://195.49.206.244:90/domashnie_zhivotnye/index.m3u8
 
 #EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
-http://spacetv.in/stream/DIPK8H19CP8/231.m3u8
+http://spacetv.in/stream/DA5345HD3KZ/231.m3u8
 
 #EXTINF:-1,Travel+Adventure HD
 #EXTGRP:Познавательные
