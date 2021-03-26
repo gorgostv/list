@@ -193,3 +193,403 @@ http://188.191.189.11:81/udp/239.192.10.166:1234
 http://188.191.189.11:81/udp/239.192.10.168:1234
 #EXTINF:0, FOX
 http://188.191.189.11:81/udp/239.192.10.169:1234
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s1/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s2/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s3/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s4/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s5/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s6/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s7/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s8/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s9/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s10/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s11/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s12/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s13/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s14/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s15/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s16/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s17/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s18/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s19/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s20/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s21/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s22/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s23/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s24/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s25/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s26/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s27/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s28/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s29/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s30/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s31/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s32/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s33/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s34/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s35/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s36/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s37/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s38/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s39/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s40/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s41/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s42/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s43/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s44/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s45/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s46/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s47/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s48/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s49/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s50/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s51/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s52/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s53/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s54/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s55/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s56/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s57/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s58/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s59/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s60/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s61/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s62/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s63/04.m3u8
+
+EXTINF:-1,Amedia Premium HD
+#EXTGRP:Кино
+http://92.43.140.249/s64/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s65/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s66/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s67/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s68/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s69/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s70/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s71/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s72/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s73/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s74/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s75/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s76/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s77/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s78/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s79/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s80/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s81/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s82/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s83/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s84/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s85/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s86/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s87/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s88/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s89/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s90/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s91/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s92/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s93/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s94/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s95/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s96/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s97/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s98/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s99/04.m3u8
+
+EXTINF:-1,Amedia 1
+#EXTGRP:Кино
+http://92.43.140.249/s100/04.m3u8
