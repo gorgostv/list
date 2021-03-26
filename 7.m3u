@@ -1,595 +1,401 @@
 #EXTM3U
-#EXTINF:0, Звезда +7
-http://188.191.189.11:81/udp/239.192.10.1:1234
-#EXTINF:0, НТВ +7
-http://188.191.189.11:81/udp/239.192.10.2:1234
-#EXTINF:0, ТНТ +7
-http://188.191.189.11:81/udp/239.192.10.3:1234
-#EXTINF:0, RU TV
-http://188.191.189.11:81/udp/239.192.10.4:1234
-#EXTINF:0, Первый канал HD
-http://188.191.189.11:81/udp/239.192.10.5:1234
-#EXTINF:0, Спас
-http://188.191.189.11:81/udp/239.192.10.6:1234
-#EXTINF:0, MIR +4
-http://188.191.189.11:81/udp/239.192.10.7:1234
-#EXTINF:0, MIR 24
-http://188.191.189.11:81/udp/239.192.10.8:1234
-#EXTINF:0, RBC
-http://188.191.189.11:81/udp/239.192.10.9:1234
-#EXTINF:0, TV-3 PLUS 7
-http://188.191.189.11:81/udp/239.192.10.10:1234
-#EXTINF:0, 08 КАРУСЕЛЬ
-http://188.191.189.11:81/udp/239.192.10.11:1234
-#EXTINF:0, MIR HD
-http://188.191.189.11:81/udp/239.192.10.12:1234
-#EXTINF:0, MUZ-TV
-http://188.191.189.11:81/udp/239.192.10.13:1234
-#EXTINF:0, PYATNITSA +7
-http://188.191.189.11:81/udp/239.192.10.14:1234
-#EXTINF:0, 2x2_URAL
-http://188.191.189.11:81/udp/239.192.10.15:1234
-#EXTINF:0, Оружие
-http://188.191.189.11:81/udp/239.192.10.16:1234
-#EXTINF:0, 8 kanal
-http://188.191.189.11:81/udp/239.192.10.22:1234
-#EXTINF:0, 01 ПЕРВЫЙ КАНАЛ
-http://188.191.189.11:81/udp/239.192.10.23:1234
-#EXTINF:0, 09 ОТР
-http://188.191.189.11:81/udp/239.192.10.24:1234
-#EXTINF:0, Калейдоскоп ТВ
-http://188.191.189.11:81/udp/239.192.10.25:1234
-#EXTINF:0, MY PLANET
-http://188.191.189.11:81/udp/239.192.10.26:1234
-#EXTINF:0, Moskva Doverie
-http://188.191.189.11:81/udp/239.192.10.27:1234
-#EXTINF:0, Раз ТВ
-http://188.191.189.11:81/udp/239.192.10.36:1234
-#EXTINF:0, Shop24
-http://188.191.189.11:81/udp/239.192.10.37:1234
-#EXTINF:0, Rline.tv
-http://188.191.189.11:81/udp/239.192.10.39:1234
-#EXTINF:0, Охота и рыбалка
-http://188.191.189.11:81/udp/239.192.10.41:1234
-#EXTINF:0, Вопросы и ответы
-http://188.191.189.11:81/udp/239.192.10.43:1234
-#EXTINF:0, Ретро
-http://188.191.189.11:81/udp/239.192.10.44:1234
-#EXTINF:0, Здоровое ТВ
-http://188.191.189.11:81/udp/239.192.10.45:1234
-#EXTINF:0, Усадьба ТВ
-http://188.191.189.11:81/udp/239.192.10.46:1234
-#EXTINF:0, Домашние животные
-http://188.191.189.11:81/udp/239.192.10.47:1234
-#EXTINF:0, Психология 21
-http://188.191.189.11:81/udp/239.192.10.48:1234
-#EXTINF:0, FilmBox ArtHouse
-http://188.191.189.11:81/udp/239.192.10.51:1234
-#EXTINF:0, КХЛ ТВ
-http://188.191.189.11:81/udp/239.192.10.52:1234
-#EXTINF:0, Game Show Mpeg4
-http://188.191.189.11:81/udp/239.192.10.54:1234
-#EXTINF:0, Russkiy Roman
-http://188.191.189.11:81/udp/239.192.10.56:1234
-#EXTINF:0, Extreme Sport
-http://188.191.189.11:81/udp/239.192.10.57:1234
-#EXTINF:0, Galaxy
-http://188.191.189.11:81/udp/239.192.10.58:1234
-#EXTINF:0, Game Show
-http://188.191.189.11:81/udp/239.192.10.59:1234
-#EXTINF:0, Komedia
-http://188.191.189.11:81/udp/239.192.10.60:1234
-#EXTINF:0, Ocean TV
-http://188.191.189.11:81/udp/239.192.10.61:1234
-#EXTINF:0, Kanal Disney
-http://188.191.189.11:81/udp/239.192.10.62:1234
-#EXTINF:0, Любимое Кино
-http://188.191.189.11:81/udp/239.192.10.64:1234
-#EXTINF:0, Феникс
-http://188.191.189.11:81/udp/239.192.10.66:1234
-#EXTINF:0, Detsky
-http://188.191.189.11:81/udp/239.192.10.71:1234
-#EXTINF:0, Russkij illuzion
-http://188.191.189.11:81/udp/239.192.10.72:1234
-#EXTINF:0, illuzion +
-http://188.191.189.11:81/udp/239.192.10.73:1234
-#EXTINF:0, Detsky
-http://188.191.189.11:81/udp/239.192.10.74:1234
-#EXTINF:0, Russian Extreme TV
-http://188.191.189.11:81/udp/239.192.10.75:1234
-#EXTINF:0, Nickelodeon
-http://188.191.189.11:81/udp/239.192.10.77:1234
-#EXTINF:0, Fashion TV
-http://188.191.189.11:81/udp/239.192.10.79:1234
-#EXTINF:0, Россия 24
-http://188.191.189.11:81/udp/239.192.10.81:1234
-#EXTINF:0, 01 ПЕРВЫЙ КАНАЛ
-http://188.191.189.11:81/udp/239.192.10.82:1234
-#EXTINF:0, 05 ПЯТЫЙ КАНАЛ
-http://188.191.189.11:81/udp/239.192.10.83:1234
-#EXTINF:0, 06 РОССИЯ-К
-http://188.191.189.11:81/udp/239.192.10.84:1234
-#EXTINF:0, TV 1000 Русское кино
-http://188.191.189.11:81/udp/239.192.10.85:1234
-#EXTINF:0, Анекдот ТВ
-http://188.191.189.11:81/udp/239.192.10.86:1234
-#EXTINF:0, RT Doc HD
-http://188.191.189.11:81/udp/239.192.10.87:1234
-#EXTINF:0, LDPR Live
-http://188.191.189.11:81/udp/239.192.10.88:1234
-#EXTINF:0, Belarus 24
-http://188.191.189.11:81/udp/239.192.10.89:1234
-#EXTINF:0, HUMOR TV
-http://188.191.189.11:81/udp/239.192.10.90:1234
-#EXTINF:0, MUSIC BOX RU
-http://188.191.189.11:81/udp/239.192.10.91:1234
-#EXTINF:0, MUSIC BOX TV
-http://188.191.189.11:81/udp/239.192.10.92:1234
-#EXTINF:0, Multimania
-http://188.191.189.11:81/udp/239.192.10.100:1234
-#EXTINF:0, Avto 24
-http://188.191.189.11:81/udp/239.192.10.102:1234
-#EXTINF:0, Telekanal 360HD
-http://188.191.189.11:81/udp/239.192.10.103:1234
-#EXTINF:0, Nayka
-http://188.191.189.11:81/udp/239.192.10.104:1234
-#EXTINF:0, Travel+Adventure HD
-http://188.191.189.11:81/udp/239.192.10.107:1234
-#EXTINF:0, Paramount Comedy
-http://188.191.189.11:81/udp/239.192.10.110:1234
-#EXTINF:0, Матч! Арена
-http://188.191.189.11:81/udp/239.192.10.115:1234
-#EXTINF:0, Матч! Боец
-http://188.191.189.11:81/udp/239.192.10.116:1234
-#EXTINF:0, Матч! Игра
-http://188.191.189.11:81/udp/239.192.10.117:1234
-#EXTINF:0, Открытый Мир
-http://188.191.189.11:81/udp/239.192.10.118:1234
-#EXTINF:0, ShopAndShow
-http://188.191.189.11:81/udp/239.192.10.130:1234
-#EXTINF:0, Точка ТВ
-http://188.191.189.11:81/udp/239.192.10.131:1234
-#EXTINF:0, CHE+7
-http://188.191.189.11:81/udp/239.192.10.133:1234
-#EXTINF:0, CTC LOVE+7
-http://188.191.189.11:81/udp/239.192.10.140:1234
-#EXTINF:0, Шансон ТВ
-http://188.191.189.11:81/udp/239.192.10.141:1234
-#EXTINF:0, Домашний (+7)
-http://188.191.189.11:81/udp/239.192.10.142:1234
-#EXTINF:0, 01 ПЕРВЫЙ КАНАЛ
-http://188.191.189.11:81/udp/239.192.10.143:1234
-#EXTINF:0, U +7
-http://188.191.189.11:81/udp/239.192.10.145:1234
-#EXTINF:0, Детский Мир
-http://188.191.189.11:81/udp/239.192.10.146:1234
-#EXTINF:0, Мужской
-http://188.191.189.11:81/udp/239.192.10.147:1234
-#EXTINF:0, Загородная жизнь
-http://188.191.189.11:81/udp/239.192.10.148:1234
-#EXTINF:0, RTG HD
-http://188.191.189.11:81/udp/239.192.10.149:1234
-#EXTINF:0, RuSong
-http://188.191.189.11:81/udp/239.192.10.150:1234
-#EXTINF:0, ТНТ Music
-http://188.191.189.11:81/udp/239.192.10.151:1234
-#EXTINF:0, RTG TV
-http://188.191.189.11:81/udp/239.192.10.152:1234
-#EXTINF:0, 24 Doc
-http://188.191.189.11:81/udp/239.192.10.153:1234
-#EXTINF:0, Kanal Disney +7
-http://188.191.189.11:81/udp/239.192.10.154:1234
-#EXTINF:0, 1 HD
-http://188.191.189.11:81/udp/239.192.10.155:1234
-#EXTINF:0, Techno 24
-http://188.191.189.11:81/udp/239.192.10.160:1234
-#EXTINF:0, NST alensat.org
-http://188.191.189.11:81/udp/239.192.10.161:1234
-#EXTINF:0, Губерния
-http://188.191.189.11:81/udp/239.192.10.165:1234
-#EXTINF:0, Mama
-http://188.191.189.11:81/udp/239.192.10.166:1234
-#EXTINF:0, JimJam
-http://188.191.189.11:81/udp/239.192.10.168:1234
-#EXTINF:0, FOX
-http://188.191.189.11:81/udp/239.192.10.169:1234
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s1/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s2/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s3/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s4/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s5/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s6/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s7/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s8/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s9/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s10/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s11/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s12/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s13/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s14/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s15/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s16/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s17/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s18/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s19/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s20/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s21/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s22/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s23/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s24/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s25/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s26/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s27/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s28/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s29/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s30/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s31/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s32/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s33/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s34/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s35/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s36/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s37/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s38/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s39/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s40/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s41/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s42/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s43/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s44/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s45/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s46/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s47/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s48/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s49/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s50/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s51/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s52/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s53/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s54/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s55/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s56/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s57/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s58/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s59/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s60/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s61/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s62/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s63/04.m3u8
 
-EXTINF:-1,Amedia Premium HD
+#EXTINF:-1,Amedia Premium HD
 #EXTGRP:Кино
 http://92.43.140.249/s64/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s65/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s66/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s67/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s68/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s69/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s70/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s71/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s72/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s73/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s74/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s75/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s76/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s77/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s78/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s79/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s80/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s81/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s82/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s83/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s84/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s85/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s86/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s87/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s88/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s89/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s90/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s91/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s92/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s93/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s94/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s95/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s96/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s97/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s98/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s99/04.m3u8
 
-EXTINF:-1,Amedia 1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://92.43.140.249/s100/04.m3u8
