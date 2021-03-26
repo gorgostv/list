@@ -1,3 +1,8 @@
 #EXTM3U 
 #EXTINF:-1,Россия 1
 http://
+
+#EXTINF:-1,ViP Premiere
+#EXTGRP:Кино
+http://195.189.105.158:9050/134/index.m3u8
+
