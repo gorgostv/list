@@ -1,5 +1,5 @@
 {
-  "name": "iptv",
+  "name": "tv",
   "scripts": {
     "test": "node scripts/test.js"
   },
