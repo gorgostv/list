@@ -466,7 +466,7 @@ http://rtmp.one.by:1300
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
 
-#EXTINF:-1,Russian Music Box
+#EXTINF:-1,Russian MusicBox
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 
