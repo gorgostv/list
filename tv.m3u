@@ -478,14 +478,6 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/fresh/fresh0.m3u8
 
-#EXTINF:-1,SONG TV ARMENIA
-#EXTGRP:Музыка
-http://songtvam.ru:8060/hd/playlist.m3u8
-
-#EXTINF:-1,SONG TV RUSSIA
-#EXTGRP:Музыка
-http://songtvru.ru:8060/hd/playlist.m3u8
-
 #EXTINF:-1,VH1 European
 #EXTGRP:Музыка
 http://109.200.130.124:7006/play/a01a
@@ -526,10 +518,6 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTGRP:Музыка
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 ,MTV
-#EXTGRP:Музыка
-http://37.194.77.25:81/udp/239.1.8.6:1234
-
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
@@ -546,17 +534,13 @@ http://109.248.81.215:4044/udp/239.195.0.157:1234
 #EXTGRP:Музыка
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
 
-#EXTINF:-0,m2o
+#EXTINF:-0,radio m2o
 #EXTGRP:Музыка
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 #EXTINF:-0,Arabica Music
 #EXTGRP:Музыка
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#EXTINF:-0,2HART Music
-#EXTGRP:Музыка
-http://37.194.77.25:81/udp/239.1.1.13:1234
 
 #EXTINF:-1,Discovery Channel
 #EXTGRP:Познавательные
