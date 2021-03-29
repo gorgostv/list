@@ -268,7 +268,7 @@ http://51.68.141.106:8081/tv/evrokino/chunks.m3u8
 
 #EXTINF:-1,САРАФАН
 #EXTGRP:Кино
-http://31.130.21.36:2732/udp/239.1.11.32:1234
+http://37.194.77.25:81/udp/239.1.2.11:1234
 
 #EXTINF:-1,РЕТРО
 #EXTGRP:Кино
@@ -526,6 +526,10 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTGRP:Музыка
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
+#EXTINF:-1 ,MTV
+#EXTGRP:Музыка
+http://37.194.77.25:81/udp/239.1.8.6:1234
+
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
@@ -549,6 +553,10 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-0,Arabica Music
 #EXTGRP:Музыка
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-0,2HART Music
+#EXTGRP:Музыка
+http://37.194.77.25:81/udp/239.1.1.13:1234
 
 #EXTINF:-1,Discovery Channel
 #EXTGRP:Познавательные
