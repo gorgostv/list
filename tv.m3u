@@ -770,6 +770,18 @@ http://185.207.145.71:8000/play/a031/index.m3u8
 #EXTGRP:Тест
 http://ott-cdn.ucom.am/s15/04.m3u8
 
+#EXTINF:-1 tvg-id="BizCinema.uz" tvg-name="Biz Cinema" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="",Biz Cinema
+#EXTGRP:Уз
+https://st.biztv.uz/hls/c_mid/index.m3u8
+
+#EXTINF:-1 tvg-id="BizMusic.uz" tvg-name="Biz Music" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-music.0b7f3d40.png" group-title="",Biz Music
+#EXTGRP:Уз
+https://st.biztv.uz/hls/m_mid/index.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.uz" tvg-name="Biz TV" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-tv.774e87b5.png" group-title="",Biz TV
+#EXTGRP:Уз
+https://st.biztv.uz/hls/stream_mid/index.m3u8
+
 #EXTINF:0,Кинозал 1 (Марс-ТВ)
 #EXTGRP:Кинозал
 https://v2.catcast.tv/content/37033/index.m3u8
