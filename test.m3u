@@ -205,6 +205,30 @@ http://158.46.111.172:9999/udp/239.255.43.66:1234
 #EXTINF:-1,Наша Сибирь HD
 http://158.46.111.172:9999/udp/239.255.43.72:1234
 
+#EXTINF:0,Playboy TV
+#EXTGRP:ХХХ
+http://37.235.186.113:81/udp/225.50.70.2:1234
+
+#EXTINF:0,Русская Ночь
+#EXTGRP:ХХХ
+http://37.235.186.113:81/udp/225.50.70.3:1234
+
+#EXTINF:0,Barely Legal TV
+#EXTGRP:ХХХ
+http://37.235.186.113:81/udp/225.50.70.4:1234
+
+#EXTINF:0,Free-X TV HD
+#EXTGRP:ХХХ
+http://37.235.186.113:81/udp/225.50.70.5:1234
+
+#EXTINF:0,FRENCHLOVER TV
+#EXTGRP:ХХХ
+http://37.235.186.113:81/udp/225.50.70.7:1234
+
+#EXTINF:0,Brazzers TV Europe
+#EXTGRP:ХХХ
+http://37.235.186.113:81/udp/225.50.70.11:1234
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKR946K/SCi-Fi.png",ФАНТАСТИКА Sci-Fi
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
