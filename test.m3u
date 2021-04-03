@@ -229,6 +229,14 @@ http://37.235.186.113:81/udp/225.50.70.7:1234
 #EXTGRP:ХХХ
 http://37.235.186.113:81/udp/225.50.70.11:1234
 
+#EXTINF:-1,HUSTLER HD
+#EXTGRP:ХХХ
+http://37.194.189.54:81/udp/239.1.6.35:1234
+
+#EXTINF:-1, O-LA-LA
+#EXTGRP:ХХХ
+http://188.134.73.14:81/udp/235.10.10.246:1234
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKR946K/SCi-Fi.png",ФАНТАСТИКА Sci-Fi
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
