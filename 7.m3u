@@ -1,4 +1,72 @@
 #EXTM3U
+#EXTIF:-1 KUZBAS +7
+http://
+#EXTINF:-1,2x2 (+7)
+http://118.47.168.157:8080/play/a02i/index.m3u8
+#EXTINF:-1,3 Angels
+http://118.47.168.157:8080/play/a01j/index.m3u8
+#EXTINF:-1,AMEDIA 1
+http://118.47.168.157:8080/play/a007/index.m3u8
+#EXTINF:-1,AMEDIA 2
+http://118.47.168.157:8080/play/a005/index.m3u8
+#EXTINF:-1,CHE-7
+http://118.47.168.157:8080/play/a02a/index.m3u8
+#EXTINF:-1,CTC Love (+7)
+http://118.47.168.157:8080/play/a015/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://118.47.168.157:8080/play/a029/index.m3u8
+#EXTINF:-1,Disney (+7)
+http://118.47.168.157:8080/play/a01u/index.m3u8
+#EXTINF:-1,MTV
+http://118.47.168.157:8080/play/a00c/index.m3u8
+#EXTINF:-1,MTV Hits
+http://118.47.168.157:8080/play/a01w/index.m3u8
+#EXTINF:-1,RTG
+http://118.47.168.157:8080/play/a02m/index.m3u8
+#EXTINF:-1,Setanta Sport 2 HD
+http://118.47.168.157:8080/play/setanta2/index.m3u8
+#EXTINF:-1,Авто 24
+http://118.47.168.157:8080/play/a00y/index.m3u8
+#EXTINF:-1,Дом Кино
+http://118.47.168.157:8080/play/a012/index.m3u8
+#EXTINF:-1,Европа Плюс
+http://118.47.168.157:8080/play/a024/index.m3u8
+#EXTINF:-1,Звезда
+http://118.47.168.157:8080/play/a004/index.m3u8
+#EXTINF:-1,Кино ТВ HD
+http://118.47.168.157:8080/play/a014/index.m3u8
+#EXTINF:-1,Мульт
+http://118.47.168.157:8080/play/a01r/index.m3u8
+#EXTINF:-1,Настоящее Страшное ТВ
+http://118.47.168.157:8080/play/a00v/index.m3u8
+#EXTINF:-1,Первый канал HD (+4)
+http://118.47.168.157:8080/play/a01s/index.m3u8
+#EXTINF:-1,Родное Кино
+http://118.47.168.157:8080/play/a013/index.m3u8
+#EXTINF:-1,Русский Детектив
+http://118.47.168.157:8080/play/a00a/index.m3u8
+#EXTINF:-1,Русский Роман
+http://118.47.168.157:8080/play/a009/index.m3u8
+#EXTINF:-1,ТВ-3 (+7)
+http://118.47.168.157:8080/play/a003/index.m3u8
+#EXTINF:-1,ЮФС
+http://118.47.168.157:8080/play/a0211/index.m3u8
+#EXTINF:-1,киномикс
+http://118.47.168.157:8080/play/a0mq/index.m3u8
+#EXTINF:-1,кинохит
+http://118.47.168.157:8080/play/a01v/index.m3u8
+#EXTINF:-1,матч премьер
+http://118.47.168.157:8080/play/a02l/index.m3u8
+#EXTINF:-1,нашеновое кино
+http://118.47.168.157:8080/play/a01t/index.m3u8
+#EXTINF:-1,русский детектив
+http://118.47.168.157:8080/play/a02k/index.m3u8
+#EXTINF:-1,русскимй роман
+http://118.47.168.157:8080/play/a0o0/index.m3u8
+#EXTINF:-1,стб
+http://118.47.168.157:8080/play/a02b/index.m3u8
+#EXTIF:-1 KUZBAS +7 end
+http://
 
 #EXTINF:-1, ARM NEW start hear
 http://
