@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTIF:-1 KUZBAS +7
+#EXTIF:-1, KUZBAS +7
 http://
 #EXTINF:-1,2x2 (+7)
 http://118.47.168.157:8080/play/a02i/index.m3u8
@@ -65,7 +65,7 @@ http://118.47.168.157:8080/play/a02k/index.m3u8
 http://118.47.168.157:8080/play/a0o0/index.m3u8
 #EXTINF:-1,стб
 http://118.47.168.157:8080/play/a02b/index.m3u8
-#EXTIF:-1 KUZBAS +7 end
+#EXTIF:-1, KUZBAS +7 end
 http://
 
 #EXTINF:-1, ARM NEW start hear
