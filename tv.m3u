@@ -360,7 +360,7 @@ https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_360p.json/index-v1
 
 #EXTINF:-1,Время
 #EXTGRP:ЦТВ
-http://91.190.176.243:81/udp/239.195.3.42:1234
+http://51.68.140.190:8081/tv/vremya/playlist.m3u8
 
 #EXTINF:-1,Рен ТВ
 #EXTGRP:ЦТВ
