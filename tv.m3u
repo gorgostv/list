@@ -695,6 +695,26 @@ https://strm.yandex.ru/kal/sibir/sibir0_169_720p.json/index-v1-a1.m3u8
 #EXTGRP:Познавательные
 http://nano.teleservice.su:8080/hls/nano.m3u8
 
+#EXTINF:-1,MTV Europe
+#EXTGRP:Тест
+http://iptv.prosto.tv:7000/ch124/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,MTV Dance
+#EXTGRP:Тест
+http://iptv.prosto.tv:7000/ch125/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,MTV Hit
+#EXTGRP:Тест
+http://iptv.prosto.tv:7000/ch126/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,MTV Rock
+#EXTGRP:Тест
+http://iptv.prosto.tv:7000/ch127/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,MTV Live HD
+#EXTGRP:Тест
+http://iptv.prosto.tv:7000/ch128/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,Europa Plus TV
 #EXTGRP:Тест
 http://92.241.118.230:4022/udp/233.67.0.28:5510
