@@ -278,6 +278,109 @@ http://185.74.7.220:8080/retro/mpegts
 #EXTGRP:Кино
 http://ott-cdn.ucom.am/s47/04.m3u8
 
+#EXTINF:-1, Карусель
+#EXTGRP:Детские
+
+#EXTINF:-1, МультСказки
+#EXTGRP:Детские
+https://autopilot.catcast.tv/content/38850/index.m3u8
+
+#EXTINF:-1, О!
+#EXTGRP:Детские
+http://cdn.nexttvnet.ru/hlsl/10/O/index.m3u8
+
+#EXTINF:-1, Смайлик ТВ
+#EXTGRP:
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+
+#EXTINF:-1, Уникум
+#EXTGRP:Детские
+http://cdn.nexttvnet.ru/hlsl/1/Detskiy/index.m3u8
+
+#EXTINF:-1, Детский мир
+#EXTGRP:Детские
+http://109.248.118.88:4044/udp/239.195.1.25:1234
+
+#EXTINF:-1, Малыш
+#EXTGRP:Детские
+http://45.145.32.11:20014/malysh/video.m3u8
+
+#EXTINF:-1, Nickelodeon
+#EXTGRP:Детские
+http://31.134.132.245:8080/nickelodeon/index.m3u8
+
+#EXTINF:-1, Nick Jr
+#EXTGRP:Детские
+
+#EXTINF:-1, TiJi
+#EXTGRP:Детские
+
+#EXTINF:-1, Мультимания
+#EXTGRP:Детские
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+
+#EXTINF:-1, Мульт и музыка
+#EXTGRP:Детские
+http://89.223.46.189:8080/strana/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Мульт
+#EXTGRP:Детские
+http://195.49.206.244:90/Mult/index.m3u8
+
+#EXTINF:-1, Пингвин Лоло
+#EXTGRP:Детские
+
+#EXTINF:-1, Boomerang
+#EXTGRP:Детские
+http://45.145.32.11:20013/boomerang/video.m3u8
+
+#EXTINF:-1, 2х2
+#EXTGRP:Детские
+http://51.68.140.190:8081/tv/2x2/playlist.m3u8
+
+#EXTINF:-1, Disney
+#EXTGRP:Детские
+
+#EXTINF:-1, Ani
+#EXTGRP:Детские
+
+#EXTINF:-1, Рыжий
+#EXTGRP:Детские
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+
+#EXTINF:-1, Карапуз ТВ
+#EXTGRP:Детские
+https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
+
+#EXTINF:-1, Cartoon Network
+#EXTGRP:Детские
+http://89.223.46.188:8080/cartoon-net/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, В гостях у сказки
+#EXTGRP:Детские
+
+#EXTINF:-1, Da Vinci
+#EXTGRP:Детские
+
+#EXTINF:-1, JimJam
+#EXTGRP:Детские
+
+#EXTINF:-1, Gulli Girl
+#EXTGRP:Детские
+http://194.190.78.91:8080/Gulli_OT/video.m3u8
+
+#EXTINF:-1, Том и Джерри
+#EXTGRP:Детские
+http://195.154.176.18:8020?utcstart=943199563450&amp;version=2
+
+#EXTINF:-1,Big Buck Bunny
+#EXTGRP:Детские
+https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
+
+#EXTINF:-1,Детское кино International
+#EXTGRP:Детские
+https://v2.catcast.tv/content/38720/index.m3u8
+
 #EXTINF:-1,Первый Канал
 #EXTGRP:ЦТВ
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
