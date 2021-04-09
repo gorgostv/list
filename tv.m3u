@@ -196,7 +196,7 @@ http://8f5d0aba.akadatel.com/iptv/V9R6P3BL5BBWV9/2121/index.m3u8
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
-http://62.76.16.50:81/udp/239.195.4.56:1234
+http://31.128.159.41:8080/kinotv/index.m3u8
 
 #EXTINF:0,TV XXI
 #EXTGRP:Кино
