@@ -315,7 +315,7 @@ http://31.134.132.245:8080/nickelodeon/index.m3u8
 #EXTINF:-1, TiJi
 #EXTGRP:Детские
 
-#EXTINF:-1, Мультимания
+#EXTINF:-1, Мультимания LV
 #EXTGRP:Детские
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 
