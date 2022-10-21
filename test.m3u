@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161"
 
+#EXTINF:-1,Penthouse
+http://95.169.222.98:8800/udp/239.100.12.2:8888
+#EXTINF:-1,Passion XXX
+http://95.169.222.98:8800/udp/239.100.12.3:8888
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKR946K/SCi-Fi.png",ФАНТАСТИКА Sci-Fi
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
