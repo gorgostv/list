@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="1-music-hu" group-title="Категория",  Название канала
 http://adres-kanala.tut/index.m3u
 
+#EXTINF:-1,Кино
+https://gorgostv/list/film.m3u
+
 #EXTINF:-1 tvg-logo=" "group-title="Кино", Дом Кино
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 
