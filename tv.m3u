@@ -536,6 +536,10 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTGRP:ЦТВ
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
+#EXTINF:-1,MIXM TV 
+#EXTGRP:Музыка
+http://89.179.247.144/mixm.m3u8
+
 #EXTINF:-1,Europa Plus TV
 #EXTGRP:Музыка
 http://5.145.236.71:4022/udp/233.67.0.28:5510
