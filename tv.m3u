@@ -261,6 +261,22 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTGRP:Кино
 http://myott.top/stream/DA5345HD3KZ/214.m3u8
 
+#EXTINF:-1 ,Kino Watch TV - Документальные
+#EXTGRP:Кино
+https://edge-01.kino.watch/docu/index.m3u8
+
+#EXTINF:-1 ,Kino Watch TV - Свежаки
+#EXTGRP:Кино
+https://edge-01.kino.watch/fresh/index.m3u8
+
+#EXTINF:-1 ,Kino Watch TV - Ужастик
+#EXTGRP:Кино
+http://edge-01.kino.watch/horror/index.m3u8
+
+#EXTINF:-1 ,Kino Watch TV - ХИТ
+#EXTGRP:Кино
+https://edge-01.kino.watch/hit/index.m3u8
+
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
