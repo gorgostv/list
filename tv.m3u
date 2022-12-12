@@ -277,6 +277,18 @@ http://edge-01.kino.watch/horror/index.m3u8
 #EXTGRP:Кино
 https://edge-01.kino.watch/hit/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/31032022/logos/9620-6245824870e9c.png", Малдер  тв  ХИТ HD
+#EXTGRP:Кино
+https://cdn.wasd.tv/live/1531130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10112022/logos/9620-636cdede3eecb.png" , Малдер тв Сериал
+#EXTGRP:Кино
+https://cdn.wasd.tv/live/1598241/index.m3u8
+
+#EXTINF:-1 aspect-ratio="16:9" tvg-logo="https://img.catcast.tv/uploads/01122022/logos/9620-638890dbb6349.png", Малдер тв Детский день
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/41161/index.m3u8
+
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
