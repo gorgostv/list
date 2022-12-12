@@ -14,11 +14,11 @@ https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 
 #EXTINF:-1,НТВ ХИТ
 #EXTGRP:Кино
-http://95.217.196.109:8081/russia/ntv_hit/playlist.m3u8
+http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
 
 #EXTINF:-1,НТВ СЕРИАЛ
 #EXTGRP:Кино
-http://31.130.21.36:2732/udp/239.1.8.34:1234
+http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
 
 #EXTINF:-1,Комедийное HD
 #EXTGRP:Кино
