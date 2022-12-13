@@ -295,7 +295,7 @@ http://37.194.77.25:81/udp/239.1.2.11:1234
 
 #EXTINF:-1,РЕТРО
 #EXTGRP:Кино
-http://185.74.7.220:8080/retro/mpegts
+http://bigteisti9.kfc.lifeyosso.fun:30455/RETRO/video.m3u8?token=c3MxOTYxfHxjM014T1RZeA==
 
 #EXTINF:-1,Победа
 #EXTGRP:Кино
