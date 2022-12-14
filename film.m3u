@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 ,TV 1000 HD
+#EXTINF:-1,group-title="Кино"  ,TV 1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,TV 1000 Action HD
+#EXTINF:-1,group-title="Кино"  ,TV 1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,TV 1000 Русское кино HD
+#EXTINF:-1,group-title="Кино"  ,TV 1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Comedy HD
+#EXTINF:-1,group-title="Кино"  ,VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Megahit HD
+#EXTINF:-1,group-title="Кино"  ,VIP Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Premiere HD
+#EXTINF:-1,group-title="Кино"  ,VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Serial HD
+#EXTINF:-1,group-title="Кино" ,VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1  ,Пятница HD
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
@@ -48,48 +48,67 @@ http://50.7.149.34:8001/play/bcu_cosmo_hd
 #EXTINF:-1,group-title="Кинозал",BCU Criminal HD
 http://50.7.149.34:8001/play/bcu_criminal_hd
 
-#EXTINF:-1,BCU Fantastic HD
+#EXTINF:-1,group-title="Кинозал",BCU Fantastic HD
 http://50.7.149.34:8001/play/bcu_fantastic_hd
-#EXTINF:-1,BCU FilMystic HD
+
+#EXTINF:-1,group-title="Кинозал",BCU FilMystic HD
 http://50.7.149.34:8001/play/bcu_filmystic_hd
-#EXTINF:-1,BCU History HD
+
+#EXTINF:-1,group-title="Кинозал",BCU History HD
 http://50.7.149.34:8001/play/bcu_history_hd
-#EXTINF:-1,BCU Kids 4K
+
+#EXTINF:-1,group-title="Кинозал",BCU Kids 4K
 http://50.7.149.34:8001/play/bcu_kids_4k
-#EXTINF:-1,BCU Kids HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Kids HD
 http://50.7.149.34:8001/play/bcu_kids_hd
-#EXTINF:-1,BCU Kids+ HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Kids+ HD
 http://50.7.149.34:8001/play/bcu_kids_plus_hd
-#EXTINF:-1,BCU Kinorating HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Kinorating HD
 http://50.7.149.34:8001/play/bcu_kinorating_hd
-#EXTINF:-1,BCU Little HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Little HD
 http://50.7.149.34:8001/play/bcu_little_hd
-#EXTINF:-1,BCU Marvel HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Marvel HD
 http://50.7.149.34:8001/play/bcu_marvel_hd
-#EXTINF:-1,BCU Premiere HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Premiere HD
 http://50.7.149.34:8001/play/bcu_premiere_hd
-#EXTINF:-1,BCU Premiere Ultra 4K
+
+#EXTINF:-1,group-title="Кинозал",BCU Premiere Ultra 4K
 http://50.7.149.34:8001/play/bcu_premiere_ultra_4K
-#EXTINF:-1,BCU RUSERIAL HD
+
+#EXTINF:-1,group-title="Кинозал",BCU RUSERIAL HD
 http://50.7.149.34:8001/play/bcu_ruserial_hd
-#EXTINF:-1,BCU Reality HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Reality HD
 http://50.7.149.34:8001/play/bcu_reality_hd
-#EXTINF:-1,BCU Romantic HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Romantic HD
 http://50.7.149.34:8001/play/bcu_romantic_hd
-#EXTINF:-1,BCU Russian HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Russian HD
 http://50.7.149.34:8001/play/bcu_russian_hd
-#EXTINF:-1,BCU Stars HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Stars HD
 http://50.7.149.34:8001/play/bcu_stars_hd
-#EXTINF:-1,BCU Survival HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Survival HD
 http://50.7.149.34:8001/play/bcu_survival_hd
-#EXTINF:-1,BCU TruMotion HD
+
+#EXTINF:-1,group-title="Кинозал",BCU TruMotion HD
 http://50.7.149.34:8001/play/bcu_trumotion_hd
-#EXTINF:-1,BCU Ultra 4K
+
+#EXTINF:-1,group-title="Кинозал",BCU Ultra 4K
 http://50.7.149.34:8001/play/bcu_ultra_4k
-#EXTINF:-1,BCU VHS HD
+
+#EXTINF:-1,group-title="Кинозал",BCU VHS HD
 http://50.7.149.34:8001/play/bcu_vhs_hd
 
-#EXTINF:-1,BCU Кинозал Premiere 1 HD
+#EXTINF:-1,group-title="Кинозал",BCU Кинозал Premiere 1 HD
 http://50.7.149.34:8001/play/bcu_kinozal_premiere_1_hd
 
 #EXTINF:-1,group-title="Кинозал",BCU Кинозал Premiere 2 HD
