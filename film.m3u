@@ -23,54 +23,31 @@ https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1  ,ТВ3 HD
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 group-title="РуТьюб",Пятница HD
-https://bl.uma.media/live/410336/HLS_R/6307840_7,4280..
-#EXTINF:-1 group-title="РуТьюб",Суббота HD
-https://bl.uma.media/live/317845/HLS/4614144_3,288358..
-#EXTINF:-1 group-title="РуТьюб",ТНТ HD
-https://bl.uma.media/live/410338/HLS/6307840_7,428032..
-#EXTINF:-1 group-title="РуТьюб",ТНТ4 HD
-https://bl.uma.media/live/317849/HLS/4614144_3,288358..
-#EXTINF:-1 group-title="РуТьюб",ТВ3 HD
-https://bl.uma.media/live/407373/HLS/6307840_7,428032..
-#EXTINF:-1 group-title="РуТьюб",2x2 HD
-https://bl.uma.media/live/317805/HLS/4614144_3,288358..
-#EXTINF:-1 group-title="РуТьюб",TV 1000 HD
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",TV 1000 Action HD
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",TV 1000 Русское кино HD
-https://bl.uma.media/live/485543/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",Viasat Explore HD
-https://bl.uma.media/live/485546/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",Viasat History HD
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",Viasat Nature HD
-https://bl.uma.media/live/485545/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",VIP Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",VIP Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",VIP Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/pl..
-#EXTINF:-1 group-title="РуТьюб",VIP Serial HD
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/pl..
-#EXTINF:-1,BCU Action HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Action HD
 http://50.7.149.34:8001/play/bcu_action_hd
-#EXTINF:-1,BCU Catastrophe HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Catastrophe HD
 http://50.7.149.34:8001/play/bcu_catastrophe_hd
-#EXTINF:-1,BCU Charm HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Charm HD
 http://50.7.149.34:8001/play/bcu_charm_hd
-#EXTINF:-1,BCU Cinema HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Cinema HD
 http://50.7.149.34:8001/play/bcu_cinema_hd
-#EXTINF:-1,BCU Cinema+ HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Cinema+ HD
 http://50.7.149.34:8001/play/bcu_cinema_plus_hd
-#EXTINF:-1,BCU Comedy HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Comedy HD
 http://50.7.149.34:8001/play/bcu_comedy_hd
-#EXTINF:-1,BCU Cosmo HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Cosmo HD
 http://50.7.149.34:8001/play/bcu_cosmo_hd
-#EXTINF:-1,BCU Criminal HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Criminal HD
 http://50.7.149.34:8001/play/bcu_criminal_hd
+
 #EXTINF:-1,BCU Fantastic HD
 http://50.7.149.34:8001/play/bcu_fantastic_hd
 #EXTINF:-1,BCU FilMystic HD
@@ -111,18 +88,25 @@ http://50.7.149.34:8001/play/bcu_trumotion_hd
 http://50.7.149.34:8001/play/bcu_ultra_4k
 #EXTINF:-1,BCU VHS HD
 http://50.7.149.34:8001/play/bcu_vhs_hd
+
 #EXTINF:-1,BCU Кинозал Premiere 1 HD
 http://50.7.149.34:8001/play/bcu_kinozal_premiere_1_hd
-#EXTINF:-1,BCU Кинозал Premiere 2 HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Кинозал Premiere 2 HD
 http://50.7.149.34:8001/play/bcu_kinozal_premiere_2_hd
-#EXTINF:-1,BCU Кинозал Premiere 3 HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Кинозал Premiere 3 HD
 http://50.7.149.34:8001/play/bcu_kinozal_premiere_3_hd
-#EXTINF:-1,BCU Мультсериал HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Мультсериал HD
 http://50.7.149.34:8001/play/bcu_multserial_hd
-#EXTINF:-1,BCU СССР HD
+
+#EXTINF:-1,group-title="Кинозал",BCU СССР HD
 http://50.7.149.34:8001/play/bcu_sssr_hd
-#EXTINF:-1,BCU Сваты HD
+
+#EXTINF:-1,group-title="Кинозал",BCU Сваты HD
 http://50.7.149.34:8001/play/bcu_svaty_hd
-#EXTINF:-1,BCUMEDIA HD
+
+#EXTINF:-1,group-title="Кинозал",BCUMEDIA HD
 http://50.7.149.34:8001/play/bcu_media_hd
 
