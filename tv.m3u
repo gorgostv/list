@@ -84,7 +84,7 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:-1,Любимое Кино
 #EXTGRP:Кино
-http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+http://bigteisti2.kfc.lifeyosso.fun:56374/NasheLubimoeKino/video.m3u8
 
 #EXTINF:-1,Наше HD
 #EXTGRP:Кино
@@ -261,10 +261,6 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTGRP:Кино
 http://myott.top/stream/W72RFQ29JP/214.m3u8
 
-#EXTINF:-1,Блокбастер HD
-#EXTGRP:Кино
-http://ott.dugatv.me/chnew01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
-
 #EXTINF:-1 ,Kino Watch TV - Документальные
 #EXTGRP:Кино
 https://edge-01.kino.watch/docu/index.m3u8
@@ -281,6 +277,18 @@ http://edge-01.kino.watch/horror/index.m3u8
 #EXTGRP:Кино
 https://edge-01.kino.watch/hit/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/31032022/logos/9620-6245824870e9c.png", Малдер  тв  ХИТ HD
+#EXTGRP:Кино
+https://cdn.wasd.tv/live/1531130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10112022/logos/9620-636cdede3eecb.png" , Малдер тв Сериал
+#EXTGRP:Кино
+https://cdn.wasd.tv/live/1598241/index.m3u8
+
+#EXTINF:-1 aspect-ratio="16:9" tvg-logo="https://img.catcast.tv/uploads/01122022/logos/9620-638890dbb6349.png", Малдер тв Детский день
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/41161/index.m3u8
+
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
@@ -295,15 +303,11 @@ http://37.194.77.25:81/udp/239.1.2.11:1234
 
 #EXTINF:-1,РЕТРО
 #EXTGRP:Кино
-http://bigteisti9.kfc.lifeyosso.fun:30455/RETRO/video.m3u8?token=c3MxOTYxfHxjM014T1RZeA==
+http://185.74.7.220:8080/retro/mpegts
 
 #EXTINF:-1,Победа
 #EXTGRP:Кино
 http://ott-cdn.ucom.am/s47/04.m3u8
-
-#EXTINF:-1, Baby Time
-#EXTGRP:Детские
-http://bigteisti2.kfc.lifeyosso.fun:56374/babytime/video.m3u8
 
 #EXTINF:-1, Карусель
 #EXTGRP:Детские
