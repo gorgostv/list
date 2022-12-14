@@ -127,6 +127,51 @@ http://50.7.149.34:8001/play/bcu_svaty_hd
 #EXTINF:-1,group-title="Кинозал",BCUMEDIA HD
 http://50.7.149.34:8001/play/bcu_media_hd
 
+#EXTINF:-1,group-title="Кинозал",KBC-B.O.B
+http://cdnsatbil.com/6565/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Comics
+http://cdnsatbil.com/6566/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Elite comedys
+http://cdnsatbil.com/6564/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Fantastic
+http://cdnsatbil.com/6568/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-History
+http://cdnsatbil.com/6569/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Newfilm
+http://cdnsatbil.com/6570/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Premium
+http://cdnsatbil.com/6571/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Russian Комедия
+http://cdnsatbil.com/6572/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Видак
+http://cdnsatbil.com/6573/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-ГАЙ Ritchie and Tarantino
+http://cdnsatbil.com/6574/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Драма tic
+http://cdnsatbil.com/6575/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Кинотеатр
+http://cdnsatbil.com/6576/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Кошмарное
+http://cdnsatbil.com/6577/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Страна СССР
+http://cdnsatbil.com/6579/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Криминальный сериал
+http://cdnsatbil.com/6580/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Шпионское
+http://cdnsatbil.com/6581/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Легендарное
+http://cdnsatbil.com/6640/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Light сериал RU
+http://cdnsatbil.com/8197/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Микс UA
+http://cdnsatbil.com/8235/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",KBC-Гоблин
+http://cdnsatbil.com/8242/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",BackusTV
+http://cdnsatbil.com/6614/video.m3u8?token=tgAhnN7ugu
+#EXTINF:-1,group-title="Кинозал",BackusTV Dark
+http://cdnsatbil.com/6615/video.m3u8?token=tgAhnN7ugu
+
 #EXTINF:-1  ,Пятница HD
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1  ,Суббота HD
