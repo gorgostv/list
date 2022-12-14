@@ -13,14 +13,6 @@ https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,group-title="Кино",VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,group-title="Кино",Premiere HD 1
-http://cdnsatbil.com/6256/video.m3u8?token=tgAhnN7ugu
-#EXTINF:-1,group-title="Кино",Premiere HD 2
-http://cdnsatbil.com/6257/video.m3u8?token=tgAhnN7ugu
-#EXTINF:-1,group-title="Кино",Premiere HD 3
-http://cdnsatbil.com/6258/video.m3u8?token=tgAhnN7ugu
-#EXTINF:-1,group-title="Кино",Premiere HD 4
-http://cdnsatbil.com/6259/video.m3u8?token=tgAhnN7ugu
 
 #EXTINF:-1,group-title="Кинозал",BCU Action HD
 http://50.7.149.34:8001/play/bcu_action_hd
