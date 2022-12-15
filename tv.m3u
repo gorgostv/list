@@ -9,8 +9,8 @@ http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 tvg-logo=" "group-title="Кино", Дом Кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Кино", Дом Кино Премиум HD
-https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/domkinopremium/video.m3u8
 
 #EXTINF:-1,НТВ ХИТ
 #EXTGRP:Кино
@@ -22,7 +22,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
 
 #EXTINF:-1,Комедийное HD
 #EXTGRP:Кино
-http://spacetv.in/stream/W72RFQ29JP/74.m3u8
+http://bigteisti8.kfc.lifeyosso.fun:4399/komediinoe/video.m3u8
 
 #EXTINF:-1,VIP COMEDY
 #EXTGRP:Кино
