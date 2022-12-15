@@ -41,7 +41,7 @@ http://bigteisti2.kfc.lifeyosso.fun:56374/VIPSERIAL/video.m3u8
 
 #EXTINF:-1,TV 1000
 #EXTGRP:Кино
-http://195.189.105.158:9050/119/index.m3u8
+http://bigteisti2.kfc.lifeyosso.fun:56374/tv1000_SD/video.m3u8
 
 #EXTINF:-1,TV 1000 Русское кино
 #EXTGRP:Кино
@@ -49,7 +49,7 @@ http://185.74.7.220:8080/tv1000ru/mpegts
 
 #EXTINF:-1,TV 1000 Action HD
 #EXTGRP:Кино
-http://195.189.105.158:9050/120/index.m3u8
+http://bigteisti2.kfc.lifeyosso.fun:56374/tv1000_action_SD/video.m3u8
 
 #EXTINF:-1,TV1000 World Kino
 #EXTGRP:Кино
