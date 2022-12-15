@@ -26,18 +26,18 @@ http://bigteisti8.kfc.lifeyosso.fun:4399/komediinoe/video.m3u8
 
 #EXTINF:-1,VIP COMEDY
 #EXTGRP:Кино
-http://195.189.105.158:9050/132/index.m3u8
+http://bigteisti2.kfc.lifeyosso.fun:56374/VIPCOMEDY/video.m3u8
 
 #EXTINF:-1,ViP Premiere
 #EXTGRP:Кино
-http://195.189.105.158:9050/134/index.m3u8
+http://bigteisti2.kfc.lifeyosso.fun:56374/VIPPREMIERE/video.m3u8
 
 #EXTINF:-1,VIP Megahit
 #EXTGRP:Кино
-http://195.189.105.158:9050/133/index.m3u8
+http://bigteisti2.kfc.lifeyosso.fun:56374/VIPMEGAHIT/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIP_Serial_HD.png" group-title="Кино", ViP Serial
-http://spacetv.in/stream/DA5345HD3KZ/311.m3u8
+#EXTINF:-1 group-title="Кино", ViP Serial
+http://bigteisti2.kfc.lifeyosso.fun:56374/VIPSERIAL/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/kinopremiera.png" group-title="Кино", КиноПремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
