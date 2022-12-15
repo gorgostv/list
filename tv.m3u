@@ -39,7 +39,23 @@ http://bigteisti2.kfc.lifeyosso.fun:56374/VIPMEGAHIT/video.m3u8
 #EXTINF:-1 group-title="Кино", ViP Serial
 http://bigteisti2.kfc.lifeyosso.fun:56374/VIPSERIAL/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/kinopremiera.png" group-title="Кино", КиноПремьера
+#EXTINF:-1,TV 1000
+#EXTGRP:Кино
+http://195.189.105.158:9050/119/index.m3u8
+
+#EXTINF:-1,TV 1000 Русское кино
+#EXTGRP:Кино
+http://185.74.7.220:8080/tv1000ru/mpegts
+
+#EXTINF:-1,TV 1000 Action HD
+#EXTGRP:Кино
+http://195.189.105.158:9050/120/index.m3u8
+
+#EXTINF:-1,TV1000 World Kino
+#EXTGRP:Кино
+http://bigteisti9.kfc.lifeyosso.fun:30455/dHYxMDAwX3/video.m3u8
+
+#EXTINF:-1 group-title="Кино", КиноПремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
 #EXTINF:-1,Кинокомедия
@@ -117,22 +133,6 @@ http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
 #EXTINF:-1,Русская комедия
 #EXTGRP:Кино
 http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
-
-#EXTINF:-1,TV 1000
-#EXTGRP:Кино
-http://195.189.105.158:9050/119/index.m3u8
-
-#EXTINF:-1,TV 1000 Русское кино
-#EXTGRP:Кино
-http://185.74.7.220:8080/tv1000ru/mpegts
-
-#EXTINF:-1,TV 1000 Action HD
-#EXTGRP:Кино
-http://195.189.105.158:9050/120/index.m3u8
-
-#EXTINF:-1,TV1000 World Kino
-#EXTGRP:Кино
-http://195.189.105.158:9050/121/index.m3u8
 
 #EXTINF:-1 ,FOX
 #EXTGRP:Кино
