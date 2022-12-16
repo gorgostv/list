@@ -167,10 +167,6 @@ http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 #EXTINF:-1 ,Cinema
 #EXTGRP:Кино
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-
-#EXTINF:-1 ,Cinema
-#EXTGRP:Кино
 http://bigteisti1.kfc.lifeyosso.fun:56373/cinema/video.m3u8
 
 #EXTINF:-1 ,SHOT TV
