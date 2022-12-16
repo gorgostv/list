@@ -1,9 +1,10 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="1-music-hu" group-title="Категория",  Название канала
+
 http://adres-kanala.tut/index.m3u
 
-#EXTINF:-1 group-title="Новости",Новороссия ТВ
+#EXTINF:-1 tvg-logo="http://www.tvpotok.narod.ru/img/tv-ua/novorossia_tv.png"  group-title="Новости",Новороссия ТВ
 http://ott.inmart.tv:8081/19/index.m3u8
 
 #EXTINF:-1 tvg-logo=" "group-title="Кино", Дом Кино
