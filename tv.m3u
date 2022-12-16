@@ -181,9 +181,9 @@ http://92.43.140.249/s64/04.m3u8
 #EXTGRP:Кино
 http://91.231.200.2:9000/play/ch_200/index.m3u8
 
-#EXTINF:-1,Sony Sci-Fi
+#EXTINF:-1,.Sci-Fi
 #EXTGRP:Кино
-http://212.79.122.24:7173/sony_sci-Fi
+http://bigteisti2.kfc.lifeyosso.fun:32144/SCIFI/video.m3u8
 
 #EXTINF:-1,.black
 #EXTGRP:Кино
