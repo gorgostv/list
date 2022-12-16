@@ -114,6 +114,10 @@ http://bigteisti2.kfc.lifeyosso.fun:56374/nashemuzhskoe/video.m3u8
 #EXTGRP:Кино
 http://bigteisti2.kfc.lifeyosso.fun:56374/nashkinopokaz/video.m3u8
 
+#EXTINF:-1,Про любовь HD
+#EXTGRP:Кино
+http://bigteisti8.kfc.lifeyosso.fun:4399/prolubov/video.m3u8
+
 #EXTINF:-1,Любимое HD
 #EXTGRP:Кино
 http://bigteisti2.kfc.lifeyosso.fun:32144/LUBIMOE/video.m3u8
