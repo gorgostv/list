@@ -245,10 +245,6 @@ http://myott.top/stream/W72RFQ29JP/75.m3u8
 #EXTGRP:Кино
 http://cdn.nexttvnet.ru/hlsl/1/TrashHD/index.m3u8
 
-#EXTINF:-1 ,Дорама HD
-#EXTGRP:Кино
-http://sc.id-tv.kz/dorama_hd_34_35.m3u8
-
 #EXTINF:-1,Star cinema
 #EXTGRP:Кино
 http://212.79.122.23:8000/play/a00r/index.m3u8
@@ -288,18 +284,6 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v
 #EXTINF:-1,Еврокино
 #EXTGRP:Кино
 http://51.68.141.106:8081/tv/evrokino/chunks.m3u8
-
-#EXTINF:-1,САРАФАН
-#EXTGRP:Кино
-http://37.194.77.25:81/udp/239.1.2.11:1234
-
-#EXTINF:-1,РЕТРО
-#EXTGRP:Кино
-http://bigteisti9.kfc.lifeyosso.fun:30455/RETRO/video.m3u8?token=c3MxOTYxfHxjM014T1RZeA==
-
-#EXTINF:-1,Победа
-#EXTGRP:Кино
-http://ott-cdn.ucom.am/s47/04.m3u8
 
 #EXTINF:-1, Baby Time
 #EXTGRP:Детские
