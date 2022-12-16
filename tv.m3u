@@ -162,9 +162,6 @@ http://iptv.prosto.tv:7000/ch055/tracks-v1a1/index.m3u8
 #EXTGRP:Кино
 http://hls.goodgame.ru/hls/157239.m3u8
 
-#EXTINF:-1 tvg-logo="https://ultotv.ru/wp-content/uploads/2021/03/1-1.png" group-title="Кино", ULTO TV
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-
 #EXTINF:-1 ,Cinema
 #EXTGRP:Кино
 http://bigteisti1.kfc.lifeyosso.fun:56373/cinema/video.m3u8
