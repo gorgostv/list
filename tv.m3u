@@ -261,6 +261,10 @@ http://myott.top/stream/W72RFQ29JP/214.m3u8
 #EXTGRP:Кино
 http://ott.dugatv.me/chnew01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
 
+#EXTINF:-1,Блокбастер HD
+#EXTGRP:Кино
+http://bigteisti8.kfc.lifeyosso.fun:4399/bbaster/video.m3u8
+
 #EXTINF:-1 ,Kino Watch TV - Документальные
 #EXTGRP:Кино
 https://edge-01.kino.watch/docu/index.m3u8
