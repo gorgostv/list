@@ -219,7 +219,7 @@ http://89.104.114.7:8080/kinosat/index.m3u8
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
-http://31.134.132.245:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
+http://bigteisti1.kfc.lifeyosso.fun:56373/kinotv/video.m3u8
 
 #EXTINF:0,TV XXI
 #EXTGRP:Кино
