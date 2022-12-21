@@ -571,15 +571,11 @@ http://89.179.247.144/mixm.m3u8
 
 #EXTINF:-1,Europa Plus TV
 #EXTGRP:Музыка
-http://5.145.236.71:4022/udp/233.67.0.28:5510
+http://185.32.44.154/europaplus/index.m3u8
 
 #EXTINF:-1,NRJ Hits
 #EXTGRP:Музыка
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
-
-#EXTINF:-1,Europa Plus TV
-#EXTGRP:Музыка
-http://213.109.62.248:3773/udp/239.255.0.26:1234
 
 #EXTINF:-1,AIVA
 #EXTGRP:Музыка
@@ -623,7 +619,7 @@ http://109.200.130.124:7006/play/a01a
 
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
-http://109.200.130.124:15500/bridgetv
+http://185.32.44.154/bridgetv/index.m3u8
 
 #EXTINF:-1,Bridge TV Hits
 #EXTGRP:Музыка
@@ -631,7 +627,7 @@ http://31.210.208.168:8080/bridgetv_hits/index.m3u8
 
 #EXTINF:-1,Bridge TV Русский хит
 #EXTGRP:Музыка
-http://37.17.14.149:8906/play/a00k/index.m3u8
+http://185.32.44.154/dangetv/index.m3u8
 
 #EXTINF:-1,BRIDGE TV Dance
 #EXTGRP:Музыка
@@ -639,7 +635,7 @@ http://213.109.61.5:4777/udp/239.255.0.110:1234
 
 #EXTINF:-1,Bridge TV Classic
 #EXTGRP:Музыка
-http://31.210.208.168:8080/bridge_classic/index.m3u8
+http://185.32.44.154/rusong/index.m3u8
 
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
@@ -651,7 +647,11 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыка
-http://83.222.205.65:8080/tntmusic/index.m3u8
+http://185.32.44.154/tntmusic/index.m3u8
+
+#EXTINF:-1 ,MCM Top
+#EXTGRP:Музыка
+http://185.32.44.154/mcmtop/index.m3u8
 
 #EXTINF:-1 ,Kronehit HD
 #EXTGRP:Музыка
@@ -659,11 +659,11 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1,RU TV
 #EXTGRP:Музыка
-https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
+http://185.32.44.154/rutv/index.m3u8
 
-#EXTINF:-1,МУЗТВ
+#EXTINF:-1,МУЗ ТВ
 #EXTGRP:Музыка
-https://s4.idata.uz/muztv/tracks-v1a1/rewind-7200.m3u8
+http://185.32.44.154/muztv/index.m3u8
 
 #EXTINF:-0,Vostok TV
 #EXTGRP:Музыка
