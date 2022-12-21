@@ -623,15 +623,15 @@ http://185.32.44.154/bridgetv/index.m3u8
 
 #EXTINF:-1,Bridge TV Hits
 #EXTGRP:Музыка
-http://31.210.208.168:8080/bridgetv_hits/index.m3u8
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8
+
+EXTINF:-1,Bridge TV ФРЭШ
+#EXTGRP:Музыка
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8
 
 #EXTINF:-1,Bridge TV Русский хит
 #EXTGRP:Музыка
 http://185.32.44.154/dangetv/index.m3u8
-
-#EXTINF:-1,BRIDGE TV Dance
-#EXTGRP:Музыка
-http://213.109.61.5:4777/udp/239.255.0.110:1234
 
 #EXTINF:-1,Bridge TV Classic
 #EXTGRP:Музыка
