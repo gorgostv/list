@@ -953,9 +953,29 @@ https://st.biztv.uz/hls/m_mid/index.m3u8
 #EXTGRP:Уз
 https://st.biztv.uz/hls/stream_mid/index.m3u8
 
-#EXTINF:0,Кинозал 1 (Марс-ТВ)
+#EXTINF:0,КиноДрама
 #EXTGRP:Кинозал
-https://v2.catcast.tv/content/37033/index.m3u8
+https://autopilot.catcast.tv/content/45269/index.m3u8
+
+#EXTINF:0,КиноКлассика
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:0,КиноМистика
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:0,КиноДетектив
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:0,КиноКомедия
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/41331/index.m3u8
+
+#EXTINF:0,КиноЭкшен
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/41333/index.m3u8
 
 #EXTINF:0,Кинозал 2 (pznstreams)
 #EXTGRP:Кинозал
