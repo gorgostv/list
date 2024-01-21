@@ -6,6 +6,18 @@ http://adres-kanala.tut/index.m3u
 #EXTINF:-1 tvg-logo="http://www.tvpotok.narod.ru/img/tv-ua/novorossia_tv.png"  group-title="Новости",Новороссия ТВ
 http://ott.inmart.tv:8081/19/index.m3u8
 
+#EXTINF:-1,Кино ТВ HD
+#EXTGRP:Кино
+http://bigteisti1.kfc.lifeyosso.fun:56373/kinotv/video.m3u8
+
+#EXTINF:-1 ,Cinema
+#EXTGRP:Кино
+http://bigteisti1.kfc.lifeyosso.fun:56373/cinema/video.m3u8
+
+#EXTINF:-1,Блокбастер HD
+#EXTGRP:Кино
+http://bigteisti8.kfc.lifeyosso.fun:4399/bbaster/video.m3u8
+
 #EXTINF:-1 tvg-logo=" "group-title="Кино", Дом Кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 
@@ -166,10 +178,6 @@ http://iptv.prosto.tv:7000/ch055/tracks-v1a1/index.m3u8
 #EXTGRP:Кино
 http://hls.goodgame.ru/hls/157239.m3u8
 
-#EXTINF:-1 ,Cinema
-#EXTGRP:Кино
-http://bigteisti1.kfc.lifeyosso.fun:56373/cinema/video.m3u8
-
 #EXTINF:-1 ,SHOT TV
 #EXTGRP:Кино
 http://31.210.208.168:8080/shottv/index.m3u8
@@ -213,10 +221,6 @@ http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8?v
 #EXTINF:-1,Киносат
 #EXTGRP:Кино
 http://89.104.114.7:8080/kinosat/index.m3u8
-
-#EXTINF:-1,Кино ТВ HD
-#EXTGRP:Кино
-http://bigteisti1.kfc.lifeyosso.fun:56373/kinotv/video.m3u8
 
 #EXTINF:0,TV XXI
 #EXTGRP:Кино
@@ -273,14 +277,6 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 http://myott.top/stream/W72RFQ29JP/214.m3u8
-
-#EXTINF:-1,Блокбастер HD
-#EXTGRP:Кино
-http://ott.dugatv.me/chnew01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
-
-#EXTINF:-1,Блокбастер HD
-#EXTGRP:Кино
-http://bigteisti8.kfc.lifeyosso.fun:4399/bbaster/video.m3u8
 
 #EXTINF:-1 ,Kino Watch TV - Документальные
 #EXTGRP:Кино
