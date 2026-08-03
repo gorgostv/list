@@ -8,7 +8,7 @@ http://ott.inmart.tv:8081/19/index.m3u8
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
-http://bigteisti1.kfc.lifeyosso.fun:56373/kinotv/video.m3u8
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Cinema
 #EXTGRP:Кино
@@ -26,7 +26,7 @@ http://bigteisti2.kfc.lifeyosso.fun:56374/domkinopremium/video.m3u8
 
 #EXTINF:-1,НТВ ХИТ
 #EXTGRP:Кино
-http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
 #EXTINF:-1,НТВ СЕРИАЛ
 #EXTGRP:Кино
@@ -144,7 +144,7 @@ http://bigteisti1.kfc.lifeyosso.fun:56373/nashe/video.m3u8
 
 #EXTINF:-1,Иллюзион +
 #EXTGRP:Кино
-http://persik.by/stream/8174/22128/327.m3u8
+http://176.118.197.101/Illuzion+/index.m3u8
 
 #EXTINF:-1,Русский Иллюзион
 #EXTGRP:Кино
@@ -160,7 +160,7 @@ http://51.195.44.53:8081/tv/rus-detektiv/chunks.m3u8
 
 #EXTINF:-1,Русский роман
 #EXTGRP:Кино
-http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
+http://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1,Русская комедия
 #EXTGRP:Кино
