@@ -3,8 +3,9 @@
 #EXTINF:-1 tvg-logo="1-music-hu" group-title="Категория",  Название канала
 http://adres-kanala.tut/index.m3u
 
-#EXTINF:-1 tvg-logo="http://www.tvpotok.narod.ru/img/tv-ua/novorossia_tv.png"  group-title="Новости",Новороссия ТВ
-http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1,Соловьев.Live
+#EXTGRP:Новости
+https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
