@@ -606,9 +606,9 @@ http://194.190.78.91:8080/aivaya/index.m3u8
 #EXTGRP:Музыка
 http://85.91.206.125:7017/play/109
 
-#EXTINF:-1,1HD
-#EXTGRP:Тест
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Deluxe Music [DE]
+#EXTGRP:Музыка
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-1,1HD Music
 #EXTGRP:Музыка
