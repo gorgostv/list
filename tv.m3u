@@ -688,7 +688,7 @@ http://185.32.44.154/muztv/index.m3u8
 
 #EXTINF:-0,Vostok TV
 #EXTGRP:Музыка
-http://109.248.81.215:4044/udp/239.195.0.157:1234
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 
 #EXTINF:-0,MIX 24/7
 #EXTGRP:Музыка
