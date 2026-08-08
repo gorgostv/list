@@ -7,6 +7,14 @@ http://adres-kanala.tut/index.m3u
 #EXTGRP:Новости
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 
+#EXTINF:-1,РБК
+#EXTGRP:Новости
+https://s1.iptv-24.net/1438/index.m3u8
+
+#EXTINF:-1,Мир 24
+#EXTGRP:Новости
+https://s1.iptv-24.net/1219/index.m3u8
+
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
