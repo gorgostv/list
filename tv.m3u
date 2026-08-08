@@ -11,6 +11,10 @@ https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTGRP:Новости
 https://s1.iptv-24.net/1438/index.m3u8
 
+#EXTINF:-1,CGTN Русский 
+#EXTGRP:Новости
+https://s1.iptv-24.net/1456/index.m3u8
+
 #EXTINF:-1,Мир 24
 #EXTGRP:Новости
 https://s1.iptv-24.net/1219/index.m3u8
