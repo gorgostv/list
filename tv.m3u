@@ -605,6 +605,10 @@ https://s1.iptv-24.net/1416/index.m3u8
 #EXTGRP:Познавательные
 https://s1.iptv-24.net/1222/index.m3u8
 
+#EXTINF:-1,Точка.РФ HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/161/index.m3u8
+
 #EXTINF:-1,Приключения HD
 #EXTGRP:Познавательные
 https://s1.iptv-24.net/1420/index.m3u8
@@ -748,10 +752,6 @@ http://stream.mcquack.net/124/index.m3u8
 #EXTINF:-1,Моя Стихия
 #EXTGRP:Познавательные
 http://stream.mcquack.net/141/index.m3u8
-
-#EXTINF:-1,Точка.РФ HD
-#EXTGRP:Познавательные
-http://stream.mcquack.net/161/index.m3u8
 
 #EXTINF:-1,RTG TV
 #EXTGRP:Познавательные
