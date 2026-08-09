@@ -31,6 +31,10 @@ https://s1.iptv-24.net/1227/index.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1233/index.m3u8
 
+#EXTINF:-1,Киномикс
+#EXTGRP:Кино
+http://stream.mcquack.net/133/index.m3u8
+
 #EXTINF:-1,Мужское кино
 #EXTGRP:Кино
 https://s1.iptv-24.net/1237/index.m3u8
@@ -50,10 +54,6 @@ https://s1.iptv-24.net/1207/index.m3u8
 #EXTINF:-1,Кинокомедия
 #EXTGRP:Кино
 https://s1.iptv-24.net/1232/index.m3u8
-
-#EXTINF:-1,Киномикс
-#EXTGRP:Кино
-http://stream.mcquack.net/133/index.m3u8
 
 #EXTINF:-1,Киносемья
 #EXTGRP:Кино
