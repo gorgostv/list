@@ -27,10 +27,6 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1227/index.m3u8
 
-#EXTINF:-1,Блокбастер HD
-#EXTGRP:Кино
-http://bigteisti8.kfc.lifeyosso.fun:4399/bbaster/video.m3u8
-
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -40,9 +36,10 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
-http://bigteisti2.kfc.lifeyosso.fun:56374/domkinopremium/video.m3u8
+http://stream.mcquack.net/108/index.m3u8
 
 #EXTINF:-1,НТВ ХИТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 #EXTGRP:Кино
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
@@ -54,127 +51,13 @@ http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
 #EXTGRP:Кино
 http://kinowalk.hopto.org/kinowalk_live
 
-#EXTINF:-1,Камеди HD
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/COMEDY/video.m3u8?
-
-#EXTINF:-1,Комедийное HD
-#EXTGRP:Кино
-http://bigteisti8.kfc.lifeyosso.fun:4399/komediinoe/video.m3u8
-
-#EXTINF:-1,VIP COMEDY
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/VIPCOMEDY/video.m3u8
-
-#EXTINF:-1,ViP Premiere
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/VIPPREMIERE/video.m3u8
-
-#EXTINF:-1,VIP Megahit
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/VIPMEGAHIT/video.m3u8
-
-#EXTINF:-1 group-title="Кино", ViP Serial
-http://bigteisti2.kfc.lifeyosso.fun:56374/VIPSERIAL/video.m3u8
-
-#EXTINF:-1,TV 1000
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/tv1000_SD/video.m3u8
-
-#EXTINF:-1,TV 1000 Русское кино
-#EXTGRP:Кино
-http://185.74.7.220:8080/tv1000ru/mpegts
-
-#EXTINF:-1,TV 1000 Action HD
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/tv1000_action_SD/video.m3u8
-
-#EXTINF:-1,TV1000 World Kino
-#EXTGRP:Кино
-http://bigteisti9.kfc.lifeyosso.fun:30455/dHYxMDAwX3/video.m3u8
-
-#EXTINF:-1 group-title="Кино", КиноПремьера
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-
-#EXTINF:-1,Кинокомедия
-#EXTGRP:Кино
-http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-
-#EXTINF:-1,Киносерия
-#EXTGRP:Кино
-http://51.68.140.190:8081/tv/kinoseria/playlist.m3u8
-
-#EXTINF:-1,Кинохит
-#EXTGRP:Кино
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-
-#EXTINF:-1,Киносемья
-#EXTGRP:Кино
-http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-
-#EXTINF:-1,КиноСвидание
-#EXTGRP:Кино
-http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-
-#EXTINF:-1,Мужское кино
-#EXTGRP:Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-
-#EXTINF:-1,Киномикс
-#EXTGRP:Кино
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-
-#EXTINF:-1,Киноужас
-#EXTGRP:Кино
-http://myott.top/stream/W72RFQ29JP/278.m3u8
-
-#EXTINF:-1,Наше новое кино
-#EXTGRP:Кино
-https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Родное кино
-#EXTGRP:Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-
-#EXTINF:-1,Наше мужское HD 
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/nashemuzhskoe/video.m3u8
-
-#EXTINF:-1,Наш Кинопоказ HD
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:56374/nashkinopokaz/video.m3u8
-
-#EXTINF:-1,Про любовь HD
-#EXTGRP:Кино
-http://bigteisti8.kfc.lifeyosso.fun:4399/prolubov/video.m3u8
-
-#EXTINF:-1,Любимое HD
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:32144/LUBIMOE/video.m3u8
-
 #EXTINF:-1,Любимое Кино
 #EXTGRP:Кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 
-#EXTINF:-1,Наше HD
-#EXTGRP:Кино
-http://bigteisti1.kfc.lifeyosso.fun:56373/nashe/video.m3u8
-
 #EXTINF:-1,Иллюзион +
 #EXTGRP:Кино
 http://176.118.197.101/Illuzion+/index.m3u8
-
-#EXTINF:-1,Русский Иллюзион
-#EXTGRP:Кино
-http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
-
-#EXTINF:-1,Русский Бестселлер
-#EXTGRP:Кино
-http://51.68.141.106:8081/tv/rus-bestceller/playlist.m3u8
-
-#EXTINF:-1,Русский детектив
-#EXTGRP:Кино
-http://51.195.44.53:8081/tv/rus-detektiv/chunks.m3u8
 
 #EXTINF:-1,Русский роман
 #EXTGRP:Кино
@@ -188,137 +71,13 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 
-#EXTINF:-1 ,SPIKE
-#EXTGRP:Кино
-http://iptv.prosto.tv:7000/ch055/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 ,FAN
-#EXTGRP:Кино
-http://hls.goodgame.ru/hls/157239.m3u8
-
-#EXTINF:-1 ,SHOT TV
-#EXTGRP:Кино
-http://31.210.208.168:8080/shottv/index.m3u8
-
-#EXTINF:-1 ,Кинопоказ HD
-#EXTGRP:Кино
-http://bigteisti8.kfc.lifeyosso.fun:4399/kinopokaz/video.m3u8
-
-#EXTINF:-1,Amedia 1
-#EXTGRP:Кино
-http://92.43.140.249/s45/04.m3u8
-
-#EXTINF:-1,Amedia 2
-#EXTGRP:Кино
-http://sc.id-tv.kz/A2_36_37.m3u8
-
-#EXTINF:-1,Amedia Hit HD
-#EXTGRP:Кино
-http://bigteisti9.kfc.lifeyosso.fun:30455/ahomeofhbo1/video.m3u8
-
-#EXTINF:-1,Amedia Premium HD
-#EXTGRP:Кино
-http://92.43.140.249/s64/04.m3u8
-
-#EXTINF:-1,.red
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:32144/RED/video.m3u8
-
-#EXTINF:-1,.Sci-Fi
-#EXTGRP:Кино
-http://bigteisti2.kfc.lifeyosso.fun:32144/SCIFI/video.m3u8
-
-#EXTINF:-1,.black
-#EXTGRP:Кино
-http://bigteisti9.kfc.lifeyosso.fun:30455/black/video.m3u8
-
-#EXTINF:-1,Мир сериала 
-#EXTGRP:Кино
-http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8?version=2
-
-#EXTINF:-1,Киносат
-#EXTGRP:Кино
-http://89.104.114.7:8080/kinosat/index.m3u8
-
-#EXTINF:0,TV XXI
-#EXTGRP:Кино
-http://195.49.206.244:90/TV21/video.m3u8
-
-#EXTINF:-1,Paramount channel
-#EXTGRP:Кино
-http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
-
-#EXTINF:-1,Paramount Comedy
-#EXTGRP:Кино
-http://37.17.14.147:8904/play/a00h
-
-#EXTINF:0,НСТ
-#EXTGRP:Кино
-http://51.195.44.53:8081/tv/nst/chunks.m3u8
-
-#EXTINF:-1,KINO 24
-#EXTGRP:Кино
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-
-#EXTINF:-1,Премиальное HD
-#EXTGRP:Кино
-http://myott.top/stream/W72RFQ29JP/215.m3u8
-
 #EXTINF:-1 ,Hollywood
 #EXTGRP:Кино
-http://109.200.130.124:7006/play/a02n
-
-#EXTINF:-1 ,Hollywood HD
-#EXTGRP:Кино
-http://94.100.220.44:8080/HollywodHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,TVMChannel
-#EXTGRP:Кино
-http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Шокирующее HD
-#EXTGRP:Кино
-http://myott.top/stream/W72RFQ29JP/75.m3u8
-
-#EXTINF:-1,Trash HD
-#EXTGRP:Кино
-http://cdn.nexttvnet.ru/hlsl/1/TrashHD/index.m3u8
-
-#EXTINF:-1,Star cinema
-#EXTGRP:Кино
-http://212.79.122.23:8000/play/a00r/index.m3u8
-
-#EXTINF:-1,КиноЗаказ HD
-#EXTGRP:Кино
-http://hls.goodgame.ru/hls/5346.m3u8
-
-#EXTINF:-1,Остросюжетное HD
-#EXTGRP:Кино
-http://myott.top/stream/W72RFQ29JP/214.m3u8
-
-#EXTINF:-1 ,Kino Watch TV - Документальные
-#EXTGRP:Кино
-https://edge-01.kino.watch/docu/index.m3u8
-
-#EXTINF:-1 ,Kino Watch TV - Свежаки
-#EXTGRP:Кино
-https://edge-01.kino.watch/fresh/index.m3u8
-
-#EXTINF:-1 ,Kino Watch TV - Ужастик
-#EXTGRP:Кино
-http://edge-01.kino.watch/horror/index.m3u8
-
-#EXTINF:-1 ,Kino Watch TV - ХИТ
-#EXTGRP:Кино
-https://edge-01.kino.watch/hit/index.m3u8
+https://s1.iptv-24.net/1443/index.m3u8
 
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,Еврокино
-#EXTGRP:Кино
-http://51.68.141.106:8081/tv/evrokino/chunks.m3u8
 
 #EXTINF:-1, Baby Time
 #EXTGRP:Детские
