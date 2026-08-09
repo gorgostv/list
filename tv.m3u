@@ -593,265 +593,193 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTGRP:Музыка
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Первый космический HD
 #EXTGRP:Познавательные
-http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+https://s1.iptv-24.net/1415/index.m3u8
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1,Инсайт ТВ UHD
 #EXTGRP:Познавательные
-http://tvport.it-tele.net:8000/fae5e9752a49e0cebbdb07ca0f1abc60
+https://s1.iptv-24.net/1416/index.m3u8
 
-#EXTINF:-1,National Geographic
+#EXTINF:-1,Точка РФ
 #EXTGRP:Познавательные
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-
-#EXTINF:-1,Nat Geo Wild
-#EXTGRP:Познавательные
-http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
-
-#EXTINF:-1,Animal Planet
-#EXTGRP:Познавательные
-https://s4.idata.uz/animal/tracks-v1a1/rewind-7200.m3u8
-
-#EXTINF:-1,Поехали!
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/poehali_34_35.m3u8
-
-#EXTINF:-1,24 Техно
-#EXTGRP:Познавательные
-http://185.74.7.220:8080/techno_24/mpegts
-
-#EXTINF:-1,365 дней ТВ
-#EXTGRP:Познавательные
-http://31.210.208.168:8080/365day/index.m3u8
-
-#EXTINF:-1,Viasat Explore
-#EXTGRP:Познавательные
-http://109.200.130.124:7000/play/a006
-
-#EXTINF:-1,Viasat History
-#EXTGRP:Познавательные
-https://s1.idata.uz/stch_temp20/tracks-v1a1/rewind-7200.m3u8
-
-#EXTINF:-1,Viasat Nature
-#EXTGRP:Познавательные
-http://109.200.130.124:7000/play/a008
-
-#EXTINF:-1,История
-#EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s40/04.m3u8
-
-#EXTINF:-1,History HD
-#EXTGRP:Познавательные
-http://94.230.240.12:8080/history/index.m3u8
-
-#EXTINF:-1,H2 HD
-#EXTGRP:Познавательные
-http://myott.top/stream/DA5345HD3KZ/65.m3u8
-
-#EXTINF:-1,Домашние Животные
-#EXTGRP:Познавательные
-http://195.49.206.244:90/domashnie_zhivotnye/index.m3u8
-
-#EXTINF:-1,Travel Channel HD
-#EXTGRP:Познавательные
-http://spacetv.in/stream/DA5345HD3KZ/231.m3u8
-
-#EXTINF:-1,Travel+Adventure HD
-#EXTGRP:Познавательные
-http://109.248.115.156:40222/udp/239.195.1.23:1234
-
-#EXTINF:-1,Совершенно секретно
-#EXTGRP:Познавательные
-https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0.m3u8
-
-#EXTINF:-1,Тайна
-#EXTGRP:Познавательные
-http://37.17.12.124:8912/play/a008
-
-#EXTINF:-1,Большая Азия
-#EXTGRP:Познавательные
-http://109.248.95.80:5555/udp/239.195.1.106:1234
-
-#EXTINF:-1,Мир увлечений
-#EXTGRP:Познавательные
-http://strm.yandex.ru/kal/hobbyworld_supres/hobbyworld_supres0_1511_480p.json/index-v1-a1.m3u8?version=2
-
-#EXTINF:-1,Охота и рыбалка
-#EXTGRP:Познавательные
-http://51.68.141.106:8081/tv/ohota-i-ryibalka/playlist.m3u8
-
-#EXTINF:-1,Трофей HD
-#EXTGRP:Познавательные
-http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
-
-#EXTINF:-1,Живая Планета HD
-#EXTGRP:Познавательные
-http://31.130.21.36:2732/udp/239.1.11.33:1234
-
-#EXTINF:-1,Неизвестная Планета HD
-#EXTGRP:Познавательные
-http://dmitry-tv.my1.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
-
-#EXTINF:-1,Оружие
-#EXTGRP:Познавательные
-http://cdn.nexttvnet.ru/hlsl/10/Oruzhie/Oruzhie_3/index.m3u8?bw872973168630.m3u8
-
-#EXTINF:-1,Ратник
-#EXTGRP:Познавательные
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-
-#EXTINF:-1,Бобёр
-#EXTGRP:Познавательные
-http://213.109.61.5:4777/udp/239.255.0.156:1234
-
-#EXTINF:-1,Пёс и Ко
-#EXTGRP:Познавательные
-http://178.163.25.166:4022/udp/234.0.0.188:2000
-
-#EXTINF:-1,Моя планета
-#EXTGRP:Тест
-http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
-
-#EXTINF:-1,Моя планета
-#EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://62.76.35.147:81/udp/239.195.4.83:1234
-
-#EXTINF:-1,Зоопарк
-#EXTGRP:Познавательные
-http://31.130.21.36:2732/udp/239.1.9.33:1234
-
-#EXTINF:-1,ЗОО ТВ
-#EXTGRP:Познавательные
-http://31.130.21.36:2732/udp/239.1.10.25:1234
+https://s1.iptv-24.net/1222/index.m3u8
 
 #EXTINF:-1,Приключения HD
 #EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s99/index.m3u8
+https://s1.iptv-24.net/1420/index.m3u8
+
+#EXTINF:-1,Глазами Туриста HD
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1423/index.m3u8
+
+#EXTINF:-1,Viju History
+#EXTGRP:Познавательные
+http://stream.mcquack.net/101/index.m3u8
+
+#EXTINF:-1,Viju Nature
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1228/index.m3u8
+
+#EXTINF:-1,Viju Sport
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1229/index.m3u8
+
+#EXTINF:-1,Дикий
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1230/index.m3u8
+
+#EXTINF:-1,Da Vinci
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1231/index.m3u8
+
+#EXTINF:-1,Кухня ТВ
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1236/index.m3u8
+
+#EXTINF:-1,365 дней
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1242/index.m3u8
+
+#EXTINF:-1,Планета
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1243/index.m3u8
+
+#EXTINF:-1,Приключения HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/198/index.m3u8
 
 #EXTINF:-1,Наука HD
 #EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s98/index.m3u8
+https://s1.iptv-24.net/1248/index.m3u8
+
+#EXTINF:-1,Наука HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/125/index.m3u8
+
+#EXTINF:-1,Живая Планета
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1250/index.m3u8
+
+#EXTINF:-1,История
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1266/index.m3u8
+
+#EXTINF:-1,В мире животных HD
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1404/index.m3u8
+
+#EXTINF:-1,Загородный
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1410/index.m3u8
+
+#EXTINF:-1,Дикая охота HD
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1412/index.m3u8
+
+#EXTINF:-1,Дикая рыбалка HD 
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1432/index.m3u8
+
+#EXTINF:-1,Охотник и Рыболов HD
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1413/index.m3u8
+
+#EXTINF:-1,Охотник и Рыболов HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/194/index.m3u8
+
+#EXTINF:-1,Арсенал ТВ
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1414/index.m3u8
+
+#EXTINF:-1,Зоопарк
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1417/index.m3u8
+
+#EXTINF:-1,Наша Сибирь HD
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1424/index.m3u8
+
+#EXTINF:-1,Драйв
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1421/index.m3u8
+
+#EXTINF:-1,Авто 24
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1430/index.m3u8
+
+#EXTINF:-1,Домашние Животные
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1426/index.m3u8
+
+#EXTINF:-1,Вопросы и ответы
+#EXTGRP:Познавательные
+https://s1.iptv-24.net/1429/index.m3u8
+
+#EXTINF:-1,Матч! Боец
+#EXTGRP:Познавательные
+http://stream.mcquack.net/112/index.m3u8
+
+#EXTINF:-1,Animal Planet
+#EXTGRP:Познавательные
+http://stream.mcquack.net/114/index.m3u8
+
+#EXTINF:-1,National Geographic
+#EXTGRP:Познавательные
+http://stream.mcquack.net/116/index.m3u8
+
+#EXTINF:-1,National Geographic Wild
+#EXTGRP:Познавательные
+http://stream.mcquack.net/149/index.m3u8
+
+#EXTINF:-1,Investigation Discovery
+#EXTGRP:Познавательные
+http://stream.mcquack.net/205/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+#EXTGRP:Познавательные
+http://stream.mcquack.net/177/index.m3u8
+
+#EXTINF:-1,Моя Планета
+#EXTGRP:Познавательные
+http://stream.mcquack.net/124/index.m3u8
+
+#EXTINF:-1,Моя Стихия
+#EXTGRP:Познавательные
+http://stream.mcquack.net/141/index.m3u8
+
+#EXTINF:-1,Точка.РФ HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/161/index.m3u8
 
 #EXTINF:-1,RTG TV
 #EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s80/index.m3u8
+http://stream.mcquack.net/164/index.m3u8
 
-#EXTINF:-1,Наша Сибирь
+#EXTINF:-1,Extreme Sports
 #EXTGRP:Познавательные
-https://strm.yandex.ru/kal/sibir/sibir0_169_720p.json/index-v1-a1.m3u8
+http://stream.mcquack.net/148/index.m3u8
 
-#EXTINF:-1,NANO HD
+#EXTINF:-1,Amedia Premium HD
 #EXTGRP:Познавательные
-http://nano.teleservice.su:8080/hls/nano.m3u8
+http://stream.mcquack.net/151/index.m3u8
 
-#EXTINF:-1,MTV Europe
-#EXTGRP:Тест
-http://iptv.prosto.tv:7000/ch124/tracks-v1a1/index.m3u8
+#EXTINF:-1,Бокс ТВ
+#EXTGRP:Познавательные
+http://stream.mcquack.net/154/index.m3u8
 
-#EXTINF:-1,MTV Dance
-#EXTGRP:Тест
-http://iptv.prosto.tv:7000/ch125/tracks-v1a1/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+#EXTGRP:Познавательные
+http://stream.mcquack.net/155/index.m3u8
 
-#EXTINF:-1,MTV Hit
-#EXTGRP:Тест
-http://iptv.prosto.tv:7000/ch126/tracks-v1a1/index.m3u8
+#EXTINF:-1,Кухня
+#EXTGRP:Познавательные
+http://stream.mcquack.net/179/index.m3u8
 
-#EXTINF:-1,MTV Rock
-#EXTGRP:Тест
-http://iptv.prosto.tv:7000/ch127/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,MTV Live HD
-#EXTGRP:Тест
-http://iptv.prosto.tv:7000/ch128/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Europa Plus TV
-#EXTGRP:Тест
-http://92.241.118.230:4022/udp/233.67.0.28:5510
-
-#EXTINF:-1,Music Box Gold
-#EXTGRP:Тест
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8?em9uYS1pcHR2LnJ1
-
-#EXTINF:-1,21 TV Armenia
-#EXTGRP:Тест
-http://ott-cdn.ucom.am/s10/04.m3u8
-
-#EXTINF:-1,Bridge TV
-#EXTGRP:Тест
-http://ott-cdn.ucom.am/s34/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,Bridge TV
-#EXTGRP:Тест
-http://ott-cdn.ucom.am/s34/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,Bridge TV Русский хит
-#EXTGRP:Тест
-http://ott-cdn.ucom.am/s78/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,Bridge TV Deluxe
-#EXTGRP:Тест
-http://31.130.21.36:2732/udp/239.1.9.31:1234
-
-#EXTINF:-1,Bridge TV Classic
-#EXTGRP:Тест
-http://31.130.21.36:2732/udp/239.1.9.22:1234
-
-#EXTINF:-1,AIVA TV
-#EXTGRP:Тест
-https://strm.yandex.ru/kal/aiva/aiva0.m3u8
-
-#EXTINF:-1 group-title="Тест" tvg-name="MTV HITS" ,MTV HITS
-http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
-
-#EXTINF:-1,Eurodance 90
-#EXTGRP:Тест
-https://eurodance.catcast.tv/content/36987/index.m3u8
-
-#EXTINF:-1,Бобёр
-#EXTGRP:Тест
-https://sc.id-tv.kz/bober_38_39.m3u8
-
-#EXTINF:-1,Дождь
-#EXTGRP:Тест
-http://5.128.254.228:81/udp/239.1.13.6:1234
-
-#EXTINF:-1,ID Fashion
-#EXTGRP:Тест
-https://sc.id-tv.kz/IDFashion_38_39.m3u8
-
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/52e87b319aa21f264e88ae2bc01766ae.jpg",BLUE CRABS TV
-#EXTGRP:Тест
-http://cdnhls.goodgame.ru/hls/100586.m3u8
-
-#EXTINF:-1 tvg-logo="https://backustv.ru/img/ch1.jpg",BACKUSTV
-#EXTGRP:Тест
-http://autopilot.catcast.tv/content/39837/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://backustv.ru/img/ch2.jpg",BACKUSTV СТРАШНОЕ
-#EXTGRP:Тест
-http://autopilot.catcast.tv/content/39864/index.m3u8
-
-#EXTINF:-1,Россия Культура
-#EXTGRP:Тест
-http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-
-#EXTINF:-1,ОТР
-#EXTGRP:Тест
-http://uiptv.do.am/1ufc/000000008/playlist.m3u8
-
-#EXTINF:-1,PLAYBOY TV
-#EXTGRP:Тест
-http://185.207.145.71:8000/play/a031/index.m3u8
-
-#EXTINF:-1,Penthouse Gold HD
-#EXTGRP:Тест
-http://50.7.172.58:8081/39/index.m3u8?wmsAuthSign=1620213725p771i501i512i28S93fc7b7b6a413e9b0e9a50137d0c2da7
-
-#EXTINF:-1,РТР-Планета Армения
-#EXTGRP:Тест
-http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:-1,Авто Плюс
+#EXTGRP:Познавательные
+http://stream.mcquack.net/186/index.m3u8
 
 #EXTINF:-1 tvg-id="BizCinema.uz" tvg-name="Biz Cinema" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="",Biz Cinema
 #EXTGRP:Уз
