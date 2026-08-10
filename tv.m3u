@@ -71,6 +71,10 @@ https://s1.iptv-24.net/1207/index.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1232/index.m3u8
 
+#EXTINF:-1,Кинокомедия HD
+#EXTGRP:Кино
+http://stream.mcquack.net/265/index.m3u8
+
 #EXTINF:-1,Киносемья
 #EXTGRP:Кино
 https://s1.iptv-24.net/1234/index.m3u8
@@ -86,6 +90,14 @@ https://s1.iptv-24.net/1203/index.m3u8
 #EXTINF:-1,Киносвидание
 #EXTGRP:Кино
 http://stream.mcquack.net/171/index.m3u8
+
+#EXTINF:-1,Киноужас HD
+#EXTGRP:Кино
+http://stream.mcquack.net/278/index.m3u8
+
+#EXTINF:-1,Родное Кино
+#EXTGRP:Кино
+http://stream.mcquack.net/242/index.m3u8
 
 #EXTINF:-1,Киносерия
 #EXTGRP:Кино
