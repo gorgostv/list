@@ -243,26 +243,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTGRP:ЦТВ
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 
-#EXTINF:-1,MIXM TV 
-#EXTGRP:Музыка
-http://89.179.247.144/mixm.m3u8
-
-#EXTINF:-1,Europa Plus TV
-#EXTGRP:Музыка
-http://185.32.44.154/europaplus/index.m3u8
-
-#EXTINF:-1,NRJ Hits
-#EXTGRP:Музыка
-https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
-
-#EXTINF:-1,AIVA
-#EXTGRP:Музыка
-http://194.190.78.91:8080/aivaya/index.m3u8
-
-#EXTINF:-1,TOP TV
-#EXTGRP:Музыка
-http://85.91.206.125:7017/play/109
-
 #EXTINF:-1,Deluxe Music [DE]
 #EXTGRP:Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -279,81 +259,17 @@ http://rtmp.one.by:1300
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
 
-#EXTINF:-1,Russian MusicBox
-#EXTGRP:Музыка
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-
-#EXTINF:-1,VIVA Russia
-#EXTGRP:Музыка
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-
-#EXTINF:-1,Fresh TV
-#EXTGRP:Музыка
-https://strm.yandex.ru/kal/fresh/fresh0.m3u8
-
-#EXTINF:-1,VH1 European
-#EXTGRP:Музыка
-http://109.200.130.124:7006/play/a01a
-
-#EXTINF:-1,Bridge TV
-#EXTGRP:Музыка
-http://185.32.44.154/bridgetv/index.m3u8
-
-#EXTINF:-1,Bridge TV Hits
-#EXTGRP:Музыка
-http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8
-
-#EXTINF:-1,Bridge TV ФРЭШ
-#EXTGRP:Музыка
-http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8
-
-#EXTINF:-1,Bridge TV Русский хит
-#EXTGRP:Музыка
-http://185.32.44.154/dangetv/index.m3u8
-
-#EXTINF:-1,Bridge TV Classic
-#EXTGRP:Музыка
-http://185.32.44.154/rusong/index.m3u8
-
-#EXTINF:-1,Музыка Первого
-#EXTGRP:Музыка
-http://109.200.130.124:7006/play/a01g
-
 #EXTINF:-1,DeeJay TV
 #EXTGRP:Музыка
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
-#EXTINF:-1,ТНТ Music
-#EXTGRP:Музыка
-http://185.32.44.154/tntmusic/index.m3u8
-
-#EXTINF:-1 ,MCM Top
-#EXTGRP:Музыка
-http://185.32.44.154/mcmtop/index.m3u8
 
 #EXTINF:-1 ,Kronehit HD
 #EXTGRP:Музыка
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1,RU TV
-#EXTGRP:Музыка
-http://185.32.44.154/rutv/index.m3u8
-
-#EXTINF:-1,МУЗ ТВ
-#EXTGRP:Музыка
-http://185.32.44.154/muztv/index.m3u8
-
 #EXTINF:-0,Vostok TV
 #EXTGRP:Музыка
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-
-#EXTINF:-0,MIX 24/7
-#EXTGRP:Музыка
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
-
-#EXTINF:-0,radio m2o
-#EXTGRP:Музыка
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 #EXTINF:-0,Arabica Music
 #EXTGRP:Музыка
