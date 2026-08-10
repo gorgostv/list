@@ -119,6 +119,10 @@ http://stream.mcquack.net/202/index.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1224/index.m3u8
 
+#EXTINF:-1,НСТ
+#EXTGRP:Кино
+http://stream.mcquack.net/207/index.m3u8
+
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://stream.mcquack.net/117/index.m3u8
@@ -197,6 +201,10 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 ,Hollywood
 #EXTGRP:Кино
 https://s1.iptv-24.net/1443/index.m3u8
+
+#EXTINF:-1 ,Hollywood HD
+#EXTGRP:Кино
+http://stream.mcquack.net/268/index.m3u8
 
 #EXTINF:-1,312 Кино
 #EXTGRP:Кино
