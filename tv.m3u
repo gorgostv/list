@@ -515,9 +515,49 @@ https://s1.iptv-24.net/1212/index.m3u8
 #EXTGRP:Уз
 https://s1.iptv-24.net/1211/index.m3u8
 
+#EXTINF:-1,CineMan
+#EXTGRP:Кинозал
+http://stream.mcquack.net/349/index.m3u8
+
+#EXTINF:-1,CineMan Top
+#EXTGRP:Кинозал
+http://stream.mcquack.net/350/index.m3u8
+
+#EXTINF:-1,CineMan Action
+#EXTGRP:Кинозал
+http://stream.mcquack.net/351/index.m3u8
+
+#EXTINF:-1,CineMan Thriller
+#EXTGRP:Кинозал
+http://stream.mcquack.net/352/index.m3u8
+
+#EXTINF:-1,CineMan Marvel
+#EXTGRP:Кинозал
+http://stream.mcquack.net/354/index.m3u8
+
+#EXTINF:-1,CineMan Ужасы
+#EXTGRP:Кинозал
+http://stream.mcquack.net/355/index.m3u8
+
+#EXTINF:-1,CineMan Комедия
+#EXTGRP:Кинозал
+http://stream.mcquack.net/356/index.m3u8
+
 #EXTINF:-1,CineMan MiniSeries
 #EXTGRP:Кинозал
 http://stream.mcquack.net/122/index.m3u8
+
+#EXTINF:-1,CineMan Cartoons Short
+#EXTGRP:Кинозал
+http://stream.mcquack.net/347/index.m3u8
+
+#EXTINF:-1,CineMan Cartoons Big
+#EXTGRP:Кинозал
+http://stream.mcquack.net/348/index.m3u8
+
+#EXTINF:-1,CineMan Сваты
+#EXTGRP:Кинозал
+http://stream.mcquack.net/359/index.m3u8
 
 #EXTINF:-1,CineMan Лесник
 #EXTGRP:Кинозал
