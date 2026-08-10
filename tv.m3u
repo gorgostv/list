@@ -27,6 +27,10 @@ https://s1.iptv-24.net/1219/index.m3u8
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Кино ТВ
+#EXTGRP:Кино
+http://stream.mcquack.net/221/index.m3u8
+
 #EXTINF:-1 ,Cinema
 #EXTGRP:Кино
 https://s1.iptv-24.net/1227/index.m3u8
@@ -34,6 +38,10 @@ https://s1.iptv-24.net/1227/index.m3u8
 #EXTINF:-1,Блокбастер HD
 #EXTGRP:Кино
 http://stream.mcquack.net/364/index.m3u8
+
+#EXTINF:-1,Остросюжетное HD
+#EXTGRP:Кино
+http://stream.mcquack.net/214/index.m3u8
 
 #EXTINF:-1,Киномикс
 #EXTGRP:Кино
