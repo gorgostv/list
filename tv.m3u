@@ -323,10 +323,6 @@ https://s1.iptv-24.net/1415/index.m3u8
 #EXTGRP:Познавательные
 https://s1.iptv-24.net/1416/index.m3u8
 
-#EXTINF:-1,TV XXI
-#EXTGRP:Познавательные
-fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onl..
-
 #EXTINF:-1,Точка.РФ HD
 #EXTGRP:Познавательные
 https://s1.iptv-24.net/1222/index.m3u8
