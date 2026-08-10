@@ -163,18 +163,6 @@ http://stream.mcquack.net/263/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/196/index.m3u8
 
-#EXTINF:-1,Русский детектив
-#EXTGRP:Кино
-http://stream.mcquack.net/204/index.m3u8
-
-#EXTINF:-1,Русский бестселлер
-#EXTGRP:Кино
-http://stream.mcquack.net/208/index.m3u8
-
-#EXTINF:-1,Русский роман
-#EXTGRP:Кино
-http://stream.mcquack.net/266/index.m3u8
-
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -201,6 +189,18 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1,Иллюзион +
 #EXTGRP:Кино
 http://176.118.197.101/Illuzion+/index.m3u8
+
+#EXTINF:-1,Русский детектив
+#EXTGRP:Кино
+http://stream.mcquack.net/204/index.m3u8
+
+#EXTINF:-1,Русский бестселлер
+#EXTGRP:Кино
+http://stream.mcquack.net/208/index.m3u8
+
+#EXTINF:-1,Русский роман
+#EXTGRP:Кино
+http://stream.mcquack.net/266/index.m3u8
 
 #EXTINF:-1,Русский роман
 #EXTGRP:Кино
