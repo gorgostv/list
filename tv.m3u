@@ -123,6 +123,10 @@ https://s1.iptv-24.net/1224/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/207/index.m3u8
 
+#EXTINF:-1,Хит HD
+#EXTGRP:Кино
+http://stream.mcquack.net/363/index.m3u8
+
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 http://stream.mcquack.net/117/index.m3u8
@@ -146,6 +150,10 @@ http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1,.sci-fi
 #EXTGRP:Кино
 http://stream.mcquack.net/180/index.m3u8
+
+#EXTINF:-1,.black
+#EXTGRP:Кино
+http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1,Plan_B HD
 #EXTGRP:Кино
