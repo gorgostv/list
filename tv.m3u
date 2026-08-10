@@ -31,6 +31,10 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1227/index.m3u8
 
+#EXTINF:-1,Блокбастер HD
+#EXTGRP:Кино
+http://stream.mcquack.net/364/index.m3u8
+
 #EXTINF:-1,Киномикс
 #EXTGRP:Кино
 https://s1.iptv-24.net/1233/index.m3u8
