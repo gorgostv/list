@@ -251,11 +251,11 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTGRP:Музыка
 http://176.118.197.101/1HD/index.m3u8
 
-#EXTINF:-1,ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD
+#EXTINF:-1,Первый музыкальный BY
 #EXTGRP:Музыка
 http://rtmp.one.by:1300
 
-#EXTINF:-1,ПЕРВЫЙ МУЗЫКАЛЬНЫЙ RU
+#EXTINF:-1,Первый музыкальный
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
 
