@@ -119,6 +119,10 @@ http://stream.mcquack.net/202/index.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1224/index.m3u8
 
+#EXTINF:-1,Viju+ Serial HD
+#EXTGRP:Кино
+http://stream.mcquack.net/311/index.m3u8
+
 #EXTINF:-1,НСТ
 #EXTGRP:Кино
 http://stream.mcquack.net/207/index.m3u8
@@ -160,8 +164,16 @@ http://stream.mcquack.net/263/index.m3u8
 http://stream.mcquack.net/196/index.m3u8
 
 #EXTINF:-1,Русский детектив
- #EXTGRP:Кино
+#EXTGRP:Кино
 http://stream.mcquack.net/204/index.m3u8
+
+#EXTINF:-1,Русский бестселлер
+#EXTGRP:Кино
+http://stream.mcquack.net/208/index.m3u8
+
+#EXTINF:-1,Русский роман
+#EXTGRP:Кино
+http://stream.mcquack.net/266/index.m3u8
 
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Кино
