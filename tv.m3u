@@ -211,7 +211,7 @@ http://stream.mcquack.net/380/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/395/index.m3u8
 
-#EXTINF:-1,Kino Living
+#EXTINF:-1,KinoLiving
 #EXTGRP:Кино
 http://stream.mcquack.net/445/index.m3u8
 
