@@ -354,7 +354,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTGRP:ЦТВ
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 
-#EXTINF:-1,Deluxe Music [DE]
+#EXTINF:-1,Deluxe Music FHD DE
 #EXTGRP:Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
