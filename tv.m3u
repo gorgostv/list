@@ -358,7 +358,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTGRP:Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1,1HD Music
+#EXTINF:-1,1HD Music Television
 #EXTGRP:Музыка
 http://176.118.197.101/1HD/index.m3u8
 
