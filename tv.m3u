@@ -139,6 +139,22 @@ http://stream.mcquack.net/311/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/207/index.m3u8
 
+#EXTINF:-1,Еврокино HD
+#EXTGRP:Кино
+http://stream.mcquack.net/385/index.m3u8
+
+#EXTINF:-1,Премиальное HD
+#EXTGRP:Кино
+http://stream.mcquack.net/421/index.m3u8
+
+#EXTINF:-1,Kinowood HD
+#EXTGRP:Кино
+http://stream.mcquack.net/446/index.m3u8
+
+#EXTINF:-1,Kinosweet HD
+#EXTGRP:Кино
+http://stream.mcquack.net/447/index.m3u8
+
 #EXTINF:-1,Хит HD
 #EXTGRP:Кино
 http://stream.mcquack.net/363/index.m3u8
@@ -174,6 +190,34 @@ http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1,Plan_B HD
 #EXTGRP:Кино
 http://stream.mcquack.net/196/index.m3u8
+
+#EXTINF:-1,Т24
+#EXTGRP:Кино
+http://stream.mcquack.net/209/index.m3u8
+
+#EXTINF:-1,4Ever Cinema HD
+#EXTGRP:Кино
+http://stream.mcquack.net/258/index.m3u8
+
+#EXTINF:-1,4ever Drama
+#EXTGRP:Кино
+http://stream.mcquack.net/260/index.m3u8
+
+#EXTINF:-1,yes Movies Action
+#EXTGRP:Кино
+http://stream.mcquack.net/380/index.m3u8
+
+#EXTINF:-1,Kino1
+#EXTGRP:Кино
+http://stream.mcquack.net/395/index.m3u8
+
+#EXTINF:-1,Kino Living
+#EXTGRP:Кино
+http://stream.mcquack.net/445/index.m3u8
+
+#EXTINF:-1,FAN
+#EXTGRP:Кино
+http://stream.mcquack.net/420/index.m3u8
 
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Кино
