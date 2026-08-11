@@ -539,6 +539,10 @@ http://stream.mcquack.net/350/index.m3u8
 #EXTGRP:Кинозал
 http://stream.mcquack.net/351/index.m3u8
 
+#EXTINF:-1,CineMan Premium
+#EXTGRP:Кинозал
+http://stream.mcquack.net/470/index.m3u8
+
 #EXTINF:-1,CineMan Комедия
 #EXTGRP:Кинозал
 http://stream.mcquack.net/356/index.m3u8
@@ -606,10 +610,6 @@ http://stream.mcquack.net/477/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP:Кинозал
 http://stream.mcquack.net/488/index.m3u8
-
-#EXTINF:-1,Неизвестное ТВ
-#EXTGRP:Кинозал
-http://stream.mcquack.net/470/index.m3u8
 
 #EXTINF:-1,Fresh Rating
 #EXTGRP:Кинозал
