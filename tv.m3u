@@ -578,13 +578,22 @@ http://stream.mcquack.net/186/index.m3u8
 #EXTGRP:Уз
 https://s1.iptv-24.net/1213/index.m3u8
 
+#EXTINF:-1 tvg-id="BizCinema.uz" tvg-name="Biz Cinema" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Уз",Biz Cinema
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="BizMusic.uz" tvg-name="Biz Music" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-music.0b7f3d40.png" group-title="",Biz Music
 #EXTGRP:Уз
 https://s1.iptv-24.net/1212/index.m3u8
 
+#EXTINF:-1 tvg-id="BizMusic.uz" tvg-name="Biz Music" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-music.0b7f3d40.png" group-title="Уз",Biz Music
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="BizTV.uz" tvg-name="Biz TV" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-tv.774e87b5.png" group-title="",Biz TV
 #EXTGRP:Уз
 https://s1.iptv-24.net/1211/index.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.uz" tvg-name="Biz TV" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-tv.774e87b5.png" group-title="Уз",Biz TV
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CineMan
 #EXTGRP:Кинозал
