@@ -254,6 +254,14 @@ http://stream.mcquack.net/108/index.m3u8
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
+#EXTINF:-1 group-title="Кино",НТВ Сериал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1,НТВ Сериал
+#EXTGRP:Кино
+http://stream.mcquack.net/301/index.m3u8
+
 #EXTINF:-1,Русский детектив
 #EXTGRP:Кино
 http://stream.mcquack.net/204/index.m3u8
@@ -281,10 +289,6 @@ http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1,Время
 #EXTGRP:Кино
 http://stream.mcquack.net/237/index.m3u8
-
-#EXTINF:-1,НТВ Сериал
-#EXTGRP:Кино
-http://stream.mcquack.net/301/index.m3u8
 
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP:Кино
@@ -341,6 +345,14 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1,Россия 1 +9
 #EXTGRP:ЦТВ
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="ЦТВ",НТВ Стиль
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ЦТВ",НТВ Право
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Мир HD
 #EXTGRP:ЦТВ
