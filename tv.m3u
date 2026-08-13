@@ -21,7 +21,7 @@ https://s1.iptv-24.net/1438/index.m3u8
 #EXTGRP:Новости
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 
-#EXTINF:-1 tvg-id="tass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TASS_Logo_Cyrillic.svg" group-title="Новости",ТАСС
+#EXTINF:-1 tvg-id="tass" tvg-logo="https://www.eapo.org/wp-content/uploads/2024/03/tass_logo_cyrillic.svg.png" group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
 
 #EXTINF:-1,ТАСС HD
