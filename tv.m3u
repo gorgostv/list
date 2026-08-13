@@ -9,6 +9,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTGRP:Новости
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 
+#EXTINF:-1,Известия
+#EXTGRP:Новости
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
 #EXTINF:-1,РБК
 #EXTGRP:Новости
 https://s1.iptv-24.net/1438/index.m3u8
