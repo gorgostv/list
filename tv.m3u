@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz"
 #PLAYLIST:GorgosTV
+#EXTVLCOPT:http-user-agent=sinerama.uz/2.8.0 (Linux; Android 11)
 
 #EXTINF:-1 tvg-logo="1-music-hu" group-title="GorgosTV", GorgosTV Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
