@@ -377,9 +377,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTGRP:ЦТВ
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 
-#EXTINF:-1,BRIDGE
+#EXTINF:-1,Bridge Fresh HD
 #EXTGRP:Музыка
-http://5.188.159.128:8070/bridgetv/index.m3u8
+http://195.158.223.132:8004/Bridge_Fresh
 
 #EXTINF:-1,Bridge Hits
 #EXTGRP:Музыка
