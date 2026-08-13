@@ -377,6 +377,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTGRP:ЦТВ
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 
+#EXTINF:-1,Bridge Hits
+#EXTGRP:Музыка
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+
 #EXTINF:-1,Deluxe Music FHD DE
 #EXTGRP:Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
