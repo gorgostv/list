@@ -8,6 +8,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTGRP:Новости
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 
+#EXTINF:-1,Россия 24
+#EXTGRP:Новости
+http://176.118.197.101/Rossiya24/index.m3u8
+
 #EXTINF:-1,Известия
 #EXTGRP:Новости
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
@@ -46,6 +50,10 @@ http://stream.mcquack.net/221/index.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1227/index.m3u8
 
+#EXTINF:-1 ,Cinema
+#EXTGRP:Кино
+https://176.118.197.101/Cinema/index.m3u8
+
 #EXTINF:-1,Блокбастер HD
 #EXTGRP:Кино
 http://stream.mcquack.net/364/index.m3u8
@@ -57,6 +65,10 @@ http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1,Киномикс
 #EXTGRP:Кино
 https://s1.iptv-24.net/1233/index.m3u8
+
+#EXTINF:-1,Киномикс
+#EXTGRP:Кино
+http://176.118.197.101/Kinomix/index.m3u8
 
 #EXTINF:-1,Киномикс
 #EXTGRP:Кино
@@ -82,6 +94,10 @@ https://s1.iptv-24.net/1207/index.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1232/index.m3u8
 
+#EXTINF:-1 ,Кинокомедия
+#EXTGRP:Кино
+http://176.118.197.101/Kinokomediya/index.m3u8
+
 #EXTINF:-1,Кинокомедия HD
 #EXTGRP:Кино
 http://stream.mcquack.net/265/index.m3u8
@@ -106,6 +122,10 @@ http://stream.mcquack.net/171/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/278/index.m3u8
 
+#EXTINF:-1 ,Родное кино
+#EXTGRP:Кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+
 #EXTINF:-1,Родное Кино
 #EXTGRP:Кино
 http://stream.mcquack.net/242/index.m3u8
@@ -113,6 +133,10 @@ http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1,Киносерия
 #EXTGRP:Кино
 https://s1.iptv-24.net/1235/index.m3u8
+
+#EXTINF:-1,Киносерия
+#EXTGRP:Кино
+http://176.118.197.101/Kinoseria/index.m3u8
 
 #EXTINF:-1,Viju TV1000 Action
 #EXTGRP:Кино
@@ -146,13 +170,25 @@ https://s1.iptv-24.net/1224/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/311/index.m3u8
 
+#EXTINF:-1,Кинопоказ
+#EXTGRP:Кино
+http://176.118.197.101/Kinopokaz/index.m3u8
+
 #EXTINF:-1,НСТ
 #EXTGRP:Кино
 http://stream.mcquack.net/207/index.m3u8
 
+#EXTINF:-1,НСТ
+#EXTGRP:Кино
+http://176.118.197.101/HCT/index.m3u8
+
 #EXTINF:-1,Еврокино
 #EXTGRP:Кино
 http://stream.mcquack.net/385/index.m3u8
+
+#EXTINF:-1 ,Еврокино
+#EXTGRP:Кино
+http://176.118.197.101/Evrokino/index.m3u8
 
 #EXTINF:-1,Премиальное HD
 #EXTGRP:Кино
@@ -181,6 +217,10 @@ http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1,Start Air HD
 #EXTGRP:Кино
 http://stream.mcquack.net/128/index.m3u8
+
+#EXTINF:-1,Start Air HD
+#EXTGRP:Кино
+http://176.118.197.101/START_AIR/index.m3u8
 
 #EXTINF:-1,FX Life
 #EXTGRP:Кино
@@ -258,6 +298,10 @@ http://stream.mcquack.net/420/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/412/index.m3u8
 
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кино
+http://176.118.197.101/Dom_kino/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
 http://stream.mcquack.net/108/index.m3u8
 
@@ -273,6 +317,10 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/301/index.m3u8
 
+#EXTINF:-1,Мир сериала
+#EXTGRP:Кино
+http://176.118.197.101/MirSeriala/index.m3u8
+
 #EXTINF:-1,Русский детектив
 #EXTGRP:Кино
 http://stream.mcquack.net/204/index.m3u8
@@ -280,6 +328,10 @@ http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1,Русский бестселлер
 #EXTGRP:Кино
 http://stream.mcquack.net/208/index.m3u8
+
+#EXTINF:-1,Русская комедия
+#EXTGRP:Кино
+http://176.118.197.101/Komediya/index.m3u8
 
 #EXTINF:-1,Русский роман
 #EXTGRP:Кино
