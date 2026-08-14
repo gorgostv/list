@@ -498,6 +498,10 @@ https://s1.iptv-24.net/1423/index.m3u8
 
 #EXTINF:-1,Viju History
 #EXTGRP:Познавательные
+https://stream3.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Viju History
+#EXTGRP:Познавательные
 http://stream.mcquack.net/101/index.m3u8
 
 #EXTINF:-1,Viju Nature
