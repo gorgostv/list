@@ -206,6 +206,10 @@ http://stream.mcquack.net/363/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/117/index.m3u8
 
+#EXTINF:-1,Amedia Premium HD
+#EXTGRP:Кино
+http://stream.mcquack.net/151/index.m3u8
+
 #EXTINF:-1,Amedia Hit
 #EXTGRP:Кино
 http://stream.mcquack.net/162/index.m3u8
@@ -643,10 +647,6 @@ http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1,Extreme Sports
 #EXTGRP:Познавательные
 http://stream.mcquack.net/148/index.m3u8
-
-#EXTINF:-1,Amedia Premium HD
-#EXTGRP:Познавательные
-http://stream.mcquack.net/151/index.m3u8
 
 #EXTINF:-1,Бокс ТВ
 #EXTGRP:Познавательные
