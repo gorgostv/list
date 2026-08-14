@@ -50,10 +50,6 @@ http://stream.mcquack.net/221/index.m3u8
 #EXTGRP:Кино
 https://s1.iptv-24.net/1227/index.m3u8
 
-#EXTINF:-1 ,Cinema
-#EXTGRP:Кино
-https://176.118.197.101/Cinema/index.m3u8
-
 #EXTINF:-1,Блокбастер HD
 #EXTGRP:Кино
 http://stream.mcquack.net/364/index.m3u8
