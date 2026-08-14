@@ -166,7 +166,7 @@ https://s1.iptv-24.net/1224/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/311/index.m3u8
 
-#EXTINF:-1,Кинопоказ
+#EXTINF:-1,Кинопоказ HD
 #EXTGRP:Кино
 http://176.118.197.101/Kinopokaz/index.m3u8
 
