@@ -801,3 +801,7 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,Kinowalk_tv
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kinowalk_live
+
+#EXTINF:-1,МУЗ-ТВ
+#EXTGRP:Музыка ТЕСТ
+https://stream3.cinerama.uz/1063/tracks-v1a1/mono.m3u8
