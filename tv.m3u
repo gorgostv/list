@@ -317,6 +317,10 @@ http://stream.mcquack.net/301/index.m3u8
 #EXTGRP:Кино
 http://176.118.197.101/MirSeriala/index.m3u8
 
+#EXTINF:-1,Русская комедия
+#EXTGRP:Кино
+http://176.118.197.101/Komediya/index.m3u8
+
 #EXTINF:-1,Русский детектив
 #EXTGRP:Кино
 http://stream.mcquack.net/204/index.m3u8
@@ -324,10 +328,6 @@ http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1,Русский бестселлер
 #EXTGRP:Кино
 http://stream.mcquack.net/208/index.m3u8
-
-#EXTINF:-1,Русская комедия
-#EXTGRP:Кино
-http://176.118.197.101/Komediya/index.m3u8
 
 #EXTINF:-1,Русский роман
 #EXTGRP:Кино
