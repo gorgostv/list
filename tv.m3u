@@ -262,9 +262,13 @@ http://stream.mcquack.net/260/index.m3u8
 #EXTGRP:Кино
 http://stream.mcquack.net/380/index.m3u8
 
-#EXTINF:-1,Kino1
+#EXTINF:-1,Kino 1
 #EXTGRP:Кино
 http://stream.mcquack.net/395/index.m3u8
+
+#EXTINF:-1,Kino 2
+#EXTGRP:Кино
+http://stream.mcquack.net/465/index.m3u8
 
 #EXTINF:-1,KinoLiving
 #EXTGRP:Кино
