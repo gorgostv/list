@@ -476,7 +476,119 @@ http://rtmp.one.by:1300
 #EXTINF:-1,Первый музыкальный
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
++++
+#EXTINF:-1,Europa Plus TV
+#EXTGRP:Музыка
+http://stream.mcquack.net/184/index.m3u8
 
+#EXTINF:-1,Bridge TV
+#EXTGRP:Музыка
+http://stream.mcquack.net/318/index.m3u8
+
+#EXTINF:-1,Bridge Classic
+#EXTGRP:Музыка
+http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
+
+#EXTINF:-1,Bridge Classic
+#EXTGRP:Музыка
+http://stream.mcquack.net/272/index.m3u8
+
+#EXTINF:-1,Bridge Deluxe
+#EXTGRP:Музыка
+http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
+
+#EXTINF:-1,Bridge Deluxe
+#EXTGRP:Музыка
+http://stream.mcquack.net/92/index.m3u8
+
+#EXTINF:-1,Bridge Русский Хит
+#EXTGRP:Музыка
+http://stream.mcquack.net/320/index.m3u8
+
+#EXTINF:-1,FON Music
+#EXTGRP:Музыка
+http://stream.mcquack.net/317/index.m3u8
+
+#EXTINF:-1,Music Box Russia
+#EXTGRP:Музыка
+http://stream.mcquack.net/319/index.m3u8
+
+#EXTINF:-1,Первый музыкальный 
+#EXTGRP:Музыка
+https://s1.iptv-24.net/1201/index.m3u8
+
+#EXTINF:-1,МУЗ-ТВ
+#EXTGRP:Музыка
+http://stream.mcquack.net/86/index.m3u8
+
+#EXTINF:-1,РУ ТВ
+#EXTGRP:Музыка
+https://s1.iptv-24.net/1202/index.m3u8
+
+#EXTINF:-1,РУ ТВ
+#EXTGRP:Музыка
+http://stream.mcquack.net/109/index.m3u8
+
+#EXTINF:-1,Музыка
+#EXTGRP:Музыка
+https://s1.iptv-24.net/1238/index.m3u8
+
+#EXTINF:-1,Музыка Первого
+#EXTGRP:Музыка
+http://stream.mcquack.net/153/index.m3u8
+
+#EXTINF:-1,Жара
+#EXTGRP:Музыка
+http://stream.mcquack.net/386/index.m3u8
+
+#EXTINF:-1,Музыка Live
+#EXTGRP:Музыка
+http://stream.mcquack.net/303/index.m3u8
+
+#EXTINF:-1,Fashion & Lifestyle HD
+#EXTGRP:Музыка
+http://stream.mcquack.net/119/index.m3u8
+
+#EXTINF:-1,Fashion
+#EXTGRP:Музыка
+http://stream.mcquack.net/287/index.m3u8
+
+#EXTINF:-1,Fashion
+#EXTGRP:Музыка
+http://stream.mcquack.net/288/index.m3u8
+
+#EXTINF:-1,InRating
+#EXTGRP:Музыка
+http://stream.mcquack.net/147/index.m3u8
+
+#EXTINF:-1,Stingray iConcerts HD DE
+#EXTGRP:Музыка
+http://stream.mcquack.net/267/index.m3u8
+
+#EXTINF:-1,4ever Music
+#EXTGRP:Музыка
+http://stream.mcquack.net/257/index.m3u8
+
+#EXTINF:-1,EU MUSIC UA
+#EXTGRP:Музыка
+http://stream.mcquack.net/261/index.m3u8
+
+#EXTINF:-1,Музвар
+#EXTGRP:Музыка
+http://stream.mcquack.net/467/index.m3u8
+
+#EXTINF:-1,Mezzo Live HD
+#EXTGRP:Музыка
+http://stream.mcquack.net/276/index.m3u8
+
+#EXTINF:-1,Black
+#EXTGRP:Музыка
+http://stream.mcquack.net/283/index.m3u8
+
+Viva latino
+#EXTGRP:Музыка
+http://stream.mcquack.net/285/index.m3u8
++
 #EXTINF:-1,DeeJay TV
 #EXTGRP:Музыка
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
