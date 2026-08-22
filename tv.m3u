@@ -445,6 +445,14 @@ https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTGRP:Музыка
 https://cloud.tvomix.com/TVOMIX/index.m3u8
 
+#EXTINF:-1,Europa Plus TV
+#EXTGRP:Музыка
+http://stream.mcquack.net/184/index.m3u8
+
+#EXTINF:-1,Bridge TV
+#EXTGRP:Музыка
+http://stream.mcquack.net/318/index.m3u8
+
 #EXTINF:-1,Bridge Fresh HD
 #EXTGRP:Музыка
 http://195.158.223.132:8004/Bridge_Fresh
@@ -457,9 +465,29 @@ http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 
+#EXTINF:-1,Bridge Classic
+#EXTGRP:Музыка
+http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
+
+#EXTINF:-1,Bridge Classic
+#EXTGRP:Музыка
+http://stream.mcquack.net/272/index.m3u8
+
 #EXTINF:-1,BRIDGE Deluxe
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
+
+#EXTINF:-1,Bridge Deluxe
+#EXTGRP:Музыка
+http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
+
+#EXTINF:-1,Bridge Deluxe
+#EXTGRP:Музыка
+http://stream.mcquack.net/92/index.m3u8
+
+#EXTINF:-1,Bridge Русский Хит
+#EXTGRP:Музыка
+http://stream.mcquack.net/320/index.m3u8
 
 #EXTINF:-1,Deluxe Music FHD DE
 #EXTGRP:Музыка
@@ -476,34 +504,6 @@ http://rtmp.one.by:1300
 #EXTINF:-1,Первый музыкальный
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
-+++
-#EXTINF:-1,Europa Plus TV
-#EXTGRP:Музыка
-http://stream.mcquack.net/184/index.m3u8
-
-#EXTINF:-1,Bridge TV
-#EXTGRP:Музыка
-http://stream.mcquack.net/318/index.m3u8
-
-#EXTINF:-1,Bridge Classic
-#EXTGRP:Музыка
-http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
-
-#EXTINF:-1,Bridge Classic
-#EXTGRP:Музыка
-http://stream.mcquack.net/272/index.m3u8
-
-#EXTINF:-1,Bridge Deluxe
-#EXTGRP:Музыка
-http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
-
-#EXTINF:-1,Bridge Deluxe
-#EXTGRP:Музыка
-http://stream.mcquack.net/92/index.m3u8
-
-#EXTINF:-1,Bridge Русский Хит
-#EXTGRP:Музыка
-http://stream.mcquack.net/320/index.m3u8
 
 #EXTINF:-1,FON Music
 #EXTGRP:Музыка
@@ -581,14 +581,14 @@ http://stream.mcquack.net/467/index.m3u8
 #EXTGRP:Музыка
 http://stream.mcquack.net/276/index.m3u8
 
-#EXTINF:-1,Black
+#EXTINF:-1,Black Music
 #EXTGRP:Музыка
 http://stream.mcquack.net/283/index.m3u8
 
 Viva latino
 #EXTGRP:Музыка
 http://stream.mcquack.net/285/index.m3u8
-+
+
 #EXTINF:-1,DeeJay TV
 #EXTGRP:Музыка
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -601,7 +601,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTGRP:Музыка
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 
-#EXTINF:-1 tvg-id="ArabicaTV.lb@SD" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Музыка",Arabica TV
+#EXTINF:-1 tvg-id="ArabicaTV.lb@SD" tvg-logo="https://www.pngitem.com/pimgs/m/537-5370531_music-logo-design-png-transparent-png.png" group-title="Музыка",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1,Первый космический HD
